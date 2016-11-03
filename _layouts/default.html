@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+  <div class="container">
+    {% include header.html %}
+
+    <div class="seven columns offset-by-one" id="content-column">
+    <div id="content">
+      {{ content }}
+    </div>
+    </div>
+
+  </div>
+  </body>
+
+</html>

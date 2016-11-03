@@ -1,0 +1,46 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
+active_tab: blog
+---
+
+<div class="home">
+
+  <div class="post-list">
+    {% for post in paginator.posts %}
+    <article class="post">
+      <header class="post-header">
+        <h1 class="post-title">{{ post.title | escape }}</h1>
+        <p class="post-meta"><time>{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %}<br>by {{ post.author }}{% endif %}</p>
+      </header>
+
+      <div class="post-content">
+        {{ post.excerpt }}
+
+        <p>
+          <a class="post-link" href="{{ post.url | relative_url }}">Continue reading →</a>
+        </p>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">« Previous</a>
+    {% else %}
+      <span class="previous">« Previous</span>
+    {% endif %}
+    |
+    <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    |
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next »</a>
+    {% else %}
+      <span class="next ">Next »</span>
+    {% endif %}
+  </div>
+
+</div>

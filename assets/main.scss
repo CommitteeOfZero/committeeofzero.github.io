@@ -1,0 +1,234 @@
+---
+# Needs front matter to be compiled
+---
+@import "skeleton/loader";
+
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+}
+
+$vertical-spacing: 16px;
+$menu-font: Tahoma, 'Lucida Grande', Geneva, Verdana, sans-serif;
+
+#menu-column {
+	@media only screen and (min-width: $tablet-width) {
+		text-align: right;
+
+
+		.site-logo {
+			width: 100%;
+			height: auto;
+			background: $background-color;
+			padding: ($vertical-spacing * 2) 0px 0px 16px;
+
+			img {
+				width: 100%;
+			}
+		}
+
+		.menu-title {
+			@include reset-box-model;
+			@include font-size(13);
+			font-weight: bold;
+			padding-right: 0px;
+			margin: $vertical-spacing 0px $vertical-spacing 0px;
+		}
+
+		nav {
+			font-family: $menu-font;
+			@include font-size(11);
+			font-weight: bold;
+
+			ul {
+				list-style: none;
+				@include reset-box-model;
+
+				li {
+					@include clearfix;
+					@include reset-box-model;
+
+					a {
+						background: $background-color;
+						margin: 0;
+						padding: ($vertical-spacing / 4) 8px ($vertical-spacing / 4) 8px;
+						display: block;
+						color: $font-color;
+						text-decoration: none;
+					}
+
+					&:hover a, &.selected a {
+						background: $font-color;
+						color: $background-color;
+					}
+
+					a:before {
+						float: left;
+						content: "» ";
+					}
+				}
+			}
+		}
+
+		.social-icons {
+			padding-right: 8px;
+
+			a {
+				display: inline-block;
+				height: 32px;
+				width: 32px;
+
+				img {
+					width: 16px;
+					height: 16px;
+					margin: $vertical-spacing 0px $vertical-spacing 16px;
+          fill: currentColor;
+				}
+			}
+		}
+	}
+
+	@media only screen and (max-width: $tablet-width - 1) {
+		@include reset-box-model;
+		width: 100%;
+
+		.site-logo {
+			width: 32px;
+			height: auto;
+			margin: 12px 12px 0px 12px;
+			display: inline-block;
+			background: $background-color;
+
+			img {
+				width: 100%;
+			}
+		}
+
+		.menu-title {
+			display: inline-block;
+			vertical-align: top;
+			margin: 12px 0px 0px 0px;
+			font-weight: bold;
+			font-family: $menu-font;
+			@include font-size(16);
+		}
+
+		.social-icons {
+			@include reset-box-model;
+			position: absolute;
+			top: 12px;
+			right: 12px;
+
+			a {
+				display: inline-block;
+
+				img {
+					width: 20px;
+					height: 20px;
+					margin: 0px 0px 0px 16px;
+				}
+			}
+		}
+
+		nav {
+			width: 100%;
+			font-weight: bold;
+			font-family: $menu-font;
+			@include font-size(14);
+			ul {
+				@include reset-box-model;
+				list-style: none;
+				border-bottom: 1px solid $font-color;
+				vertical-align: bottom;
+				li {
+					@include reset-box-model;
+					display: inline-block;
+					padding-left: 16px;
+					padding-right: 16px;
+					padding-top: 8px;
+					padding-bottom: 8px;
+
+					a {
+						color: $font-color;
+						text-decoration: none;
+					}
+
+					&.selected, &:hover {
+						background-color: $font-color;
+
+						a {
+							color: $background-color;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+#content-column {
+	// not explicitly setting this again gives us text-size-adjust issues
+	font-size: $font-size;
+	@media only screen and (max-width: $tablet-width - 1) {
+		@include reset-box-model;
+		padding-left: 16px;
+		padding-right: 16px;
+		width: 100%;
+	}
+
+	#content {
+		@include reset-box-model;
+		@media only screen and (min-width: $tablet-width) {
+			margin-top: $vertical-spacing * 2;
+		}
+		@media only screen and (max-width: $tablet-width - 1) {
+			margin-top: $vertical-spacing;
+		}
+
+		h1, h2, h3, h4, h5, h6,
+		p, blockquote, pre,
+		ul, ol, dl, figure,{
+      margin-top: $vertical-spacing;
+			margin-bottom: $vertical-spacing;
+		}
+
+		h1, h2 {
+			@include font-size(18);
+		}
+
+		h3, h4, h5, h6 {
+			@include font-size(14);
+		}
+
+    code {
+      background: $background-color;
+      color: $font-color;
+      border: 1px solid $font-color;
+      border-radius: 0;
+    }
+
+    .post-header {
+      @include clearfix;
+
+      .post-title {
+        @include reset-box-model;
+        display: inline;
+        float: left;
+      }
+
+      .post-meta {
+        @include reset-box-model;
+        display: inline;
+        float: right;
+        text-align: right;
+        font-weight: bold;
+        font-family: $menu-font;
+        @include font-size(10);
+      }
+    }
+
+	}
+}

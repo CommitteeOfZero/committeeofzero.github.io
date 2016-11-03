@@ -1,0 +1,20 @@
+// Colors
+$background-color: #111;
+$font-color: #fff;
+$heading-color: $font-color;
+$link-color: $font-color;
+$link-hover: $font-color;
+
+// Typography
+$font-size: 12px;
+$font-family: 'Lucida Grande', Tahoma, Geneva, Verdana, sans-serif;
+$heading-family: $font-family;
+$heading-weight: 600;
+$form-font: $font-family;
+
+// Layout
+$grid-max-width: 800px;
+$base-col-count: 10;
+$base-width: if($is-fluid, 100%, ($base-col-width + $base-gutter-width) * $base-col-count); // recalculate this
+$use-global-border-box: true;
+$new-grid-width: 90%;

@@ -1,0 +1,6 @@
+[submodule "_sass/vendor/normalize-scss"]
+	path = _sass/vendor/normalize-scss
+	url = git://github.com/JohnAlbin/normalize-scss.git
+[submodule "_sass/vendor/skeleton-sass"]
+	path = _sass/vendor/skeleton-sass
+	url = git://github.com/atomicpages/skeleton-sass.git

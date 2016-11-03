@@ -1,0 +1,10 @@
+@import "../vendor/normalize-scss/sass/normalize/import-now"; // import normalize-scss
+@import "../vendor/skeleton-sass/skeleton/core/config"; // Skeleton Sass core loader
+
+// import default theme variables
+@import "../vendor/skeleton-sass/skeleton/themes/fresh/vars"; // theme variable overrides
+@import "vars"; // custom theme overrides
+
+// import default theme styles
+@import "../vendor/skeleton-sass/skeleton/themes/fresh/base"; // theme base styles
+@import "../vendor/skeleton-sass/skeleton/themes/fresh/skeleton"; // theme grid styles
