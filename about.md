@@ -5,10 +5,8 @@ permalink: /about/
 active_tab: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Imagine, if you will, a world where information flows freely without limits. A world where words, ideas, entertainment, and culture can be spread and understood by all, without barriers imposed by country or language...
 
-You can find the source code for the Jekyll new theme at:
-[minima](https://github.com/jekyll/minima)
+If a world like that existed, maybe then people would be able to enjoy Japanese visual novels without having to wait like twelve eternities for a translation.
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Unfortunately, it doesn't. And that's where we come in.
