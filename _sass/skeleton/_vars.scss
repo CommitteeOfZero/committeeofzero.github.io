@@ -13,7 +13,7 @@ $heading-weight: 600;
 $form-font: $font-family;
 
 // Layout
-$grid-max-width: 800px;
+$grid-max-width: 880px;
 $base-col-count: 10;
 $base-width: if($is-fluid, 100%, ($base-col-width + $base-gutter-width) * $base-col-count); // recalculate this
 $use-global-border-box: true;
