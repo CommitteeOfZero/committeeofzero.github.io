@@ -199,12 +199,21 @@ $menu-font: Tahoma, 'Lucida Grande', Geneva, Verdana, sans-serif;
       margin-bottom: $vertical-spacing;
     }
 
-    h1, h2 {
+    h1 {
       @include font-size(18);
     }
 
-    h3, h4, h5, h6 {
+    h2 {
+      @include font-size(16);
+    }
+
+    h3, h4 {
       @include font-size(14);
+    }
+
+    h5, h6 {
+      font-size: $font-size;
+      font-weight: bold;
     }
 
     code {
