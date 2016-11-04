@@ -8,11 +8,10 @@ use_content_for_description: true
 
 Imagine, if you will, a world where information flows freely without limits. A world where words, ideas, entertainment, and culture can be spread and understood by all, without barriers imposed by country or language...
 
-If a world like that existed, maybe then people would be able to enjoy Japanese visual novels without having to wait like twelve years for a port or translation.
+If a world like that existed, maybe then people everywhere would be able to enjoy Japanese visual novels without having to wait like twelve years for a port or translation.
 
 Unfortunately, it doesn't. And that's where we come in.
 
-<!-- more -->
 <h3>OUR PURPOSE</h3>
 
 We, The Committee of Zero, exist for the purpose of opening the metaphorical "gate" that separates entertainment of the West and of the East, so that those of the English-speaking world may feast. To put that in a way that won't make your eyes melt from the chuunibyou, we translate/port/patch/otherwise modify visual novels from Japan so that English speakers can enjoy them.
