@@ -12,10 +12,10 @@ If a world like that existed, maybe then people everywhere would be able to enjo
 
 Unfortunately, it doesn't. And that's where we come in.
 
-<h3>OUR PURPOSE</h3>
+## Our purpose
 
 We, The Committee of Zero, exist for the purpose of opening the metaphorical "gate" that separates entertainment of the West and of the East, so that those of the English-speaking world may feast. To put that in a way that won't make your eyes melt from the chuunibyou, we translate/port/patch/otherwise modify visual novels from Japan so that English speakers can enjoy them.
 
 Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which consists of a great range of titles including the reason you're probably all here, Steins;Gate. However, we intend on bringing as many of them to the English speaking world as we can, so stay tuned for that after we finish our current projects.
 
-<h4>E-mail us with queries, suggestions, requests and applications at: sonome@dareno.me</h4>
+**E-mail us with queries, suggestions, requests and applications at: [sonome@dareno.me](mailto:sonome@dareno.me)**
