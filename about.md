@@ -17,9 +17,4 @@ We, The Committee of Zero, exist for the purpose of opening the metaphorical "ga
 
 Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which consists of a great range of titles including the reason you're probably all here, Steins;Gate. However, we intend on bringing as many of them to the English speaking world as we can, so stay tuned for that after we finish our current projects.
 
-
-<h3>CURRENTLY LOOKING FOR TRANSLATION TALENT!</h3>
-
-If you think you have the skills to translate visual novels to English, but haven't because you don't have the means to actually insert the translations into the VNs, look no further. We sure as hell have those means, and are happy to provide them to anyone who wishes to help our cause.
-
 <h4>E-mail us with queries, suggestions, requests and applications at: sonome@dareno.me</h4>
