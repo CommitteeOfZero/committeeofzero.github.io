@@ -22,4 +22,4 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 
 If you think you have the skills to translate visual novels to English, but haven't because you don't have the means to actually insert the translations into the VNs, look no further. We sure as hell have those means, and are happy to provide them to anyone who wishes to help our cause.
 
-<h2>E-mail us with queries, suggestions, requests and applications at: sonome@dareno.me</h2>
+<h4>E-mail us with queries, suggestions, requests and applications at: sonome@dareno.me</h4>
