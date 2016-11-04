@@ -1,4 +1,4 @@
-<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# website: http://ogp.me/ns/website#">
+<head prefix="og: http://ogp.me/ns# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# website: http://ogp.me/ns/website#">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,11 +30,9 @@
   <meta name="twitter:image" content="{{ "/og-small.png" | absolute_url }}">
 
   {% if page.title %}
-    <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ page.title }}" />
-  {% else %}
-    <meta property="og:type" content="website" />
   {% endif %}
+  <meta property="og:type" content="object" />
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
   {% if page.date %}
