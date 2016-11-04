@@ -4,9 +4,9 @@
   </div>
   <div class="menu-title">{{ site.title | escape }}</div>
   <nav><ul><li{% if page.active_tab == 'blog' %} class="selected"{% endif %}><a href="{{ "/" | relative_url }}">Blog</a></li><li{% if page.active_tab == 'about' %} class="selected"{% endif %}><a href="{{ "/about" | relative_url }}">About</a></li><li{% if page.active_tab == 'projects' %} class="selected"{% endif %}><a href="{{ "/projects" | relative_url }}">Projects</a></li></ul></nav>
-  <div class="social-icons">
-    <a href="https://twitter.com/CommitteeOf0"><img src="{{ "/assets/icon-twitter.svg" | relative_url }}"></img></a>
-    <a href="https://github.com/CommitteeOfZero"><img src="{{ "/assets/icon-github.svg" | relative_url }}"></img></a>
-    <a href="{{ "/feed.xml" | relative_url }}"><img src="{{ "/assets/icon-rss.svg" | relative_url }}"></img></a>
+  <div class="soc-icons">
+    <a href="https://twitter.com/CommitteeOf0"><img src="{{ "/assets/soc-icon-twt.svg" | relative_url }}"></img></a>
+    <a href="https://github.com/CommitteeOfZero"><img src="{{ "/assets/soc-icon-gh.svg" | relative_url }}"></img></a>
+    <a href="{{ "/feed.xml" | relative_url }}"><img src="{{ "/assets/soc-icon-feed.svg" | relative_url }}"></img></a>
   </div>
 </div>

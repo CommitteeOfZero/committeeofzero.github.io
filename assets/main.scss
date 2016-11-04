@@ -77,7 +77,7 @@ $menu-font: Tahoma, 'Lucida Grande', Geneva, Verdana, sans-serif;
       }
     }
 
-    .social-icons {
+    .soc-icons {
       padding-right: 8px;
 
       a {
@@ -120,7 +120,7 @@ $menu-font: Tahoma, 'Lucida Grande', Geneva, Verdana, sans-serif;
       @include font-size(16);
     }
 
-    .social-icons {
+    .soc-icons {
       @include reset-box-model;
       position: absolute;
       top: 12px;
