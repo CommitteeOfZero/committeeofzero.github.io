@@ -5,9 +5,9 @@ permalink: /projects/
 active_tab: projects
 ---
 
-**Our releases:**
+**Games we've worked on:**
 
-* [STEINS;GATE Steam improvement patch](http://placeholder)
+* [STEINS;GATE on Steam](http://placeholder) - we cleaned it up
 * [REDACTED]
 * [EXPUNGED]
 
