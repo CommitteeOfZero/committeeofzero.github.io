@@ -18,6 +18,10 @@ $menu-font: Tahoma, 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, san
   padding: 0;
 }
 
+body {
+  margin-bottom: 2 * $vertical-spacing;
+}
+
 #menu-column {
   @media only screen and (min-width: $tablet-width) {
     text-align: right;
