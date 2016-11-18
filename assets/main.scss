@@ -36,7 +36,7 @@ $menu-font: Tahoma, 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, san
 
     .menu-title {
       @include reset-box-model;
-      @include font-size(13);
+      @include font-size(14);
       font-weight: bold;
       padding-right: 0px;
       margin: $vertical-spacing 0px $vertical-spacing 0px;
@@ -44,7 +44,7 @@ $menu-font: Tahoma, 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, san
 
     nav {
       font-family: $menu-font;
-      @include font-size(11);
+      @include font-size(12);
       font-weight: bold;
 
       ul {
@@ -200,20 +200,24 @@ $menu-font: Tahoma, 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, san
     }
 
     h1 {
-      @include font-size(18);
+      @include font-size(20);
     }
 
     h2 {
-      @include font-size(16);
+      @include font-size(18);
     }
 
     h3, h4 {
-      @include font-size(14);
+      @include font-size(16);
     }
 
     h5, h6 {
-      font-size: $font-size;
+      @include font-size(14);
       font-weight: bold;
+    }
+
+    li {
+      margin-bottom: 0.7rem;
     }
 
     code {
@@ -239,7 +243,7 @@ $menu-font: Tahoma, 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, san
         text-align: right;
         font-weight: bold;
         font-family: $menu-font;
-        @include font-size(10);
+        @include font-size(12);
       }
     }
 
