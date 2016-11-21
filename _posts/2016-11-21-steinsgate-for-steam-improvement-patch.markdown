@@ -10,6 +10,8 @@ Greetings and salutations, lab mems and gigalomaniacs. We're guessing since you'
 
 <div style="border: 1px solid #fff; padding: 8px;">You can <a href="https://github.com/CommitteeOfZero/sghd-patch/releases">↓ download the patch here</a>. Installation instructions are <a href="#installation">below</a>.</div>
 
+For support, we have a [Steam forums thread](http://steamcommunity.com/app/412830/discussions/0/215439774868934160/). [Our Discord](https://discord.gg/rq4GGCh) is also always open.
+
 This was just a side project of a side project. Stay tuned, you'll be hearing again from us soon.
 
 **We're currently looking for a translator!** Please take a look at [our recruitment post]({% post_url 2016-11-21-chaoshead-noah-looking-for-translators %}) if you think you can help.
