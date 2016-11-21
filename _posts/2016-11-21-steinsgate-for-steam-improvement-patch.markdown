@@ -8,7 +8,7 @@ date: 2016-11-21 01:04:37 +0100
 
 Greetings and salutations, lab mems and gigalomaniacs. We're guessing since you're here, you must have heard of the recent(ish) release of [STEINS;GATE on Steam](http://store.steampowered.com/app/412830/). We also assume you know it has several significant flaws which made playing it uncomfortable. We set out to fix those flaws, improve upon the release and make this the best version of STEINS;GATE out there.
 
-You can ↓ [download the patch here](https://github.com/CommitteeOfZero/sghd-patch/releases). Installation instructions are [below](#installation).
+<div style="border: 1px solid #fff; padding: 8px;">You can ↓ <a href="https://github.com/CommitteeOfZero/sghd-patch/releases">download the patch here</a>. Installation instructions are <a href="#installation">below</a>.</div>
 
 This was just a side project of a side project. Stay tuned, you'll be hearing again from us soon.
 
