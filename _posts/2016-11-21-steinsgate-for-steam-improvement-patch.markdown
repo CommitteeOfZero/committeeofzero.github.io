@@ -16,6 +16,14 @@ This was just a side project of a side project. Stay tuned, you'll be hearing ag
 
 **We're currently looking for a translator!** Please take a look at [our recruitment post]({% post_url 2016-11-21-chaoshead-noah-looking-for-translators %}) if you think you can help.
 
+# Changelog
+
+##### Version 1.01 *(Nov 21, 2016)*
+* Fixed crash relating to HQ Audio functionality.
+
+##### Version 1.00 *(Nov 21, 2016)*
+Initial release.
+
 # Features
 Here's the full list of improvements. Each can be turned on and off individually, if you like.
 
