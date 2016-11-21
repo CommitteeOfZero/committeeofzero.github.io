@@ -11,7 +11,7 @@ active_tab: projects
 
 #### Work in progress
 
-* [REDACTED]
+* CHAOS;HEAD NOAH Fan Translation
 * [EXPUNGED]
 
 #### Supporting technology
