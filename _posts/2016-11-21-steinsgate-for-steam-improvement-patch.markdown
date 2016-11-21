@@ -8,7 +8,7 @@ date: 2016-11-21 01:04:37 +0100
 
 Greetings and salutations, lab mems and gigalomaniacs. We're guessing since you're here, you must have heard of the recent(ish) release of [STEINS;GATE on Steam](http://store.steampowered.com/app/412830/). We also assume you know it has several significant flaws which made playing it uncomfortable. We set out to fix those flaws, improve upon the release and make this the best version of STEINS;GATE out there.
 
-↓ You can [download the patch here](https://github.com/CommitteeOfZero/sghd-patch/releases). Installation instructions are [below](#installation).
+You can ↓ [download the patch here](https://github.com/CommitteeOfZero/sghd-patch/releases). Installation instructions are [below](#installation).
 
 This was just a side project of a side project. Stay tuned, you'll be hearing again from us soon.
 
@@ -47,7 +47,7 @@ Adds subtitles to some translated videos, allowing you to use the high-quality J
 # <a name="installation"></a>Installation instructions
 This patch is for the English Steam version of STEINS;GATE. The JAST release, Steam version set to Japanese and pirated copies are not supported.
 
-1. **↓ Download [the patch](https://github.com/CommitteeOfZero/sghd-patch/releases).**
+1. **↓ [Download the patch](https://github.com/CommitteeOfZero/sghd-patch/releases).**
 2. Go to your STEINS;GATE installation folder. By default this is `C:\Program Files (x86)\Steam\SteamApps\common\STEINS;GATE`.
    * In case you installed the game to a different Steam library folder and need help finding it: Right click *STEINS;GATE* in your Steam library, go to *Properties*, *Local Files*, *Browse Local Files...*
 3. Open the patch archive you just downloaded.
