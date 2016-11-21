@@ -20,6 +20,9 @@ description: >
 
 paginate: 5
 
+# remove this when pushing to github pages
+# url: "http://temp.dareno.me"
+
 defaults:
   -
     scope:

@@ -7,7 +7,7 @@ active_tab: projects
 
 #### Completed releases
 
-* [STEINS;GATE Steam improvement patch](http://placeholder)
+* [STEINS;GATE Steam improvement patch]({{ "/projects/sghd.html" | relative_url }})
 
 #### Work in progress
 

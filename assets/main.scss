@@ -238,6 +238,10 @@ body {
         @include reset-box-model;
         display: inline;
         float: left;
+
+        a {
+          text-decoration: none;
+        }
       }
 
       .post-meta {

@@ -16,6 +16,22 @@ Unfortunately, it doesn't. And that's where we come in.
 
 We, The Committee of Zero, exist for the purpose of opening the metaphorical "gate" that separates entertainment of the West and of the East, so that those of the English-speaking world may feast. To put that in a way that won't make your eyes melt from the chuunibyou, we translate/port/patch/otherwise modify visual novels from Japan so that English speakers can enjoy them.
 
-Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which consists of a great range of titles including the reason you're probably all here, Steins;Gate. However, we intend on bringing as many of them to the English speaking world as we can, so stay tuned for that after we finish our current projects.
+Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which consists of a great range of titles including the reason you're probably all here, STEINS;GATE. However, we intend on bringing as many of them to the English speaking world as we can, so stay tuned for that after we finish our current projects.
 
 **E-mail us with queries, suggestions, requests and applications at: [sonome@dareno.me](mailto:sonome@dareno.me)**
+
+**Or join [our Discord](https://discord.gg/rq4GGCh)!**
+
+## Members
+
+* **[DrDaxxy](https://twitter.com/DrDaxxy)**: Lead Developer / Reverse Engineer / Website Dev
+* **[SomeAnon](https://twitter.com/SomeAnonDev)**: Tooling Developer / Reverse Engineer
+* **[zahj](mailto:zahj@dareno.me)**: Translator / Karaoke Subtitles
+* **[SnowedEarth](https://twitter.com/SnowedEarth)**: TLC / Karaoke Subtitles
+* **[Kumin](mailto:kumin@dareno.me)**: Lead Editor / Website Writer
+* **[Discontinuous Qualia](https://twitter.com/DiscontinuousQ)**: Editor / PR / Professional Chuunibyou
+* **[Gel Banana](https://twitter.com/ILoveReol)**: QC
+* **[darksoulflame ("Radio")](https://twitter.com/darksoulflame)**: QC
+* **[Davixxa](https://twitter.com/DavixxaYT)**: Botmaster / Resident Slacker
+* **[Cypert](https://twitter.com/CypertSystem)**: CG Editor / Subtitles
+* **[Raniel](mailto:raniel@dareno.me)**: Lead PR <small>/ resident shitposter</small>
