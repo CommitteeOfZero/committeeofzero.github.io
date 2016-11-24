@@ -35,3 +35,5 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[Davixxa](https://twitter.com/DavixxaYT)**: Botmaster / Resident Slacker
 * **[Cypert](https://twitter.com/CypertSystem)**: CG Editor / Subtitles
 * **[Raniel](mailto:raniel@dareno.me)**: Lead PR <small>/ resident shitposter</small>
+
+Keep in mind that this list does not include everyone in the Committee of Zero. We have many members, including those who have done... zero work.
