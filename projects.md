@@ -12,7 +12,7 @@ active_tab: projects
 #### Work in progress
 
 * CHAOS;HEAD NOAH Fan Translation
-* [EXPUNGED]
+* STEINS;GATE 0 Translation PC port - Soon™
 
 #### Supporting technology
 
