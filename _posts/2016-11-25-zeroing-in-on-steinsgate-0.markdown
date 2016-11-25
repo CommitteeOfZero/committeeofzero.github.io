@@ -10,4 +10,4 @@ Indeed, the patch that everyone already knew we were making is, in fact, getting
 
 Keep in mind that this project isn't as simple as porting the translated scripts to the PC version. For example, we plan on translating most of the CGs, given that only the most vital ones were translated in the PQube release. This is all going to take time, so we won't have the patch done right away. It shouldn't take nearly long as the patch for STEINS;GATE on Steam did, though.
 
-One last thing - we cannot (and do not wish to) give out any copies of the game or translation. You'll need to own the translated Vita version and the Japanese PC version to use this patch. The Committee of Zero does not support piracy.
+One last thing - we cannot (and do not wish to) give out any copies of the game or translation. The patch will combine the translated Vita version with the Japanese PC version, so you'll need to own both. The Committee of Zero does not support piracy.
