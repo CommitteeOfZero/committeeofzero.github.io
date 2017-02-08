@@ -18,6 +18,9 @@ This was just a side project of a side project. Stay tuned, you'll be hearing ag
 
 # Changelog
 
+##### Version 1.02 *(Feb 8, 2017)*
+* Fixed an issue where saving to file 38 would corrupt the outline texture, causing black boxes to be drawn above hyphens.
+
 ##### Version 1.01 *(Nov 21, 2016)*
 * Fixed crash relating to HQ Audio functionality.
 
