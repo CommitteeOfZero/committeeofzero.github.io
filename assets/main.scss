@@ -224,6 +224,11 @@ body {
       margin-bottom: 0.7rem;
     }
 
+    li > p:first-child {
+      display: inline-block;
+      margin: 0 !important;
+    }
+
     code {
       background: $background-color;
       color: $font-color;
