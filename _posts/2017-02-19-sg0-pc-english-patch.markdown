@@ -11,9 +11,13 @@ We had planned to send it back to the past to release it on time, but then CERN 
 
 This patch inserts the official English translation of STEINS;GATE 0 into the Japanese PC version while addressing various shortcomings and making a number of improvements to both the translation and the base game. See [below](#features) for a full list of features.
 
-You are required to **own the PC version of the game as well as the decrypted, unmodified scripts of the English Vita version**. These can be extracted using a **Vita or PSTV on firmware 3.60** (lower versions can be upgraded to that, but downgrades are not possible). Modified scripts from pirate copies able to run the game on firmware 3.60 are not compatible.
+<div style="border: 1px solid #fff; padding: 8px;">
+Download link and instructions are <a href="#guides">↓ below</a>.
 
-Both the physical and digital English Vita versions can be used, but getting the digital version *onto* your 3.60 device currently requires a PS3 or a second, latest firmware Vita.
+<p>You are required to <b>own the PC version of the game as well as the decrypted, unmodified scripts of the English Vita version</b>. These can be extracted using a <b>Vita or PSTV on firmware 3.60</b> (lower versions can be upgraded to that, but downgrades are not possible). Modified scripts from pirate copies able to run the game on firmware 3.60 are not compatible.</p>
+
+Both the physical and digital English Vita versions can be used, but getting the digital version <i>onto</i> your 3.60 device currently requires a PS3 or a second, latest firmware Vita.
+</div>
 
 You can find guides for buying the Japanese PC version and extracting the necessary data from the English Vita version [below](#guides).
 
