@@ -78,7 +78,7 @@ Can be installed over the Japanese version or other patches without breaking exi
 1. **[↓ Download the installer](https://github.com/CommitteeOfZero/zero-patch/releases).**
 2. Run the installer. **Warning:** Has sound. If the installer doesn't run, install [.NET Framework 4](https://www.microsoft.com/en-us/download/details.aspx?id=17851) and try again.
 3. Point *"Game directory:"* to the PC version's installation directory (containing files such as `Game.exe` and the `USRDIR` folder).
-4. Point *"English Vita scripts:"* to the unencrypted, unmodified `USRDIR\scripts` directory copied from your English Vita version (containing files ending in `.scx`).
+4. Point *"English Vita scripts:"* to the unencrypted, unmodified `USRDIR\script` directory copied from your English Vita version (containing files ending in `.scx`).
 5. *"Create desktop shortcuts"* will create one shortcut for the game launcher and one shortcut to the patch configuration tool.
 6. *"Run configuration tool after installation"* will run said configuration tool when installation finishes. Note you can also run it by starting `LBConfig.exe` inside the game directory after patch installation.
 
