@@ -8,11 +8,11 @@ active_tab: projects
 #### Completed releases
 
 * [STEINS;GATE Steam improvement patch]({{ "/projects/sghd.html" | relative_url }})
+* [STEINS;GATE 0 PC English patch]({{ "/projects/sg0.html" | relative_url }})
 
 #### Work in progress
 
 * CHAOS;HEAD NOAH Fan Translation
-* STEINS;GATE 0 Translation PC port - Soon™
 
 #### Supporting technology
 

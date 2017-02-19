@@ -260,5 +260,39 @@ body {
       }
     }
 
+    .thumb {
+      display: inline-block;
+      margin-right: $vertical-spacing / 2;
+      // account for borders
+      margin-bottom: ($vertical-spacing / 2) + 4;
+
+      figure {
+        position: relative;
+        border: 1px solid $font-color;
+        margin: 0;
+        max-width: 274px;
+        max-height: 274px;
+
+        figcaption {
+          display: inline-block;
+          position: absolute;
+          top: 0px;
+          left: 0px;
+          background-color: rgba(0,0,0,0.75);
+          width: 100%;
+          padding: $vertical-spacing / 3;
+          text-align: center;
+        }
+
+        &:hover figcaption {
+          background-color: black;
+        }
+
+        img {
+          width: 100%;
+        }
+      }
+    }
+
   }
 }
