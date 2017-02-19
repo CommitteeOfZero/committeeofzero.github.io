@@ -21,6 +21,8 @@ Both the physical and digital English Vita versions can be used, but getting the
 
 You can find guides for buying the Japanese PC version and extracting the necessary data from the English Vita version [below](#guides).
 
+[Join us on Discord](https://discord.gg/rq4GGCh) for fun, ~~shitposting~~ and support.
+
 # Screenshots
 
 {% include thumb.html fullsize="/uploads/sg0_typography_rine.png" thumb="/uploads/sg0_typography_rine_thumb.png" caption="Typography/RINE" %}
