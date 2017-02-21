@@ -23,6 +23,10 @@ paginate: 5
 # remove this when pushing to github pages
 # url: "http://temp.dareno.me"
 
+gems:
+  -
+    jekyll-sitemap
+
 defaults:
   -
     scope:
