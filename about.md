@@ -25,9 +25,8 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 ## Members
 
 * **[DrDaxxy](https://twitter.com/DrDaxxy)**: Lead Developer / Reverse Engineer / Website Dev
-* **[SomeAnon](https://twitter.com/SomeAnonDev)**: Tooling Developer / Reverse Engineer
-* **[zahj](mailto:zahj@dareno.me)**: Translator / Karaoke Subtitles
-* **[SnowedEarth](https://twitter.com/SnowedEarth)**: TLC / Karaoke Subtitles
+* **[SomeAnon](https://twitter.com/SomeAnonDev)**: Game Developer / Tooling Developer / Reverse Engineer
+* **[zahj](mailto:zahj@dareno.me)**: Translator / TLC / Karaoke Subtitles
 * **[Kumin](mailto:kumin@dareno.me)**: Lead Editor / Website Writer
 * **[Discontinuous Qualia](https://twitter.com/DiscontinuousQ)**: Editor / PR / Professional Chuunibyou
 * **[Gel Banana](https://twitter.com/ILoveReol)**: QC
@@ -35,5 +34,12 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[Davixxa](https://twitter.com/DavixxaYT)**: Botmaster / Resident Slacker
 * **[Cypert](https://twitter.com/CypertSystem)**: CG Editor / Subtitles
 * **[Raniel](mailto:raniel@dareno.me)**: Lead PR <small>/ resident shitposter</small>
+* **[dusk](https://twitter.com/EpitaxyMeltdown)**: CG Editor (Cleaning / Redrawing)
+* **[ItsRigs](https://twitter.com/Gladiale)**: Lead Translator
+
+### Past members
+
+* **[SnowedEarth](https://twitter.com/SnowedEarth)**: TLC / Karaoke Subtitles
+
 
 Keep in mind that this list does not include everyone in the Committee of Zero. We have many members, including those who have done... zero work.
