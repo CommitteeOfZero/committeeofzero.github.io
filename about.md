@@ -36,6 +36,8 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[Raniel](mailto:raniel@dareno.me)**: Lead PR <small>/ resident shitposter</small>
 * **[dusk](https://twitter.com/EpitaxyMeltdown)**: CG Editor (Cleaning / Redrawing)
 * **[ItsRigs](https://twitter.com/Gladiale)**: Lead Translator
+* **[rimi](#)**: CG Editor
+* **[MrComputerRevo](https://twitter.com/MrComputerRevo)**: Reverse Engineer
 
 ### Past members
 
