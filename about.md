@@ -27,7 +27,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[DrDaxxy](https://twitter.com/DrDaxxy)**: Lead Developer / Reverse Engineer / Website Dev
 * **[SomeAnon](https://twitter.com/SomeAnonDev)**: Game Developer / Tooling Developer / Reverse Engineer
 * **[zahj](mailto:zahj@dareno.me)**: Translator / TLC / Karaoke Subtitles
-* **[Kumin](mailto:kumin@dareno.me)**: Lead Editor / Website Writer
+* **[Kumin](mailto:kumin@dareno.me)**: Lead Editor / PR
 * **[Discontinuous Qualia](https://twitter.com/DiscontinuousQ)**: Editor / PR / Professional Chuunibyou
 * **[Gel Banana](https://twitter.com/ILoveReol)**: QC
 * **[darksoulflame ("Radio")](https://twitter.com/darksoulflame)**: QC
