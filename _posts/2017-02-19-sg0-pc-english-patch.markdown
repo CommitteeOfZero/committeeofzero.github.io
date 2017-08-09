@@ -84,6 +84,10 @@ Can be installed over the Japanese version or other patches without breaking exi
 5. *"Create desktop shortcuts"* will create one shortcut for the game launcher and one shortcut to the patch configuration tool.
 6. *"Run configuration tool after installation"* will run said configuration tool when installation finishes. Note you can also run it by starting `LBConfig.exe` inside the game directory after patch installation.
 
+##### Known issues
+
+If, after installing the patch and starting the game, you get stuck on a loading screen saying *"Checking trophies. Please do not turn off the power."*, download and run [CheckingTrophiesFix.exe](https://github.com/CommitteeOfZero/zero-patch/releases/download/1.00/CheckingTrophiesFix.exe), go to the game's installation directory, then `languagebarrier`, select `enscript.mpk` and click Open.
+
 # Credits
 
 * **Cypert:** Image editing
