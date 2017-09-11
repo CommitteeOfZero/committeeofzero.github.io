@@ -18,6 +18,9 @@ This was just a side project of a side project. Stay tuned, you'll be hearing ag
 
 # Changelog
 
+##### Version 1.03 *(Sep 11, 2017)*
+* Compatibility update for 09/11/2017 game patch.
+
 ##### Version 1.02 *(Feb 8, 2017)*
 * Fixed an issue where saving to file 38 would corrupt the outline texture, causing black boxes to be drawn above hyphens.
 
