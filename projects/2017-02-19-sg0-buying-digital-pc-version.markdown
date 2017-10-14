@@ -35,6 +35,6 @@ In the following guide, do everything labeled "with proxy" while connecting thro
 1. With proxy: [Register](https://www.dmm.com/my/-/register/) on DMM.com.
 2. Without proxy: Login on DMM.com, then [add your credit card](https://www.dmm.com/en/my/-/payment/) or [top up DMM points](https://www.dmm.com/en/my/-/point/balance/). One Point = One Yen, so top up as many as *[STEINS;GATE 0](http://dlsoft.dmm.com/detail/ihobe_0031/)* currently costs.
 3. With proxy: Buy *[STEINS;GATE 0](http://dlsoft.dmm.com/detail/ihobe_0031/)*.
-4. With proxy: Go to [your game library](http://dlsoft.dmm.com/mylibrary/), click *STEINS;GATE 0*. Right click buttons 1, 2 and 3, click "Save Link As..." for each, and save the files to the same folder, not changing the file names.
+4. With proxy: Go to [your game library](http://dlsoft.dmm.com/mylibrary/), click *STEINS;GATE 0*. Right click buttons 1, 2 and 3 as well as the button with the download icon above, click "Save Link As..." for each, and save the files to the same folder, not changing the file names.
 
 [← Back to project page]({{ "/projects/sg0.html" | relative_url }})
