@@ -13,6 +13,7 @@ active_tab: projects
 #### Work in progress
 
 * CHAOS;HEAD NOAH Fan Translation
+* CHAOS;CHILD PC English patch (Soon™)
 
 #### Supporting technology
 
