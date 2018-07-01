@@ -22,6 +22,8 @@ Both the physical and digital English Vita versions can be used, but getting the
 
 You can find guides for buying the Japanese PC version and extracting the necessary data from the English Vita version [below](#guides).
 
+If you want a spoiler-free guide on how to obtain every ending, you can find one [here]({{ "/projects/cc-walkthrough.html" | relative_url }}).
+
 [Join us on Discord](https://discord.gg/rq4GGCh) for fun, ~~shitposting~~ and support.
 
 # Screenshots
@@ -71,6 +73,7 @@ Like STEINS;GATE 0, the PC version of CHAOS;CHILD occasionally crashes for some 
 
 * [How to buy the digital PC version]({{ "/projects/cc-buying-digital-pc-version.html" | relative_url }})
 * [How to extract the English Vita version scripts]({{ "/projects/cc-extracting-english-vita-version-scripts.html" | relative_url }})
+* [100% Spoiler-free Walkthrough]({{ "/projects/cc-walkthrough.html" | relative_url }})
 
 # Installation instructions
 
