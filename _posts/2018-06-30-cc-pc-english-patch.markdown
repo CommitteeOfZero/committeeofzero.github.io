@@ -88,11 +88,48 @@ If you're having a problem not covered here, please [ask us on Discord](https://
 
 **Note:** The game requires the latest **DirectX 9.0c redistributable** (having a higher version of DirectX installed is not sufficient). If the game fails to run for you, [install DirectX 9](https://www.microsoft.com/en-us/download/details.aspx?id=35).
 
+### Game shows a Japanese/gibberish message box titled `Error`
+
+!["Error" error (Japanese)]({{ "/uploads/error_config.jpg" | absolute_url }})
+!["Error" error (Mojibake)]({{ "/uploads/error_config_mojibake.png" | absolute_url }})
+
+This happens when the game cannot open its configuration / save data directory.
+
+Make sure your locale is set to the appropriate locale for your Windows user name (in particular, *do not* run the game in Japanese locale).
+
+If your *Documents* folder is on *OneDrive*, currently the only way to run the game is to move it out (using the appropriate Windows functionality, not simply dragging the folder).
+
+This is a bug in the PC version of the engine we will address in an update soon.
+
+### Game shows an `SdWrap` error
+
+![SdWrap error]({{ "/uploads/error_sdwrap.png" | absolute_url }})
+
+The *title* is important here - in Japanese locale, the message would display correctly, however that's not related to the issue at hand (and using Japanese locale is not required to run the game and can actually cause problems itself).
+
+This happens when the patch installer fails to modify your game executable (most likely because something else on your system was reading `Game.exe` at the time or because you're using antivirus).
+
+1. Browse to the game folder (the *Troubleshooting* tab under *More Settings* in the launcher has a button for this).
+2. Close the launcher.
+3. Close/disable antivirus or anything else that might be preventing `Game.exe` from being modified (rebooting may help).
+4. Delete/move `Game.exe.bak` and `Game.exe.tmp` to prevent the installer from believing `Game.exe` has been successfully patched.
+5. Reinstall the patch (you don't need to uninstall it first).
+
+### Game shows an error about `mgs::Audio::CPlayer::InitializeXaudio()`
+
+![XAudio2 error]({{ "/uploads/error_xaudio.png" | absolute_url }})
+
+Install [DirectX 9.0c](https://www.microsoft.com/en-us/download/details.aspx?id=35) and try again.
+
 ### Installer shows an error about `MSVCP140.dll`
+
+![MSVCP140.dll error]({{ "/uploads/error_vcruntime.png" | absolute_url }})
 
 Install [Visual C++ 2015 Redistributable Update 3](https://www.microsoft.com/en-us/download/details.aspx?id=53587) (32-bit version, `vc_redist.x86.exe` - regardless of your system) and try again.
 
 ### Installer shows an error about `api-ms-win-crt-runtime-l1-1-0.dll`
+
+![UCRT error]({{ "/uploads/error_ucrt.png" | absolute_url }})
 
 Update Windows. You may need to install the Visual C++ 2015 Redistributable Update 3 again afterwards (file above) - use "Repair" when prompted.
 
