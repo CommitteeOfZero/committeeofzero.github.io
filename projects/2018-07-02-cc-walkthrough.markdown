@@ -2,7 +2,6 @@
 title: "CHAOS;CHILD 100% Spoiler-free Walkthrough"
 layout: post
 permalink: "/projects/cc-walkthrough.html"
-date: 2018-07-02 00:22:29 +0100
 excerpt: <p>A 100% walkthrough for Chaos;Child, designed to allow readers to play through in the optimal route order while unlocking every scene, CG, music track, and tip along the way (with the exception of neutral delusion choices and incorrect map answers)</p>
 ---
 
