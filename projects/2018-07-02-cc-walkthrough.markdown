@@ -2,6 +2,7 @@
 title: "CHAOS;CHILD 100% Spoiler-free Walkthrough"
 layout: post
 permalink: "/projects/cc-walkthrough.html"
+date: 2018-07-02 00:00:00 +0100
 excerpt: <p>A 100% walkthrough for Chaos;Child, designed to allow readers to play through in the optimal route order while unlocking every scene, CG, music track, and tip along the way (with the exception of neutral delusion choices and incorrect map answers)</p>
 ---
 
@@ -17,9 +18,9 @@ You need to play the common route first in order to unlock the others. If you wa
 
 # Character Routes
 
-*(Note: route names are omitted to avoid spoilers.)*<br>Recommended route order is *A → 2 → III → Fourth*.<br>However, *A → III → 2 → Fourth* is also acceptable.
+<p><i>(Note: route names are omitted to avoid spoilers.)</i><br>Recommended route order is <i>A → 2 → III → Fourth</i>.<br>However, <i>A → III → 2 → Fourth</i> is also acceptable.</p>
 
-As a general rule, in order to get a certain character's route, you must <u>select positive on all delusions involving that character.</u><br>The following instructions, for the most part, do not specify *exactly* which delusions are necessary to obtain any given route, but following them will still allow one to obtain said route.
+<p>As a general rule, in order to get a certain character's route, you must <u>select positive on all delusions involving that character.</u><br>The following instructions, for the most part, do not specify <i>exactly</i> which delusions are necessary to obtain any given route, but following them will still allow one to obtain said route.</p>
 
 ### Non-specific Route A
 
