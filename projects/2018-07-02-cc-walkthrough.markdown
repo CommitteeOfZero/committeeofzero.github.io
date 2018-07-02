@@ -44,7 +44,7 @@ You need to play the common route first in order to unlock the others. If you wa
 
 # True End
 
-It will be immediately obvious how to obtain this ending once all other routes are complete...
+It will be immediately obvious how to obtain this ending once <u<all other routes are complete</u>...
 
 ---
 
