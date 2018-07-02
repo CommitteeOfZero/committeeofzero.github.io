@@ -17,15 +17,9 @@ You need to play the common route first in order to unlock the others. If you wa
 
 # Character Routes
 
-*(Note: route names are omitted to avoid spoilers.)*
+*(Note: route names are omitted to avoid spoilers.)*<br>Recommended route order is *A → 2 → III → Fourth*.<br>However, *A → III → 2 → Fourth* is also acceptable.
 
-Recommended route order is *A → 2 → III → Fourth*.
-
-However, *A → III → 2 → Fourth* is also acceptable.
-
-As a general rule, in order to get a certain characer’s route, you must <u>select positive on all delusions involving that character. </u>
-
-The following instructions, for the most part, do not specify *exactly* which delusions are necessary to obtain any given route, but following them will still allow one to obtain said route.
+As a general rule, in order to get a certain character's route, you must <u>select positive on all delusions involving that character.</u><br>The following instructions, for the most part, do not specify *exactly* which delusions are necessary to obtain any given route, but following them will still allow one to obtain said route.
 
 ### Non-specific Route A
 
@@ -65,7 +59,7 @@ It will be immediately obvious how to obtain this ending once all other routes a
 
 ### Route 2 Bad End
 
-* Choose <u>any of the wrong answers</u> during route 2’s map trigger section.
+* Choose <u>any of the wrong answers</u> during route 2's map trigger section.
 
 ### Route III Bad End 1
 
@@ -99,7 +93,7 @@ After finishing all of this, there may be remaining delusions that have not yet 
 
 # Credits
 
-* **Original guide**: nishijoutakumi
+* **Original guide**: nishijoutakumi (*@MinamisawaSenri#6611* on Discord)
 * **Route order**: ItsRigs
 * **Editing**: Kumin, Raniel
 
