@@ -41,6 +41,7 @@ Initial release for Steam version.
 * Fixed patch installer not working on certain Windows installations lacking multimedia components.
 * Fixed game engine bug involving *My Documents* paths containing special characters on *OneDrive*. 
   * We haven't checked if the Steam version still has this issue, but both *STEINS;GATE 0* and the Japanese version of *CHAOS;CHILD* did.
+* Worked around game engine bug where, when pausing right before a voiced line, line would fail to play and game would crash on the next voiced line.
 * Fixed the goddamn title music.
   * In 1.0, our HQ audio option had a bug preventing the title screen BGM from playing if the intro video isn't skipped. Sorry about that.
 * Installer now ships as a ZIP archive instead of a self-extracting executable.
