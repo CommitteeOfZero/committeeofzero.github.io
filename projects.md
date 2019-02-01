@@ -9,7 +9,11 @@ active_tab: projects
 
 * [STEINS;GATE Steam improvement patch]({{ "/projects/sghd.html" | relative_url }})
 * [STEINS;GATE 0 PC English patch]({{ "/projects/sg0.html" | relative_url }})
-* [CHAOS;CHILD PC English patch]({{ "/projects/chaoschild.html" | relative_url }})
+* [CHAOS;CHILD Steam patch]({{ "/projects/chaoschild-steam.html" | relative_url }})
+
+#### Outdated
+
+* [CHAOS;CHILD PC English patch]({{ "/projects/chaoschild.html" | relative_url }}) - obsoleted by the [Steam patch]({{ "/projects/chaoschild-steam.html" | relative_url }})
 
 #### Work in progress
 
@@ -17,6 +21,4 @@ active_tab: projects
 
 #### Supporting technology
 
-* [LanguageBarrier](https://github.com/CommitteeOfZero/LanguageBarrier), our generic MAGES. engine game plugin
-* [SciAdv.Net](https://github.com/CommitteeOfZero/SciAdv.Net), tools for dealing with MAGES. engine game assets and more
-* [sghd-patch](https://github.com/CommitteeOfZero/sghd-patch), which ties everything together
+If you're a bad enough nerd, you can find [a listing of the technology we've published here]({{ "/projects/supporting-technology.html" | relative_url }}).

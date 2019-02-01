@@ -9,6 +9,18 @@ excerpt: <p>Guide for extracting the scripts from an English copy of CHAOS;CHILD
 
 [← Back to project page]({{ "/projects/chaoschild.html" | relative_url }})
 
+# Outdated
+
+<div style="border: 1px solid #fff; padding: 8px;">
+<p>This page is for the old version of the <i>CHAOS;CHILD PC English Patch</i> that combined the Vita English scripts with the Japanese PC version.</p>
+
+<p>The current version of our patch works with the official English Steam release and doesn't require any other versions of the game.</p>
+
+<p><a href='{{ "/projects/chaoschild-steam.html" | relative_url }}'>You can find the page about the Steam patch here.</a></p>
+</div>
+
+# Previous contents
+
 This tutorial also applies to the PlayStation TV, but we will use "Vita" from now on for brevity. You may be able to skip some of these steps if you already have homebrew set up on your device.
 
 ##### Required software

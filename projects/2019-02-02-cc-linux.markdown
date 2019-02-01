@@ -1,0 +1,46 @@
+---
+title: "CHAOS;CHILD Steam patch: Installing on Linux"
+layout: page
+permalink: "/projects/cc-linux.html"
+active_tab: projects
+date: 2019-02-02 00:00:00 +0100
+excerpt: <p>Linux installation instructions for the CHAOS;CHILD Steam patch</p>
+---
+
+[← Back to project page]({{ "/projects/chaoschild-steam.html" | relative_url }})
+
+These instructions are for running the game from the Linux Steam client using Steam Play. Running the game with your own Wine installation should be considered unsupported.
+
+1. In Steam, go to *View* → *Settings* → *Steam Play* and *Enable Steam Play for all titles*, if you haven't already.
+2. Note what Proton version you're using. We have only tested with *Proton 3.16-6 Beta* (the default and most recent version at the time of writing).
+3. Install *CHAOS;CHILD*.
+4. Download the patch.
+5. Unzip the archive somewhere, not in your game directory.
+6. Browse to the newly extracted `CCPatch-v<version>-Setup` folder.
+7. **DO NOT** simply run CCPatch-Installer.exe with Wine.
+
+    Instead, open a shell and use the following command:
+    
+    <div><pre><code>STEAM_COMPAT_DATA_PATH=~/.local/share/Steam/steamapps/compatdata/970570 ~/.local/share/Steam/steamapps/common/Proton\ 3.16\ Beta/proton run CCPatch-Installer.exe</code></pre></div>
+
+    If the Steam library you installed *CHAOS;CHILD* into is somewhere else, replace both occurrences of `~/.local/share/Steam` accordingly. If you're not using *Proton 3.16-6 Beta*, replace that too (check your `steamapps/common` to find the right folder).
+
+8. Follow the instructions.
+
+##### Playing
+
+Clicking *Play* in Steam should now run the patch launcher. Make sure you've clicked *Finish* in the installer before trying to start the launcher.
+
+##### Known issues
+
+* Kanji in karaoke subtitles are rendered as boxes.
+
+##### Uninstalling
+
+To uninstall, browse to the game directory (e.g. `~/.local/share/Steam/steamapps/common/CHAOS;CHILD`), open a shell and run:
+
+<pre><code>STEAM_COMPAT_DATA_PATH=~/.local/share/Steam/steamapps/compatdata/970570 ~/.local/share/Steam/steamapps/common/Proton\ 3.16\ Beta/proton run nguninstall.exe</code></pre>
+
+Note this will leave your game unable to start, as Steam Play currently has an issue with the game's `boot.bat` script which we work around by replacing it with a symlink to the patch launcher, `LauncherC0.exe`. After you uninstall the patch, that program will be gone, so you'll need to replace `boot.bat` with either a symlink to or a copy of the game's official launcher, `launcher.exe`, to make it work again.
+
+[← Back to project page]({{ "/projects/chaoschild-steam.html" | relative_url }})

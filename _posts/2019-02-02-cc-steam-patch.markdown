@@ -1,39 +1,18 @@
 ---
-title: "CHAOS;CHILD PC English patch"
+title: "CHAOS;CHILD Steam patch"
 layout: post
-permalink: "/projects/chaoschild.html"
+permalink: "/projects/chaoschild-steam.html"
 active_tab: projects
-date: 2018-06-30 22:30:00 +0100
-excerpt: <p>As one game ends, another begins.</p>
+date: 2019-02-02 00:00:00 +0100
 ---
 
-# Outdated
+Oh hey, we released something on time for once.
 
-<div style="border: 1px solid #fff; padding: 8px;">
-<p>This page is for the old version of the <i>CHAOS;CHILD PC English Patch</i> that combined the Vita English scripts with the Japanese PC version.</p>
-
-<p>The current version of our patch works with the official English Steam release and doesn't require any other versions of the game.</p>
-
-<p><a href='{{ "/projects/chaoschild-steam.html" | relative_url }}'>You can find the page about the Steam patch here.</a></p>
-</div>
-
-# Previous contents
-
-As one game ends, another begins.
-
-...Sorry, by the way, that this patch ended up taking so long. We'd make some cheeky excuse involving real booting or whatever, but this really isn't the time for that.
-
-This patch inserts the official English translation of CHAOS;CHILD into the Japanese PC version while addressing various shortcomings and making a number of improvements to both the translation and the base game. See [below](#features) for a full list of features.
+This patch brings the fixes and improvements from our previous patch to the Steam version and adds a few more. See [below](#features) for a full list of features.
 
 <div style="border: 1px solid #fff; padding: 8px;">
 Download link and instructions are <a href="#guides">↓ below</a>.
-
-<p>You are required to <b>own the PC version of the game as well as the decrypted, unmodified scripts of the English Vita version 1.01</b>. These can be extracted using a <b>Vita or PSTV on firmware 3.60</b> (a hack for firmwares 3.65 to 3.68 has been announced for the near future). Both the physical and digital English Vita versions can be used.</p>
-
-Both the physical and digital English Vita versions can be used, but getting the digital version <i>onto</i> your 3.60 device currently requires a second, latest firmware Vita. <i>(Using a PS3 no longer works.)</i>
 </div>
-
-You can find guides for buying the Japanese PC version and extracting the necessary data from the English Vita version [below](#guides).
 
 If you want a spoiler-free guide on how to obtain every ending, you can find one [here]({{ "/projects/cc-walkthrough.html" | relative_url }}).
 
@@ -45,6 +24,30 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 {% include thumb.html fullsize="/uploads/cc_consistency.png" thumb="/uploads/cc_consistency_thumb.png" caption="Consistency" %}
 {% include thumb.html fullsize="/uploads/cc_subtitles.png" thumb="/uploads/cc_subtitles_thumb.png" caption="Subtitles" %}
 {% include thumb.html fullsize="/uploads/cc_extracgs.png" thumb="/uploads/cc_extracgs_thumb.png" caption="Translated CGs" %}
+
+# Changelog
+
+##### Version 1.1 *(Feb 02, 2019)*
+
+Initial release for Steam version.
+
+* **Steam compatibility.**
+  * Lots of internal updates.
+  * Removed memory fragmentation workaround as the Steam version now has its own.
+  * Steam Play (Linux) support.
+* Some new translation fixes.
+* Includes new prompt explaining the delusion trigger controls.
+  * Because Z and C are certainly not the most obvious choice.
+* Fixed patch installer not working on certain Windows installations lacking multimedia components.
+* Fixed game engine bug involving *My Documents* paths containing special characters on *OneDrive*. 
+  * We haven't checked if the Steam version still has this issue, but both *STEINS;GATE 0* and the Japanese version of *CHAOS;CHILD* did.
+* Fixed the goddamn title music.
+  * In 1.0, our HQ audio option had a bug preventing the title screen BGM from playing if the intro video isn't skipped. Sorry about that.
+* Installer now ships as a ZIP archive instead of a self-extracting executable.
+
+##### Version 1.0 *(Jun 30, 2018)*
+
+Initial release for Japanese PC version.
 
 # <a name="features"></a>Features
 
@@ -78,58 +81,28 @@ Many video files in the game (openings, endings, and several cutscenes) have ver
 
 Much of the system/menu text has been re-translated for comprehensibility. Backlog highlights have been adjusted to suit multi-line text.
 
-##### Stability
-
-Like STEINS;GATE 0, the PC version of CHAOS;CHILD occasionally crashes for some players. We implemented a defense against this for STEINS;GATE 0, which unfortunately didn't work on some systems. With this patch, we've added an additional workaround that applies in those cases as well.
-
 # <a name="guides"></a>Guides
 
-* [How to buy the digital PC version]({{ "/projects/cc-buying-digital-pc-version.html" | relative_url }})
-* [How to extract the English Vita version scripts]({{ "/projects/cc-extracting-english-vita-version-scripts.html" | relative_url }})
 * [100% Spoiler-free Walkthrough]({{ "/projects/cc-walkthrough.html" | relative_url }})
+* [Installing on Linux]({{ "/projects/cc-linux.html" | relative_url }})
 
 # Installation instructions
 
-1. **[↓ Download the installer](https://github.com/CommitteeOfZero/cc-patch/releases).**
-2. Run the installer. **Warning:** Has sound.
+1. **[↓ Download the installer](https://github.com/CommitteeOfZero/cc-patch/releases).** You want `CCPatch-v<version>-Setup.zip`, not the source code.
+2. Extract the archive somewhere on your hard drive, not in your game directory.
+3. Go to the newly created `CCPatch-v<version>-Setup` folder and run `CCPatch-Installer.exe`. **Warning:** Has sound.
   * If the installer quits with an error about `MSVCP140.dll`, install [Visual C++ 2015 Redistributable Update 3](https://www.microsoft.com/en-us/download/details.aspx?id=53587) (32-bit version, `vc_redist.x86.exe` - regardless of your system) and try again.
-3. When asked, fill in the directory where you installed the PC version (containing a `USRDIR` directory and files such as `Game.exe`).
-4. When asked, fill in your path to the unencrypted, unmodified `USRDIR\script` directory copied from update 1.01 for the English Vita version (containing files ending in `.scx`).
-
-Mac and Linux installers coming soon™ (for real this time).
+4. After you click *Finish* and the installer closes, you can delete the `CCPatch-v<version>-Setup` folder.
 
 # Troubleshooting
 
 If you're having a problem not covered here, please [ask us on Discord](https://discord.gg/rq4GGCh) about it.
 
-**Note:** The game requires the latest **DirectX 9.0c redistributable** (having a higher version of DirectX installed is not sufficient). If the game fails to run for you, [install DirectX 9](https://www.microsoft.com/en-us/download/details.aspx?id=35).
+**Note:** The game requires the latest **DirectX 9.0c redistributable** (having a higher version of DirectX installed is not sufficient). If the game fails to run for you, [install DirectX 9](https://www.microsoft.com/en-us/download/details.aspx?id=35). (Steam should take care of this for you, but we're leaving it here just in case.)
 
-### Game shows a Japanese/gibberish message box titled `Error`
+### Game/launcher fails to start from Steam
 
-!["Error" error (Japanese)]({{ "/uploads/error_config.jpg" | absolute_url }})
-!["Error" error (Mojibake)]({{ "/uploads/error_config_mojibake.png" | absolute_url }})
-
-This happens when the game cannot open its configuration / save data directory.
-
-Make sure your locale is set to the appropriate locale for your Windows user name (in particular, *do not* run the game in Japanese locale).
-
-If your *Documents* folder is on *OneDrive*, currently the only way to run the game is to move it out (using the appropriate Windows functionality, not simply dragging the folder).
-
-This is a bug in the PC version of the engine we will address in an update soon.
-
-### Game shows an `SdWrap` error
-
-![SdWrap error]({{ "/uploads/error_sdwrap.png" | absolute_url }})
-
-The *title* is important here - in Japanese locale, the message would display correctly, however that's not related to the issue at hand (and using Japanese locale is not required to run the game and can actually cause problems itself).
-
-This happens when the patch installer fails to modify your game executable (most likely because something else on your system was reading `Game.exe` at the time or because you're using antivirus).
-
-1. Browse to the game folder (the *Troubleshooting* tab under *More Settings* in the launcher has a button for this).
-2. Close the launcher.
-3. Close/disable antivirus or anything else that might be preventing `Game.exe` from being modified (rebooting may help).
-4. Delete/move `Game.exe.bak` and `Game.exe.tmp` to prevent the installer from believing `Game.exe` has been successfully patched.
-5. Reinstall the patch (you don't need to uninstall it first).
+You can try starting the launcher from the desktop/start menu shortcut (if you created one during the installation) or by directly running `LauncherC0.exe` from the game directory (right click *CHAOS;CHILD* in your Steam library, *Properties* → *Local Files* → *Browse Local Files...*). Make sure you're logged into Steam, though.
 
 ### Game shows an error about `mgs::Audio::CPlayer::InitializeXaudio()`
 
@@ -152,7 +125,7 @@ Update Windows. You may need to install the Visual C++ 2015 Redistributable Upda
 # Credits
 
 * **Image editing**: Cypert, dusk, rimi, MrComputerRevo, Kumin, Raykable
-* **Hacking**: SomeAnon, daxxy, MrComputerRevo
+* **Hacking**: SomeAnon, daxxy, MrComputerRevo, JoseJL
 * **Editing**: Kumin, Discontinuous Qualia
 * **Translation**: Rain, ItsRigs, MrComputerRevo, Ice
 * **Subtitles**: zahj

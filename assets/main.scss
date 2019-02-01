@@ -222,11 +222,16 @@ body {
 
     li {
       margin-bottom: 0.6rem;
-    }
 
-    li > p:first-child {
-      display: inline-block;
-      margin: 0 !important;
+      > p, > div {
+        margin-left: 3rem;
+      }
+
+      > p:first-child {
+        // multiline list items
+        display: inline;
+        margin: 0 !important;
+      }
     }
 
     code {
@@ -234,6 +239,14 @@ body {
       color: $font-color;
       border: 1px solid $font-color;
       border-radius: 0;
+    }
+
+    pre > code {
+      // hanging indent, base padding-left is 1rem
+      text-indent: -2rem;
+      padding-left: 3rem;
+      white-space: pre-wrap;
+      word-break: break-word;
     }
 
     .post-header {

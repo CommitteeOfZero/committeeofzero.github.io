@@ -25,7 +25,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 ## Members
 
 * **[DrDaxxy](https://twitter.com/DrDaxxy)**: Lead Developer / Reverse Engineer / Website Dev
-* **[SomeAnon](https://twitter.com/SomeAnonDev)**: Game Developer / Tooling Developer / Reverse Engineer
+* **[SomeAnon](https://twitter.com/SomeAnonDev)**: Lead Game Developer / Tooling Developer / Reverse Engineer
 * **[zahj](mailto:zahj@dareno.me)**: Translator / TLC / Karaoke Subtitles
 * **[Kumin](mailto:kumin@dareno.me)**: Lead Editor / PR
 * **[Discontinuous Qualia](https://twitter.com/DiscontinuousQ)**: Editor / PR / Professional Chuunibyou
@@ -36,12 +36,17 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[Raniel](mailto:raniel@dareno.me)**: Lead PR <small>/ resident shitposter</small>
 * **[dusk](https://twitter.com/EpitaxyMeltdown)**: CG Editor (Cleaning / Redrawing)
 * **[ItsRigs](https://twitter.com/Gladiale)**: Lead Translator
-* **[rimi](#)**: CG Editor
 * **[MrComputerRevo](https://twitter.com/MrComputerRevo)**: Reverse Engineer
+* **[Rain](https://twitter.com/RainAnnen)**: Translator / TLC
+* **[Ice](https://twitter.com/DelusionParadox)**: "List me as Jack of all trades or something"
+* **[Sarkkoth](https://youtube.com/Sarkkoth)**: Translator
+* **[Fasty](https://twitter.com/Fasty022)**: Editor
+* **[JoseJL](mailto:josejl1987@gmail.com)**: Game Developer / Reverse Engineer
 
 ### Past members
 
 * **[SnowedEarth](https://twitter.com/SnowedEarth)**: TLC / Karaoke Subtitles
+* **[rimi](#)**: CG Editor
 
 
 Keep in mind that this list does not include everyone in the Committee of Zero. We have many members, including those who have done... zero work.

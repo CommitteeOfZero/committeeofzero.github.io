@@ -6,7 +6,7 @@ date: 2018-07-02 00:00:00 +0100
 excerpt: <p>A 100% walkthrough for Chaos;Child, designed to allow readers to play through in the optimal route order while unlocking every scene, CG, music track, and tip along the way (with the exception of neutral delusion choices and incorrect map answers)</p>
 ---
 
-[← Back to project page]({{ "/projects/chaoschild.html" | relative_url }})
+[← Back to project page]({{ "/projects/chaoschild-steam.html" | relative_url }})
 
 This is a 100% walkthrough for Chaos;Child, designed to allow readers to play through in the optimal route order while unlocking every scene, CG, music track, and tip along the way (with the exception of neutral delusion choices and incorrect map answers).
 
@@ -98,4 +98,4 @@ After finishing all of this, there may be remaining delusions that have not yet 
 * **Route order**: ItsRigs
 * **Editing**: Kumin, Raniel
 
-[← Back to project page]({{ "/projects/chaoschild.html" | relative_url }})
+[← Back to project page]({{ "/projects/chaoschild-steam.html" | relative_url }})
