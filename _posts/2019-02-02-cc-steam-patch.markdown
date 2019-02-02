@@ -125,7 +125,7 @@ Update Windows. You may need to install the Visual C++ 2015 Redistributable Upda
 
 # Credits
 
-* **Image editing**: Cypert, dusk, rimi, MrComputerRevo, Kumin, Raykable
+* **Image editing**: Cypert, dusk, rimi, MrComputerRevo, Kumin, Raykable, Zips
 * **Hacking**: SomeAnon, daxxy, MrComputerRevo, JoseJL
 * **Editing**: Kumin, Discontinuous Qualia
 * **Translation**: Rain, ItsRigs, MrComputerRevo, Ice
