@@ -54,6 +54,10 @@ Initial release for Japanese PC version.
 
 Many of these can be turned on and off individually.
 
+##### Game bug fixes
+
+The original game release has several technical issues, such as broken lipsync and crashes when pausing right before voiced lines. We've fixed all we could track down.
+
 ##### Script fixes
 
 From typos to mistranslations, we've fixed mistakes ranging from large to small—for a total of over 1,600 lines changed. Some of them were tiny enough that most people would probably skim past without realizing, while others were grossly obvious or confusing and were serious impediments to an immersive reading experience.
@@ -72,7 +76,7 @@ Adds text to various voice-only lines and cutscenes, including several important
 
 ##### Translated CGs
 
-Includes translated versions of most CGs with text. The original title had some untranslated CGs (including an untranslated map that made it impossible to finish the game without a guide), as well as parts of some CGs which were even machine-translated, and we translated and re-edited these images from scratch in 1080p (as opposed to upscaling from 540p Vita CGs). Over 200 images were modified in some way.
+Includes translated versions of most CGs with text. The original title had some untranslated CGs (including an untranslated map that made it impossible to finish the game without a guide), as well as parts of some CGs which were even machine-translated, and we translated and re-edited these images from scratch in 1080p (as opposed to upscaling from 540p Vita CGs or keeping the Steam versions). Over 200 images were modified in some way.
 
 ##### High quality FMV audio
 
