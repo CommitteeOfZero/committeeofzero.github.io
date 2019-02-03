@@ -28,6 +28,10 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.11 *(Feb 03, 2019)*
+
+* Fixed an issue where the installer would crash on pre-AVX CPUs.
+
 ##### Version 1.1 *(Feb 02, 2019)*
 
 Initial release for Steam version.
