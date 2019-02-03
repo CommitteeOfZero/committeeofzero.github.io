@@ -204,15 +204,27 @@ body {
     }
 
     h1 {
-      @include font-size(20);
+      @include font-size(24);
     }
 
     h2 {
-      @include font-size(18);
+      @include font-size(20);
+    }
+
+    h1, h2, h3, h4 {
+      margin-bottom: $vertical-spacing * 1.5;
+    }
+
+    h1, h2 {
+      padding: $vertical-spacing / 2;
+      border-bottom: 1px solid mix($background-color, $font-color, 50%);
     }
 
     h3, h4 {
       @include font-size(16);
+      padding: $vertical-spacing / 4;
+      padding-bottom: $vertical-spacing / 2;
+      border-bottom: 1px solid mix($background-color, $font-color, 75%);
     }
 
     h5, h6 {
