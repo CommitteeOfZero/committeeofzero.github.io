@@ -4,6 +4,7 @@ layout: post
 permalink: "/projects/chaoschild-steam.html"
 active_tab: projects
 date: 2019-02-02 00:00:00 +0100
+excerpt: <p>No, this isn't a delusion. Our CHAOS;CHILD Steam patch, full of fixes and improvements, is out now!</p>
 ---
 
 Oh hey, we released something on time for once.
