@@ -23,19 +23,26 @@ These instructions are for running the game from the Linux Steam client using St
     
     <div><pre><code>STEAM_COMPAT_DATA_PATH=~/.local/share/Steam/steamapps/compatdata/970570 ~/.local/share/Steam/steamapps/common/Proton\ 3.16\ Beta/proton run CCPatch-Installer.exe</code></pre></div>
 
-    If the Steam library you installed *CHAOS;CHILD* into is somewhere else, replace both occurrences of `~/.local/share/Steam` accordingly. If you're not using *Proton 3.16-6 Beta*, replace that too (check your `steamapps/common` to find the right folder).
+    **IMPORTANT:** If the Steam library you installed *CHAOS;CHILD* into is somewhere else, replace both occurrences of `~/.local/share/Steam` accordingly. If you're not using *Proton 3.16-6 Beta*, replace that too (check your `steamapps/common` to find the right folder).
 
 8. Follow the instructions.
 
-##### Playing
+# Playing
 
 Clicking *Play* in Steam should now run the patch launcher. Make sure you've clicked *Finish* in the installer before trying to start the launcher.
 
-##### Known issues
+# Known issues
 
 * Kanji in karaoke subtitles are rendered as boxes.
+* Leaving the installer running too long may crash it.
 
-##### Uninstalling
+# Troubleshooting
+
+### After clicking Play, Steam installs DirectX, then the launcher starts. After clicking Start Game, the game starts unpatched.
+
+You ran the installer with a different Wine/Proton version than the one you configured Steam to use for CHAOS;CHILD. Rerun the installer with the version you want to use, and make sure Steam is set up to use it for launching the game.
+
+# Uninstalling
 
 To uninstall, browse to the game directory (e.g. `~/.local/share/Steam/steamapps/common/CHAOS;CHILD`), open a shell and run:
 
