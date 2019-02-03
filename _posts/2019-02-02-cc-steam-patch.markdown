@@ -64,7 +64,7 @@ From typos to mistranslations, we've fixed mistakes ranging from large to small�
 
 ##### Consistency fixes
 
-Like with STEINS;GATE 0, there were a number of terms in CHAOS;CHILD, such as names of people, objects, and products, which were translated differently in previous localizations and official media. This patch **optionally** replaces all inconsistent terminology with the translations used in previous titles (primarily STEINS;GATE’s localization), as well as swapping the name order to Japanese (e.g. "Takumi Nishijo" → "Nishijou Takumi").
+There were a number of terms in CHAOS;CHILD, such as names of people, objects, and products, which were translated differently in previous localizations and official media. This patch **optionally** replaces all inconsistent terminology with the translations used in previous titles (primarily STEINS;GATE’s localization), as well as swapping the name order to Japanese (e.g. "Takumi Nishijo" → "Nishijou Takumi").
 
 ##### Typography improvements
 
