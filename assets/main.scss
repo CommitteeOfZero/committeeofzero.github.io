@@ -261,6 +261,13 @@ body {
       word-break: break-word;
     }
 
+    #pagination {
+      border-top: 1px solid $font-color;
+      margin-top: $vertical-spacing * 2;
+      padding-top: $vertical-spacing;
+      text-align: center;
+    }
+
     .post-header {
       @include clearfix;
 
