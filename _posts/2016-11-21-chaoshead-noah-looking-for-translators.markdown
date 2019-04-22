@@ -26,9 +26,9 @@ CHAOS;HEAD Noah is a console-exclusive expanded rerelease of CHAOS;HEAD.
 The project is to
 
 * reimplement the VN engine used for CHAOS;HEAD (and Noah),
-* combine Noah's scripts with TLWiki's CHAOS;HEAD translation (though heavily revised and edited to match our style) and
+* ~~combine Noah's scripts with TLWiki's CHAOS;HEAD translation (though heavily revised and edited to match our style) and~~ *(Edit: as the update above says, we're translating the whole thing now)*
 * translate the content added in Noah.
 
-We've already assembled a crack team of programmers, an image editor, a TLC and (English language) editor and supporting staff. Work on the engine has already begun; the CHAOS;HEAD TL transferral is set to begin shortly, after we finish up on a side project.
+We've already assembled a crack team of programmers, an image editor, a TLC and (English language) editor and supporting staff. Work on the engine has already begun; ~~the CHAOS;HEAD TL transferral is set to begin shortly, after we finish up on a side project~~ *(Edit: Noah translation is in progress)*.
 
 What we still need is a translator with the experience and dedication to see a visual novel translation through. **If you're interested and you think you can help, please get in touch. [Join us on Discord](https://discord.gg/rq4GGCh) or [send us an email](mailto:sonome@dareno.me), whichever you prefer. We've also posted [a recruitment thread on Fuwanovel](http://forums.fuwanovel.net/topic/16019-chaoshead-noah-pc-port-and-translation-project/).**
