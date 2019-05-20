@@ -28,6 +28,17 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.12 *(May 21, 2019)*
+
+* Fixed compatibility with May 20, 2019 Steam update.
+* Adjusted edited keyboard help for Steam version.
+* Fixed launcher issue with moving save files from a system with a controller installed to a system without one (**"There is an error importing setup files"**).
+* Controller input can now be disabled to work around phantom inputs.
+* Replaced update checker technology as the old one was causing launcher crashes for a small number of users.
+* Fixed launcher not starting with **"Entry Point Not Found"** error for a small number of users.
+* Fixed replaced videos failing to play for some Linux users.
+* More typo fixes etc.
+
 ##### Version 1.11 *(Feb 03, 2019)*
 
 * Fixed an issue where the installer would crash on pre-AVX CPUs.
@@ -113,6 +124,12 @@ If you're having a problem not covered here, please [ask us on Discord](https://
 ### Game/launcher fails to start from Steam
 
 You can try starting the launcher from the desktop/start menu shortcut (if you created one during the installation) or by directly running `LauncherC0.exe` from the game directory (right click *CHAOS;CHILD* in your Steam library, *Properties* → *Local Files* → *Browse Local Files...*). Make sure you're logged into Steam, though.
+
+### Phantom inputs make the game impossible to control (menu selections automatically go up)
+
+On some systems the game detects false controller inputs (mostly on Linux, but we've heard this from Windows users as well).
+
+In the launcher, click *More Settings* if you haven't already, go to the *Controller* tab, select a different controller if you get multiple options or just disable controller input altogether by unchecking *Enable*.
 
 ### Game shows an error about `mgs::Audio::CPlayer::InitializeXaudio()`
 

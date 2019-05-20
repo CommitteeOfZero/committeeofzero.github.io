@@ -34,7 +34,7 @@ Clicking *Play* in Steam should now run the patch launcher. Make sure you've cli
 # Known issues
 
 * Kanji in karaoke subtitles are rendered as boxes.
-* Leaving the installer running too long may crash it.
+* Leaving the installer running too long may crash it (this has been reported fixed, if you encounter this please let us know)
 
 # Troubleshooting
 

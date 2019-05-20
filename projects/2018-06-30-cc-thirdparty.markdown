@@ -33,13 +33,16 @@ Previous versions also used:
 ##### Launcher/Installer
 
 * [Qt 5.9](https://qt.io)
-* [OpenSSL](https://www.openssl.org) - builds provided by https://indy.fulgan.com/SSL/
 * [Xdelta3](http://xdelta.org)
 * [7-Zip SFX module](https://7-zip.org/)
+* [cURL](https://curl.haxx.se/)
+* [dr_mp3](https://github.com/mackron/dr_libs)
+* [miniaudio](https://github.com/dr-soft/miniaudio)
 
 Previous versions also used:
 
 * [Libarchive](https://www.libarchive.org/)
+* [OpenSSL](https://www.openssl.org) - builds provided by https://indy.fulgan.com/SSL/
 
 To use your own Qt builds with the (un)installer, extract the (un)installer executable with 7-Zip. You will be able to substitute your own Qt DLLs.
 
