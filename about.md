@@ -35,7 +35,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[Cypert](https://twitter.com/CypertSystem)**: CG Editor / Subtitles
 * **[Raniel](mailto:raniel@dareno.me)**: Lead PR <small>/ resident shitposter</small>
 * **[dusk](https://twitter.com/EpitaxyMeltdown)**: CG Editor (Cleaning / Redrawing)
-* **[ItsRigs](https://twitter.com/Gladiale)**: Lead Translator
+* **[ItsRigs](https://twitter.com/Chaos_World_300)**: Lead Translator
 * **[MrComputerRevo](https://twitter.com/MrComputerRevo)**: Reverse Engineer
 * **[Rain](https://twitter.com/RainAnnen)**: Translator / TLC
 * **[Ice](https://twitter.com/DelusionParadox)**: "List me as Jack of all trades or something"
