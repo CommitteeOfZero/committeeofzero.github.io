@@ -1,0 +1,53 @@
+---
+title: "STEINS;GATE 0 Steam patch: Installing on Linux"
+layout: page
+permalink: "/projects/sg0-linux.html"
+active_tab: projects
+date: 2020-08-21 00:00:00 +0100
+excerpt: <p>Linux installation instructions for the STEINS;GATE 0 Steam patch</p>
+---
+
+[← Back to project page]({{ "/projects/sg0-steam.html" | relative_url }})
+
+These instructions are for running the game from the Linux Steam client using Steam Play. Running the game with your own Wine installation should be considered unsupported.
+
+1. In Steam, go to *View* → *Settings* → *Steam Play* and *Enable Steam Play for all titles*, if you haven't already.
+2. Note what Proton version you're using. We have only tested with *Proton 5.0-9* (the default and most recent version at the time of writing).
+3. Install *STEINS;GATE 0*.
+4. Download the patch.
+5. Unzip the archive somewhere, not in your game directory.
+6. Browse to the newly extracted `SG0Patch-v<version>-Setup` folder.
+7. **DO NOT** simply run SG0Patch-Installer.exe with Wine.
+
+    Instead, open a shell and use the following command:
+    
+    <div><pre><code>STEAM_COMPAT_DATA_PATH=~/.local/share/Steam/steamapps/compatdata/825630 ~/.local/share/Steam/steamapps/common/Proton\ 5.0-9/proton run SG0Patch-Installer.exe</code></pre></div>
+
+    **IMPORTANT:** If the Steam library you installed *STEINS;GATE 0* into is somewhere else, replace both occurrences of `~/.local/share/Steam` accordingly. If you're not using *Proton 5.0-9*, replace that too (check your `steamapps/common` to find the right folder).
+
+8. Follow the instructions.
+
+# Playing
+
+Clicking *Play* in Steam should now run the patch launcher. Make sure you've clicked *Finish* in the installer before trying to start the launcher.
+
+# Known issues
+
+* Kanji in karaoke subtitles are rendered as boxes.
+* Leaving the installer running too long may crash it (this has been reported fixed, if you encounter this please let us know)
+
+# Troubleshooting
+
+### After clicking Play, Steam installs DirectX, then the launcher starts. After clicking Start Game, the game starts unpatched.
+
+You ran the installer with a different Wine/Proton version than the one you configured Steam to use for STEINS;GATE 0. Rerun the installer with the version you want to use, and make sure Steam is set up to use it for launching the game.
+
+# Uninstalling
+
+To uninstall, browse to the game directory (e.g. `~/.local/share/Steam/steamapps/common/STEINS;GATE 0`), open a shell and run:
+
+<pre><code>STEAM_COMPAT_DATA_PATH=~/.local/share/Steam/steamapps/compatdata/825630 ~/.local/share/Steam/steamapps/common/Proton\ 5.0-9/proton run nguninstall.exe</code></pre>
+
+Note this will leave your game unable to start, as Steam Play currently has an issue with the game's `boot.bat` script which we work around by replacing it with a symlink to the patch launcher, `LauncherC0.exe`. After you uninstall the patch, that program will be gone, so you'll need to replace `boot.bat` with either a symlink to or a copy of the game's official launcher, `launcher.exe`, to make it work again.
+
+[← Back to project page]({{ "/projects/sg0-steam.html" | relative_url }})
