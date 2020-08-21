@@ -44,3 +44,4 @@ exclude:
   - Gemfile.lock
   - .gitignore
   - .gitmodules
+  - README.md

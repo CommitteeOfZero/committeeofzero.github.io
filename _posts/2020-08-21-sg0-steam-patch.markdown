@@ -163,7 +163,7 @@ Install [DirectX 9.0c](https://www.microsoft.com/en-us/download/details.aspx?id=
 
 ### Installer shows an error about `MSVCP140_1.dll`
 
-![MSVCP140.dll error]({{ "/uploads/error_vcruntime.png" | absolute_url }})
+![MSVCP140.dll error]({{ "/uploads/error_vcruntime_sg0_steam.png" | absolute_url }})
 
 Install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
 
