@@ -2,7 +2,7 @@
 title: "STEINS;GATE 0 100% Spoiler-free Walkthrough"
 layout: post
 permalink: "/projects/sg0-walkthrough.html"
-date: 2020-08-21 00:00:00 +0100
+date: 2020-08-21 17:56:06 +0100
 excerpt: <p>A 100% walkthrough for STEINS;GATE 0, designed to allow readers to play through in the optimal route order while unlocking every scene, CG, music track, and tip along the way.</p>
 ---
 
@@ -19,7 +19,7 @@ This is a 100% walkthrough for STEINS;GATE 0, designed to allow readers to play 
 
 <p><i>(Note: route names are abbreviated to avoid spoilers.)</i></p>
 
-<p>Recommended route order is <i>GS → TA → RMG → PR → VA</i>.<br> However, <i>TA → RMG → PR → GS → VA is also acceptable</i>.</p>
+<p>Recommended route order is <i>GS → TA → RMG → PR → VA</i>.<br> However, <i>TA → RMG → PR → GS → VA</i> is also acceptable.</p>
 
 <p>As a general rule, the route you get will depend on the <u>actions you take when Okabe receives certain calls.</u><br>At several points, this guide will ask you to <strong>save</strong>. Please keep track of these saves, as you will need to return to them later.</p>
 

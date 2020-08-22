@@ -3,7 +3,7 @@ title: "STEINS;GATE 0 Steam patch: Installing on Linux"
 layout: page
 permalink: "/projects/sg0-linux.html"
 active_tab: projects
-date: 2020-08-21 00:00:00 +0100
+date: 2020-08-21 17:56:06 +0100
 excerpt: <p>Linux installation instructions for the STEINS;GATE 0 Steam patch</p>
 ---
 

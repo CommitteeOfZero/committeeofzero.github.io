@@ -3,7 +3,7 @@ title: "STEINS;GATE 0 PC English patch third-party components"
 layout: page
 permalink: "/projects/sg0-thirdparty.html"
 active_tab: projects
-date: 2020-08-21 00:00:00 +0100
+date: 2020-08-21 17:56:06 +0100
 excerpt: <p>Attribution for third-party components used in STEINS;GATE 0 PC English Patch</p>
 ---
 

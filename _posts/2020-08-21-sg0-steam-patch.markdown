@@ -3,7 +3,7 @@ title: "STEINS;GATE 0 Steam patch"
 layout: post
 permalink: "/projects/sg0-steam.html"
 active_tab: projects
-date: 2020-08-21 00:00:00 +0100
+date: 2020-08-21 17:56:06 +0100
 excerpt: <p>It’s about time, huh?</p>
 ---
 
