@@ -44,6 +44,12 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 2.01 *(August 23, 2020)*
+
+* Even more typo fixes.
+* Improved the translations of certain CGs.
+* Fixed an issue where "Failed to allocate memory" errors sometimes occur (please tell us if you're still experiencing this problem).
+
 ##### Version 2.0 *(Aug 21, 2020)*
 
 Initial release for Steam version.
