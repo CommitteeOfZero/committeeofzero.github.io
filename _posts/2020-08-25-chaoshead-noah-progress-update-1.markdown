@@ -16,7 +16,7 @@ Attempting to maintain such a system is not only time-consuming, but also incred
 
 So, we’ve re-thought our translation methods, and we’re happy to announce our new translation system, as well as the new team that comes with it!
 
-On top of lead TL Rain, we have new members WizardNoah, fl4t\_is\_justice, Enovoran, and ChrisGLink, as well as returning translator Rigs! (Yep, he’s back on the team.) With editing/proofreading help from barrafas and Jake, these make up our new translation team.
+On top of lead TL Rain, we have new members WizardNoah, fl4t\_is\_justice, Enorovan, and ChrisGLink, as well as returning translator Rigs! (Yep, he’s back on the team.) With editing/proofreading help from barrafas and Jake, these make up our new translation team.
 
 ### That sounds like a mess. How will you manage all those translators?
 
