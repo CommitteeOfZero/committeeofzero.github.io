@@ -96,6 +96,6 @@ According to port lead SomeAnon, the only *major* missing features are loading a
 
 However, pinning down any sort of ETA is, as always, difficult. SomeAnon explains: “For instance, fixing a particularly nasty bug can easily take up more time and energy than implementing one of the aforementioned features.”
 
-Nevertheless, he's keeping hard at work, and we will be providing updates on the port in these monthly progress reports. We’ll be showing off new and already-implemented features—-as well as snippets of our translations—so stay tuned!
+Nevertheless, he's keeping hard at work, and we will be providing updates on the port in these monthly progress reports. We’ll be showing off new and already-implemented features—as well as snippets of our translations—so stay tuned!
 
 # NEXT REPORT: October 1st.
