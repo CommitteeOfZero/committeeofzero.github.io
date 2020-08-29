@@ -91,7 +91,7 @@ If, after installing the patch and starting the game, you get stuck on a loading
 # Credits
 
 * **Cypert:** Image editing
-* **SomeAnon, DrDaxxy:** Reverse engineering, hacking, installer
+* **SomeAnon, daxxy:** Reverse engineering, hacking, installer
 * **zahj, SnowedEarth:** Subtitles
 * **Kumin, Discontinuous Qualia:** Script/subs editing
 * **MrComputerRevo:** Script dumping tutorial

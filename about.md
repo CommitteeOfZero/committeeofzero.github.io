@@ -24,7 +24,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 
 ## Members
 
-* **[DrDaxxy](https://twitter.com/DrDaxxy)**: Lead Developer / Reverse Engineer / Website Dev
+* **[daxxy](https://twitter.com/DrDaxxy)**: Lead Developer / Reverse Engineer / Website Dev
 * **[SomeAnon](https://twitter.com/SomeAnonDev)**: Lead Game Developer / Tooling Developer / Reverse Engineer
 * **[zahj](mailto:zahj@dareno.me)**: Translator / TLC / Karaoke Subtitles
 * **[Kumin](mailto:kumin@dareno.me)**: Lead Editor / PR
@@ -48,6 +48,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[ChrisGLink](https://twitter.com/ChrisGLink)**: Translator / TLC
 * **[barrafas](https://twitter.com/barrafas0)**: TLC / Editor
 * **[Jake](https://twitter.com/SonoMeme)**: TLC
+* **[LkProd](https://twitter.com/ropdlk)**: CG Editor
 
 ### Past members
 

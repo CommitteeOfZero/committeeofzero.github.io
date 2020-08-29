@@ -90,9 +90,9 @@ These are the (optional) steps for using softsubbed original videos in place of 
 8. After installing the patch, run LBConfig.exe and turn on this option.
 
 # Credits
-* **Cypert:** Image editing, subs
-* **SomeAnon, DrDaxxy:** Reverse engineering, hacking
-* **zahj, SnowedEarth:** Karaoke subtitles
+* **Image editing**: Cypert, LkProd
+* **Subtitles**: zahj, SnowedEarth, Cypert
+* **Hacking**: SomeAnon, daxxy
 
 Translated lyrics for 'Skyclad Observer', 'Farfalla of Fate' and 'A.R.' taken from the previous JAST USA release of STEINS;GATE.
 
