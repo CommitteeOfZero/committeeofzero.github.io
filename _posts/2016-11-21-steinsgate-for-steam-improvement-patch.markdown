@@ -18,6 +18,13 @@ This was just a side project of a side project. Stay tuned, you'll be hearing ag
 
 # Changelog
 
+##### Version 1.1 *(Aug 29, 2020)*
+
+* Fixed the text font to remove certain display errors.
+* A few more edited CGs added.
+* Some edited images have been redone with improved visuals or translations.
+* More script edits to fix Engrish and various other major mistakes.
+
 ##### Version 1.03 *(Sep 11, 2017)*
 * Compatibility update for 09/11/2017 game patch.
 
@@ -27,7 +34,7 @@ This was just a side project of a side project. Stay tuned, you'll be hearing ag
 ##### Version 1.01 *(Nov 21, 2016)*
 * Fixed crash relating to HQ Audio functionality.
 
-##### Version 1.00 *(Nov 21, 2016)*
+##### Version 1.0 *(Nov 21, 2016)*
 Initial release.
 
 # Features
