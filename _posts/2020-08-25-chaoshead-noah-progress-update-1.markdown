@@ -49,7 +49,7 @@ Rimi route - 14.31%
 
 # However!
 
-As for our new team and new setup, we’re so much more confident in our abilities to work actively, productively, and regularly that we’re introducing **monthly progress reports!** We’re expecting to see more progress in a matter of months than Rigs was able to make in his years on the progress with this new setup, and it’s already begun.
+As for our new team and new setup, we’re so much more confident in our abilities to work actively, productively, and regularly that we’re introducing **monthly progress reports!** We’re expecting to see more progress in a matter of months than we made in the past several years on the project with this new setup, and it’s already begun.
 
 So without further ado, here's the ***total progress overall***, including work done by the new translation team!
 
