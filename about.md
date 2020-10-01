@@ -24,7 +24,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 
 ## Members
 
-* **[DrDaxxy](https://twitter.com/DrDaxxy)**: Lead Developer / Reverse Engineer / Website Dev
+* **[daxxy](https://twitter.com/DrDaxxy)**: Lead Developer / Reverse Engineer / Website Dev
 * **[SomeAnon](https://twitter.com/SomeAnonDev)**: Lead Game Developer / Tooling Developer / Reverse Engineer
 * **[zahj](mailto:zahj@dareno.me)**: Translator / TLC / Karaoke Subtitles
 * **[Kumin](mailto:kumin@dareno.me)**: Lead Editor / PR
@@ -35,14 +35,20 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[Cypert](https://twitter.com/CypertSystem)**: CG Editor / Subtitles
 * **[Raniel](mailto:raniel@dareno.me)**: Lead PR <small>/ resident shitposter</small>
 * **[dusk](https://twitter.com/EpitaxyMeltdown)**: CG Editor (Cleaning / Redrawing)
-* **[ItsRigs](https://twitter.com/Chaos_World_300)**: Translation Advisor
+* **[ItsRigs](https://twitter.com/Chaos_World_300)**: Translator / Translation Advisor
 * **[MrComputerRevo](https://twitter.com/MrComputerRevo)**: Reverse Engineer
 * **[Rain](https://rainm.io/)**: Lead Translator / TLC
 * **[Ice](https://twitter.com/DelusionParadox)**: Quality Assurance
 * **[Sarkkoth](https://youtube.com/Sarkkoth)**: Translator
 * **[Fasty](https://twitter.com/Fasty022)**: Editor
 * **[JoseJL](mailto:josejl1987@gmail.com)**: Game Developer / Reverse Engineer
-* **[Enorovan](https://twitter.com/Enorovan)**: Editor
+* **[Enorovan](https://twitter.com/Enorovan)**: Translator / Editor
+* **[WizardNoah](https://twitter.com/WizardNoah)**: Translator
+* **[fl4t_is_justice](https://twitter.com/fl4t_is_justice)**: Translator
+* **[ChrisGLink](https://twitter.com/ChrisGLink)**: Translator / TLC
+* **[barrafas](https://twitter.com/barrafas0)**: TLC / Editor
+* **[Jake](https://twitter.com/SonoMeme)**: TLC
+* **[LkProd](https://twitter.com/ropdlk)**: CG Editor
 
 ### Past members
 

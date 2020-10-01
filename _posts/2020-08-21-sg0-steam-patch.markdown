@@ -44,7 +44,7 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
-##### Version 2.01 *(August 23, 2020)*
+##### Version 2.01 *(Aug 23, 2020)*
 
 * Even more typo fixes.
 * Improved the translations of certain CGs.
