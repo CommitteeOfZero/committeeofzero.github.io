@@ -8,7 +8,7 @@ Alright, enough time has passed that we seriously owe everyone some transparency
 
 # The Good
 
-We have a new main translator! Rain, who has been a big help on NOAH and our patches in the past, and who you might know from his work on the [Mahoyo translation project](https://twitter.com/149centimeters), is going to be in charge of all CHAOS;HEAD NOAH translation efforts going forward. And he’s not alone!
+We have a new main translator! Rain, who has been a big help on NOAH and our patches in the past, and who you might know from his work on the [Mahoyo translation project](https://twitter.com/hollowmoontl), is going to be in charge of all CHAOS;HEAD NOAH translation efforts going forward. And he’s not alone!
 
 In the past, we’ve held the stance that sticking to one translator and one editor per project is necessary for the sake of maintaining professionalism. And while we still largely believe that, we’ve found in our experiences that such a system is simply not very practical when your lead translator is trying to balance work, school, and translation (which is practically a second job in itself!) 
 
