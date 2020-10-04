@@ -47,7 +47,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[fl4t_is_justice](https://twitter.com/fl4t_is_justice)**: Translator
 * **[ChrisGLink](https://twitter.com/ChrisGLink)**: Translator / TLC
 * **[barrafas](https://twitter.com/barrafas0)**: TLC / Editor
-* **[Jake](https://twitter.com/SonoMeme)**: TLC
+* **[Jake](https://twitter.com/futotorofu)**: TLC
 * **[LkProd](https://twitter.com/ropdlk)**: CG Editor
 
 ### Past members
