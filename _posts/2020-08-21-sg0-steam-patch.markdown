@@ -44,6 +44,12 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 2.02 *(Oct 6, 2020)*
+
+* Even more typo fixes.
+* Improved the typesetting of certain CGs.
+* _Fully_ fixed an issue where “Failed to allocate memory” errors sometimes occur.
+
 ##### Version 2.01 *(Aug 23, 2020)*
 
 * Even more typo fixes.
