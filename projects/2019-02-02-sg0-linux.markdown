@@ -11,21 +11,25 @@ excerpt: <p>Linux installation instructions for the STEINS;GATE 0 Steam patch</p
 
 These instructions are for running the game from the Linux Steam client using Steam Play. Running the game with your own Wine installation should be considered unsupported.
 
-1. In Steam, go to *View* → *Settings* → *Steam Play* and *Enable Steam Play for all titles*, if you haven't already.
-2. Note what Proton version you're using. We have only tested with *Proton 5.0-9* (the default and most recent version at the time of writing).
-3. Install *STEINS;GATE 0*.
-4. Download the patch.
-5. Unzip the archive somewhere, not in your game directory.
-6. Browse to the newly extracted `SG0Patch-v<version>-Setup` folder.
-7. **DO NOT** simply run SG0Patch-Installer.exe with Wine.
+1. Install [Winetricks](https://github.com/Winetricks/winetricks) for your Linux distribution.
+2. In Steam, go to *View* → *Settings* → *Steam Play* and *Enable Steam Play for all titles*, if you haven't already.
+3. Note what Proton version you're using. We have only tested with *Proton 5.0-9* (the default and most recent version at the time of writing).
+4. Install *STEINS;GATE 0*.
+5. Download the patch.
+6. Unzip the archive somewhere, not in your game directory.
+7. Browse to the newly extracted `SG0Patch-v<version>-Setup` folder.
+8. **DO NOT** simply run SG0Patch-Installer.exe with Wine.
 
-    Instead, open a shell and use the following command:
+    Instead, open a shell and use the following commands:
+
+    Install `vcrun2017` with winetricks:
+    <div><pre><code>WINEPREFIX=~/.local/share/Steam/steamapps/compatdata/825630/pfx winetricks vcrun2017</code></pre></div>
     
     <div><pre><code>STEAM_COMPAT_DATA_PATH=~/.local/share/Steam/steamapps/compatdata/825630 ~/.local/share/Steam/steamapps/common/Proton\ 5.0-9/proton run SG0Patch-Installer.exe</code></pre></div>
 
     **IMPORTANT:** If the Steam library you installed *STEINS;GATE 0* into is somewhere else, replace both occurrences of `~/.local/share/Steam` accordingly. If you're not using *Proton 5.0-9*, replace that too (check your `steamapps/common` to find the right folder).
 
-8. Follow the instructions.
+9. Follow the instructions.
 
 # Playing
 
