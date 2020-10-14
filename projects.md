@@ -19,6 +19,8 @@ active_tab: projects
 #### Work in progress
 
 * CHAOS;HEAD NOAH Fan Translation
+* ROBOTICS;NOTES ELITE Steam patch
+* ROBOTICS;NOTES DASH Steam patch
 
 #### Supporting technology
 
