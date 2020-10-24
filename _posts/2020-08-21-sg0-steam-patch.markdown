@@ -44,6 +44,11 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### UPDATED *(Oct 24, 2020)*
+
+* The problem with some anti-virus software detecting the patch as a false positive should be fixed (except McAfee, but if you use McAfee, we recommend you get a better antivirus.)
+* If you downloaded the patch before this update, please download [SG0Patch-v2.02-Update.zip](https://github.com/CommitteeOfZero/zero-patch/releases/download/2.02/SG0Patch-v2.02-Update.zip) and extract it to your game installation folder.
+
 ##### Version 2.02 *(Oct 6, 2020)*
 
 * Even more typo fixes.
