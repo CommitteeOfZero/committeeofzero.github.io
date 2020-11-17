@@ -6,6 +6,18 @@ active_tab: projects
 date: 2017-02-19 02:04:01 +0100
 ---
 
+# Outdated
+
+<div style="border: 1px solid #fff; padding: 8px;">
+<p>This page is for the old version of the <i>STEINS;GATE 0 PC English Patch</i> that combined the Vita English scripts with the Japanese PC version.</p>
+
+<p>The current version of our patch works with the official English Steam release and doesn't require any other versions of the game.</p>
+
+<p><a href='{{ "/projects/sg0-steam.html" | relative_url }}'>You can find the page about the Steam patch here.</a></p>
+</div>
+
+# Previous contents
+
 Turns out compressing an entire patch down to 36 bytes isn't as easy as Chiyomaru makes it seem.
 We had planned to send it back to the past to release it on time, but then CERN came and told us we can't use their LHC and gave us a slap on the wrist. So, we had to go the long way around.
 
