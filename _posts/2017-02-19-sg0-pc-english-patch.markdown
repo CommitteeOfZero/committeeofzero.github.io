@@ -4,6 +4,7 @@ layout: post
 permalink: "/projects/sg0.html"
 active_tab: projects
 date: 2017-02-19 02:04:01 +0100
+excerpt: <p>Turns out compressing an entire patch down to 36 bytes isn't as easy as Chiyomaru makes it seem. We had planned to send it back to the past to release it on time, but then CERN came and told us we can't use their LHC and gave us a slap on the wrist. So, we had to go the long way around.</p>
 ---
 
 # Outdated
@@ -18,8 +19,7 @@ date: 2017-02-19 02:04:01 +0100
 
 # Previous contents
 
-Turns out compressing an entire patch down to 36 bytes isn't as easy as Chiyomaru makes it seem.
-We had planned to send it back to the past to release it on time, but then CERN came and told us we can't use their LHC and gave us a slap on the wrist. So, we had to go the long way around.
+Turns out compressing an entire patch down to 36 bytes isn't as easy as Chiyomaru makes it seem. We had planned to send it back to the past to release it on time, but then CERN came and told us we can't use their LHC and gave us a slap on the wrist. So, we had to go the long way around.
 
 This patch inserts the official English translation of STEINS;GATE 0 into the Japanese PC version while addressing various shortcomings and making a number of improvements to both the translation and the base game. See [below](#features) for a full list of features.
 
