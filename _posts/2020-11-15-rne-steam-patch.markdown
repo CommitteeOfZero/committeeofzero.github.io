@@ -31,6 +31,14 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.0.1 *(Nov 19, 2020)*
+
+* Translation, consistency, and typo fixes.
+* Fixed text-wrapping issues with em dashes, quotes, brackets, and parentheses.
+* Fixed issues with text margins.
+* Fixed an issue with misplaced voice lines.
+* Fixed improperly displayed names. 
+
 ##### Version 1.0 *(Nov 15, 2020)*
 
 Initial release.
