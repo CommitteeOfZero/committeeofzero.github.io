@@ -21,7 +21,7 @@ After suffering from a bit of post-patch fatigue, we're getting back into the gr
 
 |              | **Translation** | **TLC** | **Editing** |
 | ------------ | --------------- | ------- | ----------- |
-| Common route | **14.55%**      |         |             |
+| Common route | **14.75%**      |         |             |
 | B route      | 100.00%         |         |             |
 | Nanami route | 61.64%          |         |             |
 | Yua route    | 100.00%         |         |             |
