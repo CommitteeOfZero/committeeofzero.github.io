@@ -31,6 +31,12 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.0.2 *(Dec 3, 2020)*
+
+* More translation, consistency, and typo fixes.
+* Fixed mouse controls being inaccurate for ultrawide monitors.
+* Fixed some text-wrapping issues.
+
 ##### Version 1.0.1 *(Nov 19, 2020)*
 
 * Translation, consistency, and typo fixes.
