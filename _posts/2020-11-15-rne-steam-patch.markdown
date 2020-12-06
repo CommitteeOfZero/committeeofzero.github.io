@@ -31,6 +31,16 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.0.3 *(Dec 6, 2020)*
+
+* More translation, consistency, and typo fixes.
+* Fixed clipping in some character animations.
+* Fixed an instance where an incorrect character model was used.
+* Fixed a background that was being displayed with the wrong color.
+* Fixed an issue where tips would line break improperly.
+* Fixed an issue where the launcher would crash for some users when pressing the "More Settings" button.
+* Re-encoded videos for better quality.
+
 ##### Version 1.0.2 *(Dec 3, 2020)*
 
 * More translation, consistency, and typo fixes.
