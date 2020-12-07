@@ -31,6 +31,10 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.0.3a *(Dec 7, 2020)*
+
+* Compatibility update for 12/06/2020 game patch.
+
 ##### Version 1.0.3 *(Dec 6, 2020)*
 
 * More translation, consistency, and typo fixes.
