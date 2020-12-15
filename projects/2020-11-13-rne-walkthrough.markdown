@@ -127,7 +127,7 @@ On September 15, outside the TNSC First Osaki Office, reply:
 
 On September 20, when you start out at the Robot Clinic, reply:
 
-* **GEZI-SISTER: @UMISHO What do you hide in[...]**
+* **GEZI-SISTER: @UMISHO What's hidden in the secret[...]**
     * <i>Reply: Eroge</i>
 
 On September 21, when you make it outside of the Robot Clinic, reply:
