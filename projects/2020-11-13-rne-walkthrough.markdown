@@ -31,7 +31,7 @@ To avoid making this guide too lengthy but also explain how to get all of the ac
 On July 30, at noon and inside the conference room, reply:
 
 * **GEZI-SISTER: What is a “boing-chan”?**
-    *   <i>Reply: A woman's whose breasts bounce a lot[...]</i>
+    *   <i>Reply: A woman whose breasts bounce[...]</i>
 
 On July 31, at noon and outside the building you found the first Kimijima Report in, reply:
 
