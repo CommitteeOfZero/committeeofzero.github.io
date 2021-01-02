@@ -13,7 +13,7 @@ Indeed, the holidays have been kind to us, and we've been able to make a fair am
 
 # \*GIANT DRUM ROLL\*
 
-50%! Amazing late Christmas present, eh?
+Over 50%! Amazing late Christmas present, eh?
 
 And to celebrate this achievement, we're introducing a total completion percentage to the progress table. 
 
