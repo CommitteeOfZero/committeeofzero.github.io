@@ -7,7 +7,7 @@ date: 2021-01-01 21:00:42 +0000
 
 Hey everyone! 
 
-'Tis the season of "dude how in the WORLD did we make it through that year," so along with that heaping plate of introspection and self-reflection, we've got a nice, tall glass of Progress Report for ya (it pretty much just tastes like Egg Nog), full of insight, new percentages, and more!
+'Tis the season of "dude how in the WORLD did we make it through that year," so along with that heaping plate of introspection and self-reflection, we've got a nice, tall glass of Progress Report for ya (it pretty much just tastes like Eggnog), full of insight, new percentages, and more!
 
 Indeed, the holidays have been kind to us, and we've been able to make a fair amount of progress. As you'll soon find out below, Common Route is now over 33% translated! We're a third of the way done with the biggest chunk of the game! "What does this mean for general completion?" you ask? Well, with this milestone, this brings the total completion of the first pass to...
 
