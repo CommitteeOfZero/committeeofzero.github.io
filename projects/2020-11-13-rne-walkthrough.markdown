@@ -222,7 +222,7 @@ If you reach the end of Phase 09 without getting the bad ending, you might be in
 
 ### Phase 12:
 
-When you arrive at TNSC, create **SAVE 03** and <u><b>lock</b></u> your save. Try to save semi-frequently after this. Every ten or fifteen minutes should be fine.
+When you arrive at TNSC, create **SAVE 02** and <u><b>lock</b></u> your save. Try to save semi-frequently after this. Every ten or fifteen minutes should be fine.
 
 When you reach a set of input prompts, get one of them wrong. View the ending, then load your last save. At the final prompt, reload **SAVE 03**, and don’t get any prompts wrong this time. Read to the end.
 
