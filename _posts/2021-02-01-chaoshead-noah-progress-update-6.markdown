@@ -36,6 +36,7 @@ But enough celebrations, let us move on to the numbers.
 | Ayase route      | 100.00%         |         |             |
 | Rimi route       | 100.00%         |         |             |
 | True end         | **54.50%**      |         |             |
+| TIPs             | **50.00%**      |         |             |
 | **<u>Total</u>** | **63.98%**      |         |             |
 {: class="totals"}
 
@@ -43,7 +44,7 @@ But enough celebrations, let us move on to the numbers.
 
 \*\*: Numbers highlighted in **bold** indicate that progress has been made in the past month.
 
-HOWEVER! If you thought that was everything, you'd be dead wrong. Because resident cat lover and programmer SomeAnon has prepared yet another peek behind the curtains of our NOAH port. We're proud to announce that both audio and video playback have been implemented! This means that not only can we hear the magnificent voice acting and sound effects, but we can even go through a variety of Noah-exclusive scenes that will blow people’s *minds*. (╯✧ ∇ ✧)╯
+HOWEVER! If you thought that was everything, you'd be dead wrong. Because resident cat lover and programmer SomeAnon has prepared yet another peek behind the curtains of our NOAH port. We're proud to announce that both audio and video playback have been implemented! This means that not only can we hear the magnificent voice acting and sound effects, but we can even go through a variety of Noah-exclusive scenes that will blow people’s *minds*.<br>(╯✧ ∇ ✧)╯
 
 The aforementioned peek can be found below, and boy oh boy, is it peak. In order to showcase the new features, we have recorded the Phantasm live concert scene, spicy delusions included and all.
 
