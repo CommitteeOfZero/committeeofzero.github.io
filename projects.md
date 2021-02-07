@@ -11,6 +11,7 @@ active_tab: projects
 * [CHAOS;CHILD Steam patch]({{ "/projects/chaoschild-steam.html" | relative_url }})
 * [STEINS;GATE 0 Steam patch]({{ "/projects/sg0-steam.html" | relative_url }})
 * [ROBOTICS;NOTES ELITE Steam patch]({{ "/projects/rne-steam.html" | relative_url }})
+* [ROBOTICS;NOTES DaSH Steam patch]({{ "/projects/rnd-steam.html" | relative_url }})
 
 #### Outdated
 
@@ -20,7 +21,6 @@ active_tab: projects
 #### Work in progress
 
 * CHAOS;HEAD NOAH Fan Translation
-* ROBOTICS;NOTES DaSH Steam patch
 
 #### Supporting technology
 
