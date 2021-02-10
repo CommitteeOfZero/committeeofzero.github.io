@@ -54,7 +54,7 @@ To avoid making this guide too lengthy but also explain how to get all of the ac
 * Progress until Map Trigger Sequence 3.
 * Select <u>Main Stage</u>.
 
-### Thermopause Emulator:
+### Ionopause Thermistor:
 
 * Load <strong>SAVE 01</strong>.
 * Select <u>Arbor Facing the Lighthouse</u>, then <u>Front of Man from the Sea Statue</u>.
