@@ -31,6 +31,12 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.0.1 *(Feb 13, 2021)*
+
+* Translation, consistency, and typo fixes.
+* Fixed some text-wrapping issues.
+* Fixed an issue regarding long names in the backlog.
+
 ##### Version 1.0 *(Feb 07, 2021)*
 
 Initial release.
