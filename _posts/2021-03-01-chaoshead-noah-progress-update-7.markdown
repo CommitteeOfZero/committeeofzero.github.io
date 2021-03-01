@@ -38,7 +38,7 @@ As for our PC port, this month we want to show you a little something we've been
 
 Well, in the original version of NOAH—the Xbox 360 version, which is the one we're working with—the Skip Mode speed is incredibly slow, taking around *10 minutes* to get through one chapter. Yes, that's with the Skip Mode turned on! As we're sure you can imagine, waiting through several chapters at this speed is not very fun.
 
-Turns out, the engine of the original Xbox 360 version was so slow that it couldn't run the game any faster. But in our remade-from-scratch engine port, this isn't an issue anymore! Our more efficient engine can blaze through the game in Skip Mode at several times the speed, and *man* it is ever helpful. Below, you can see a comparison between the new speed and the original speed from the 360 version.
+Turns out, the engine of the original Xbox 360 version was so slow that it couldn't run the game any faster. But in our remade-from-scratch engine port, this isn't an issue anymore! Our more efficient engine can blaze through the game in Skip Mode at several times the speed, and *man* is it ever helpful. Below, you can see a comparison between the new speed and the original speed from the 360 version.
 
 <div class="youtube-wrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UAwyyYYEWuo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
