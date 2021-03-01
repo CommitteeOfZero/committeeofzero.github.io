@@ -19,7 +19,7 @@ Indeed, those are some significant goals. Look at how beautiful the table below 
 | ---------------- | --------------- | ------- | ----------- |
 | Common route     | **66.21%**      |         |             |
 | B route          | 100.00%         |         |             |
-| Nanami route     | **100.00%**     |         |             |
+| Nanami route     | 100.00%         |         |             |
 | Yua route        | 100.00%         |         |             |
 | Sena route       | 100.00%         |         |             |
 | Kozue route      | 100.00%         |         |             |
