@@ -21,6 +21,7 @@ active_tab: projects
 #### Work in progress
 
 * CHAOS;HEAD NOAH Fan Translation
+* CHAOS;HEAD NOAH PC Port
 
 #### Supporting technology
 
