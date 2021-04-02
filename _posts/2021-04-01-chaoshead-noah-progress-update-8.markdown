@@ -52,6 +52,6 @@ That's all for this month, folks. Thanks for keeping up with us. We'll be more m
 
 Hm? What’s that? A delusion, straight from the Committee of Zero’s headquarters? What could it be...?
 
-<div class="youtube-wrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mynZzi-Mi24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="youtube-wrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wHotZLke8is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 # NEXT REPORT: May 1st.
