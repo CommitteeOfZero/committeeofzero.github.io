@@ -31,6 +31,11 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.0.6 *(Apr 02, 2021)*
+
+* Translated remaining untranslated CGs.
+* More translation, consistency, and typo fixes.
+
 ##### Version 1.0.5 *(Feb 07, 2021)*
 
 * More translation, consistency, and typo fixes.
