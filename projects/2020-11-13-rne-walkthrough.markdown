@@ -23,7 +23,7 @@ This is a 100% walkthrough for ROBOTICS;NOTES ELITE, designed to allow readers t
 To avoid making this guide too lengthy but also explain how to get all of the achievements, we will list some general advice for not missing anything: 
 
 * **1)** During the first three phases of the game, you can answer all of the tweeps freely. Akiho's tweeps, however, can be answered freely regardless of what phase you are currently in.
-*  **2)** Every time you enter a location you have never seen before, get your PokeCom out and check ‘IRUO.’ to gather as many geotags as possible. You should focus particularly on Kaito's classroom, which has a new geotag every time you enter it.
+*  **2)** Every time you enter a location you have never seen before, get your PokeCom out and check ‘IRUO.’ to gather as many geotags as possible. You should focus particularly on Kaito's classroom, which has a new geotag every day.
 *  **3)** Don't miss any inputs during quick-time events, unless it is indicated that you should do otherwise.
 
 ### Phase 04:
