@@ -37,7 +37,7 @@ Here are your percentages!
 | Yua route        | 100.00%         |             |             |
 | Sena route       | 100.00%         | 4.71%       | 4.71%       |
 | Kozue route      | 100.00%         |             |             |
-| Ayase route      | 100.00%         | **100.00%** | 4.29%**     |
+| Ayase route      | 100.00%         | **100.00%** | 4.29%       |
 | Rimi route       | 100.00%         |             |             |
 | True end         | 100.00%         |             |             |
 | TIPs             | 100.00%         | **100.00%** | **19.72%**  |
