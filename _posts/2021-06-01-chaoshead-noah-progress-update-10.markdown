@@ -25,7 +25,7 @@ That's about all we really have to say this time around. And now, the all-import
 | Yua route        | 100.00%         |             |             |
 | Sena route       | 100.00%         | **10.65%**  | 4.71%       |
 | Kozue route      | 100.00%         |             |             |
-| Ayase route      | 100.00%         | 100.00%     | 28.90%      |
+| Ayase route      | 100.00%         | 100.00%     | **28.90%**  |
 | Rimi route       | 100.00%         |             |             |
 | True end         | 100.00%         |             |             |
 | TIPs             | 100.00%         | 100.00%     | **20.42%**  |
