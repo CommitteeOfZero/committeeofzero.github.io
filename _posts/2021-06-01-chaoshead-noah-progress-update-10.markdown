@@ -29,7 +29,7 @@ That's about all we really have to say this time around. And now, the all-import
 | Rimi route       | 100.00%         |             |             |
 | True end         | 100.00%         |             |             |
 | TIPs             | 100.00%         | 100.00%     | **20.42%**  |
-| **<u>Total</u>** | **95.04%**      | **13.22%**  | **7.33%**   |
+| **<u>Total</u>** | **95.04%**      | **13.52%**  | **7.33%**   |
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD
