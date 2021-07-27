@@ -30,7 +30,6 @@ This is a 100% walkthrough for STEINS;GATE 0, designed to allow readers to play 
 ### GS Route
 
 * Starting from <strong>point A</strong> <u>(December 15th)</u>: do not turn off the phone. 
-* Then save again on <u>January 23rd</u> <strong>(point B)</strong> and answer the phone.
 
 ### TA Route
 
@@ -48,7 +47,7 @@ This is a 100% walkthrough for STEINS;GATE 0, designed to allow readers to play 
 
 ### VA Route
 
-* Starting from <strong>point B</strong>: this time, try to ignore calls from this point on.
+* Starting from <strong>point A</strong>: this time, try to ignore calls from this point on.
 
 ### True End
 
