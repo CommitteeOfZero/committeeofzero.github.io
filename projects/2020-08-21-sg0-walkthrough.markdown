@@ -44,7 +44,7 @@ This is a 100% walkthrough for STEINS;GATE 0, designed to allow readers to play 
 
 ### PR Route
 
-* Starting from <strong>point D</strong>: this time, answer the phone on on <u>January 15th</u>.
+* Starting from <strong>point D</strong>: this time, answer the phone on <u>January 15th</u>.
 
 ### VA Route
 
