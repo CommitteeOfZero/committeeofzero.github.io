@@ -29,16 +29,17 @@ This is a 100% walkthrough for STEINS;GATE 0, designed to allow readers to play 
 
 ### GS Route
 
-* Starting from <strong>point A</strong> <u>(December 15th)</u>: do not turn off the phone. 
+* Starting from <strong>point A</strong> <u>(December 15th)</u>: do not turn off the phone.
+* On <u>January 23rd</u> <strong>(point B)</strong>, answer the phone.
 
 ### TA Route
 
-* Starting from <strong>point A</strong>: this time, turn off your phone. 
+* Starting from <strong>point A</strong>: this time, turn off your phone.
 * Save again on <u>January 2nd</u> <strong>(point C)</strong> and try to ignore calls from this point on.
 
 ### RMG Route
 
-* Starting from <strong>point C</strong>: this time, answer the phone on <u>January 2nd</u>. 
+* Starting from <strong>point C</strong>: this time, answer the phone on <u>January 2nd</u>.
 * Save once more on <u>January 15th</u> <strong>(point D)</strong> and try to ignore calls from this point on.
 
 ### PR Route
@@ -47,11 +48,12 @@ This is a 100% walkthrough for STEINS;GATE 0, designed to allow readers to play 
 
 ### VA Route
 
-* Starting from <strong>point A</strong>: this time, try to ignore calls from this point on.
+* Starting from <strong>point A</strong> <u>(December 15th)</u>: do not turn off the phone.
+* On <u>January 23rd</u> <strong>(point B)</strong>, do not answer the phone.
 
 ### True End
 
-* If you've already completed the <u>PR route</u>, the True End should unlock the instant you finish the <u>VA route</u>. 
+* If you've already completed the <u>PR route</u>, the True End should unlock the instant you finish the <u>VA route</u>.
 * (If you finished VA before PR, you will need to finish VA again.)
 
 # Additional Info
