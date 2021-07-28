@@ -7,7 +7,7 @@ active_tab: projects
 
 #### Completed releases
 
-* [STEINS;GATE Steam improvement patch]({{ "/projects/sghd.html" | relative_url }})
+* [STEINS;GATE Steam patch]({{ "/projects/sghd.html" | relative_url }})
 * [CHAOS;CHILD Steam patch]({{ "/projects/chaoschild-steam.html" | relative_url }})
 * [STEINS;GATE 0 Steam patch]({{ "/projects/sg0-steam.html" | relative_url }})
 * [ROBOTICS;NOTES ELITE Steam patch]({{ "/projects/rne-steam.html" | relative_url }})
