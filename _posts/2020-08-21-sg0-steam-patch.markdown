@@ -44,6 +44,11 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 2.1 *(Jul 28, 2021)*
+
+* A full translation check and editing pass of the TIPS has been completed, fixing large amounts of incorrect terminology, inaccuracies, inconsistencies, as well as improving general readability.
+* Text and translation fixes, with a heavy focus on maintaining consistency with the original STEINS;GATE. 
+
 ##### UPDATED *(Oct 24, 2020)*
 
 * The problem with some anti-virus software detecting the patch as a false positive should be fixed (except McAfee, but if you use McAfee, we recommend you get a better antivirus.)
@@ -94,6 +99,10 @@ a reference to the wrong character.
 Additionally, certain terms are translated differently between the original STEINS;GATE localization and the
 STEINS;GATE 0 localization, and we’ve corrected as many of those as we could as well. This includes changing the name
 order to Japanese-style (e.g. “Kyoma Hououin” → “Hououin Kyouma”).
+
+##### Retranslated TIPS
+
+Every single TIP has been modified in some way. Some of them required minor edits for flow and style, others needed to be rewritten to account for stiff or confusing writing, and many of them needed to be partially or completely retranslated due to missing or incorrect information.
 
 ##### Restored Japanese honorifics
 
