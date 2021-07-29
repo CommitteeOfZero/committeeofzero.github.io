@@ -57,7 +57,7 @@ Here's the full list of improvements. Each can be turned on and off individually
 
 A full proofreading pass of the game has been completed, fixing slight grammatical issues, minor typos and wording issues, as well as an extensive amount of inconsistencies with text formatting and a handful of translation fixes. Also includes display fixes in Suzuha’s route.
  
-##### Checked TIPs
+##### Checked TIPS
  
 A full translation check of the TIPS has been completed, fixing minor terminology issues and light inaccuracies, as well as improving general readability.
  
@@ -102,7 +102,7 @@ If you're having a problem not covered here, please [ask us on Discord](https://
  
 ### Game/launcher fails to start from Steam
  
-You can try starting the launcher from the desktop/start menu shortcut (if you created one during the installation) or by directly running `LauncherC0.exe` from the game directory (right click *STEINS;GATE 0* in your Steam library, *Properties* → *Local Files* → *Browse Local Files...*). Make sure you're logged into Steam, though.
+You can try starting the launcher from the desktop/start menu shortcut (if you created one during the installation) or by directly running `LauncherC0.exe` from the game directory (right click *STEINS;GATE* in your Steam library, *Properties* → *Local Files* → *Browse Local Files...*). Make sure you're logged into Steam, though.
  
 ### Phantom inputs make the game impossible to control (menu selections automatically go up)
  
