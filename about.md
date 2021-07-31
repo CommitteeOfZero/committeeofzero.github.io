@@ -38,7 +38,6 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[ItsRigs](https://twitter.com/Chaos_World_300)**: Translator / Translation Advisor
 * **[MrComputerRevo](https://twitter.com/MrComputerRevo)**: Lead Developer / Reverse Engineer
 * **[Rain](https://rainm.io/)**: Lead Translator / TLC
-* **[Ice](https://twitter.com/DelusionParadox)**: Quality Assurance
 * **[Sarkkoth](https://youtube.com/Sarkkoth)**: Translator
 * **[Fasty](https://twitter.com/Fasty022)**: Editor
 * **[JoseJL](mailto:josejl1987@gmail.com)**: Game Developer / Reverse Engineer
@@ -50,11 +49,13 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[Jake](https://twitter.com/futotorofu)**: TLC
 * **[LkProd](https://twitter.com/ropdlk)**: CG Editor
 * **[BlabbityBla](https://twitter.com/BlaBlabbity)**: Translator
+* **[Spider](#): Quality Assurance
 
 ### Past members
 
 * **[SnowedEarth](https://twitter.com/SnowedEarth)**: TLC / Karaoke Subtitles
 * **[rimi](#)**: CG Editor
+* **[Ice](https://twitter.com/DelusionParadox)**: Quality Assurance
 
 
 Keep in mind that this list does not include everyone in the Committee of Zero. We have many members, including those who have done... zero work.
