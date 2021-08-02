@@ -3,6 +3,7 @@ title: "CHAOS;HEAD NOAH - Progress Update #7"
 layout: post
 excerpt: <p>Hey, guys! Today we have some wonderful news to share. Let's get right down to it.</p>
 date: 2021-03-01 21:00:42 +0000
+hidden: true
 ---
 
 Hey, guys! Today we have some wonderful news to share. Let's get right down to it.

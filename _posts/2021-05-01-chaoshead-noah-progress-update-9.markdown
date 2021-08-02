@@ -3,6 +3,7 @@ title: "CHAOS;HEAD NOAH - Progress Update #9"
 layout: post
 excerpt: <p>This month just flew by, huh? Welcome back to another progress update!</p>
 date: 2021-05-01 21:00:43 +0000
+hidden: true
 ---
 
 This month just flew by, huh? Welcome back to another progress update!

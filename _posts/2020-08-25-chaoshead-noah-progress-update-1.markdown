@@ -2,6 +2,7 @@
 title: "CHAOS;HEAD NOAH - Progress Update #1"
 layout: post
 date: 2020-08-25 22:13:15 +0000
+hidden: true
 ---
 
 Alright, enough time has passed that we seriously owe everyone some transparency about CHAOS;HEAD NOAH. Luckily, however, with this transparency we bring a whole lot more good news than bad.

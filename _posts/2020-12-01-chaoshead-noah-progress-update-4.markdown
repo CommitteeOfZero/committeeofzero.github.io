@@ -3,6 +3,7 @@ title: "CHAOS;HEAD NOAH - Progress Update #4"
 layout: post
 excerpt: <p>After suffering from a bit of post-patch fatigue, we're getting back into the groove of things. Schoolwork, finals, and part-time/full-time jobs still stand in the way of many of our translators, so it'll take some time for us to get back to full speed, but rest assured that progress is slowly but surely picking back up.</p>
 date: 2020-12-01 20:30:55 +0000
+hidden: true
 ---
 
 Hey guys!

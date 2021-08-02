@@ -3,6 +3,7 @@ title: "CHAOS;HEAD NOAH - Progress Update #3"
 layout: post
 excerpt: <p>Ah, it's you again. Returning once more to our doorstep. Well, unfortunately, you're one day too late, so we have no candy to give you. However, we do have a nice, delicious, truly delectable report for you, and we hope it will suffice. It may not be quite the treat you expect, so we ask that you hold off on the eggs and let us guide you through the tangled web we must weave.</p>
 date: 2020-11-01 19:29:32 +0000
+hidden: true
 ---
 
 Ah, it's you again. 

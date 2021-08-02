@@ -3,6 +3,7 @@ title: "CHAOS;HEAD NOAH - Progress Update #8"
 layout: post
 excerpt: <p>Hi, everyone! Sorry for getting this update out so late.</p>
 date: 2021-04-01 21:00:43 +0000
+hidden: true
 ---
 
 Hi, everyone! Sorry for getting this update out so late, the past few days have been pretty crazy. Well, let's just say that, now that the first quarter of 2021 has already flown by, we've all been left feeling a little existential. Why are we alive? Why are we here? Why are *you* here?

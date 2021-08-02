@@ -2,6 +2,7 @@
 title: "CHAOS;HEAD NOAH - Progress Update #2"
 layout: post
 date: 2020-10-01 23:27:15 +0000
+hidden: true
 ---
 
 Hey guys! September showed up and kicked down the door last month, and quite a lot of people know that as the terrifying sound of imminent classes, coursework, and the many things life wants to throw at them with the start of the fall. With that, quite a few members of our team have been dragged against their will out from our patented Translation Jail (they definitely were in there of their own volition, trust us) back into the hell from whence they came. Every once in a while, we'll see one of our essential workers crawl out from the depths and release a script or two, but in the end, The Void always takes precedence.

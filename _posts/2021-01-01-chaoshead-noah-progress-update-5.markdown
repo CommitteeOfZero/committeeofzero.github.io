@@ -3,6 +3,7 @@ title: "CHAOS;HEAD NOAH - Progress Update #5"
 layout: post
 excerpt: <p>'Tis the season of "dude how in the WORLD did we make it through that year," so along with that heaping plate of introspection and self-reflection, we've got a nice, tall glass of Progress Report for ya (it pretty much just tastes like Egg Nog), full of insight, new percentages, and more!</p>
 date: 2021-01-01 21:00:42 +0000
+hidden: true
 ---
 
 Hey everyone! 

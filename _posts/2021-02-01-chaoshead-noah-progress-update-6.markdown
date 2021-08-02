@@ -3,6 +3,7 @@ title: "CHAOS;HEAD NOAH - Progress Update #6"
 layout: post
 excerpt: <p>And we’re back with the second progress update of the year! It's also the first report on progress made in 2021, and we couldn't be any more excited to continue work on all our projects.</p>
 date: 2021-02-01 21:00:42 +0000
+hidden: true
 ---
 
 And we’re back with the second progress update of the year! It's also the first report on progress made in 2021, and we couldn't be any more excited to continue work on all our projects.

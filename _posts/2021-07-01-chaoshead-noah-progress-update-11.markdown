@@ -3,6 +3,7 @@ title: "CHAOS;HEAD NOAH - Progress Update #11"
 layout: post
 excerpt: <p>We're nearing one year—twelve progress updates—since we revamped our team and kicked Noah into high gear.</p>
 date: 2021-07-01 00:00:01 +0000
+hidden: true
 ---
 
 Yo! How is it going, everybody?

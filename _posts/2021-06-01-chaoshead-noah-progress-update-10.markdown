@@ -3,6 +3,7 @@ title: "CHAOS;HEAD NOAH - Progress Update #10"
 layout: post
 excerpt: <p>Woo-hoo! Double digits!</p>
 date: 2021-06-01 00:00:01 +0000
+hidden: true
 ---
 
 Hello, everybody! Welcome to progress report 10! Woo-hoo! Double digits!
