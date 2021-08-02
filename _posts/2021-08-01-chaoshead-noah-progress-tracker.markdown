@@ -17,7 +17,7 @@ This is the progress tracker for our CHAOS;HEAD NOAH fan translation, which is u
 | B route          | 100.00%         |            |             |
 | Nanami route     | 100.00%         |            |             |
 | Yua route        | 100.00%         | **21.00%** | **16.96%**  |
-| Sena route       | 100.00%         | **100%**   | 4.71%       |
+| Sena route       | 100.00%         | **100.00%**   | 4.71%       |
 | Kozue route      | 100.00%         |            |             |
 | Ayase route      | 100.00%         | 100.00%    | 56.32%      |
 | Rimi route       | 100.00%         |            |             |
