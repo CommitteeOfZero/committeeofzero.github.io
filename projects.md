@@ -20,8 +20,7 @@ active_tab: projects
 
 #### Work in progress
 
-* CHAOS;HEAD NOAH Fan Translation
-* CHAOS;HEAD NOAH PC Port
+* [CHAOS;HEAD NOAH Fan Translation & PC Port]({{ "/projects/chn-progress-tracker.html" | relative_url }})
 
 #### Supporting technology
 

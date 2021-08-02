@@ -5,6 +5,8 @@ excerpt: <p>Making some clarifications on our translation process for CHAOS;HEAD
 date: 2021-04-01 21:00:42 +0000
 ---
 
+[← Back to project page]({{ "/projects/chn-progress-tracker.html" | relative_url }})
+
 ## How We Operate
 
 As we draw closer to completing the first-pass translation, we’ve noticed some confusion among members of the community, and we feel it’s about time we set the record straight.
@@ -39,3 +41,5 @@ And the reason TLC is expected to take longer on this project than on some other
 Well, that's about everything we've got for you. We hope this was interesting and helped you understand a little bit more about what's going on behind the curtain here at CoZ. Now, [here’s your door back to the April 1st progress report]({% post_url 2021-04-01-chaoshead-noah-progress-update-8 %}) if you weren’t finished reading it, because you’ll definitely want to.
 
 See you later!
+
+[← Back to project page]({{ "/projects/chn-progress-tracker.html" | relative_url }})
