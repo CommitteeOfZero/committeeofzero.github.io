@@ -3,6 +3,7 @@ title: "CHAOS;HEAD Noah: Looking for Translators"
 layout: post
 date: 2016-11-21 01:18:38 +0100
 excerpt: <p>Japanese → English translators from across the world, now is the time to come to arms.</p>
+hidden: true
 ---
 
 **Update, since this was causing some confusion:** We've long since scrapped the plan to reuse TLWiki's translation. When Noah happens, it'll be an all-new TL.
