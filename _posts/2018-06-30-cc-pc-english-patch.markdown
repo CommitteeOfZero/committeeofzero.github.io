@@ -1,5 +1,5 @@
 ---
-title: "CHAOS;CHILD PC English patch"
+title: "CHAOS;CHILD PC English Patch"
 layout: post
 permalink: "/projects/chaoschild.html"
 active_tab: projects

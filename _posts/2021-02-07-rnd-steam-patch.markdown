@@ -1,5 +1,5 @@
 ---
-title: "ROBOTICS;NOTES DaSH Steam patch"
+title: "ROBOTICS;NOTES DaSH Steam Patch"
 layout: post
 permalink: "/projects/rnd-steam.html"
 active_tab: projects

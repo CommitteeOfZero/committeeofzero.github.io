@@ -1,5 +1,5 @@
 ---
-title: "CHAOS;CHILD Steam patch"
+title: "CHAOS;CHILD Steam Patch"
 layout: post
 permalink: "/projects/chaoschild-steam.html"
 active_tab: projects

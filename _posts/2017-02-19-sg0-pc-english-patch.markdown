@@ -1,5 +1,5 @@
 ---
-title: "STEINS;GATE 0 PC English patch"
+title: "STEINS;GATE 0 PC English Patch"
 layout: post
 permalink: "/projects/sg0.html"
 active_tab: projects

@@ -1,5 +1,5 @@
 ---
-title: "ROBOTICS;NOTES ELITE Steam patch"
+title: "ROBOTICS;NOTES ELITE Steam Patch"
 layout: post
 permalink: "/projects/rne-steam.html"
 active_tab: projects
