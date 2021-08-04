@@ -22,7 +22,7 @@ This is the progress tracker for our CHAOS;HEAD NOAH fan translation, which is u
 | Ayase route      | 100.00%         | 100.00%    | 56.32%      |
 | Rimi route       | 100.00%         |            |             |
 | True end         | 100.00%         |            |             |
-| TIPs             | 100.00%         | 100.00%    | 21.13%      |
+| TIPs             | 100.00%         | 100.00%    | **23.94%**      |
 | **<u>Total</u>** | **99.23%**      | **18.79%** | **10.35%**  |
 {: class="totals"}
 
