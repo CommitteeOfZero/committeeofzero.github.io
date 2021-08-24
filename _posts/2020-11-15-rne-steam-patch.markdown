@@ -31,6 +31,11 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.0.7 *(Aug 24, 2021)*
+
+* Minor text fixes, as well as improved consistency with STEINS;GATE.
+* TIPS section has been adjusted for readability.
+
 ##### Version 1.0.6 *(Apr 02, 2021)*
 
 * Translated remaining untranslated CGs.
