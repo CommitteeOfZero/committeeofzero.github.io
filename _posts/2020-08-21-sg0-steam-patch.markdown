@@ -44,6 +44,11 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 2.1.1 *(Aug 27, 2021)*
+
+* The correct version of GATE OF STEINER in the Sound Library has been restored.
+* Minor text and consistency fixes.
+
 ##### Version 2.1 *(Jul 28, 2021)*
 
 * A full translation check and editing pass of the TIPS has been completed, fixing large amounts of incorrect terminology, inaccuracies, inconsistencies, as well as improving general readability.

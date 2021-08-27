@@ -18,7 +18,13 @@ Download link and instructions are <a href="#guides">↓ below</a>.
 [Join us on Discord](https://discord.gg/rq4GGCh) for fun, ~~shitposting~~ and support.
  
 # Changelog
- 
+
+##### Version 2.0 *(Aug 27, 2021)*
+
+* Minor text and consistency fixes.
+* Fixed issues with word wrapping.
+* Fixed an issue where some HQ videos were not properly replaced.
+
 ##### Version 2.0 *(Jul 28, 2021)*
  
 * Lots of internal updates.
