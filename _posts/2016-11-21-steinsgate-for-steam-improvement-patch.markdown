@@ -19,7 +19,7 @@ Download link and instructions are <a href="#guides">↓ below</a>.
  
 # Changelog
 
-##### Version 2.0 *(Aug 27, 2021)*
+##### Version 2.0.1 *(Aug 27, 2021)*
 
 * Minor text and consistency fixes.
 * Fixed issues with word wrapping.
