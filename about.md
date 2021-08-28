@@ -42,7 +42,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[Fasty](https://twitter.com/Fasty022)**: Editor
 * **[JoseJL](mailto:josejl1987@gmail.com)**: Game Developer / Reverse Engineer
 * **[Enorovan](https://twitter.com/Enorovan)**: Translator / Editor
-* **[WizardNoah](https://twitter.com/WizardNoah)**: Translator
+* **[WitchEvelyn](https://twitter.com/Witch_Evelyn)**: Translator
 * **[fl4t_is_justice](https://twitter.com/fl4t_is_justice)**: Translator
 * **[ChrisGLink](https://twitter.com/ChrisGLink)**: Translator / TLC
 * **[barrafas](https://twitter.com/barrafas0)**: TLC / Editor
