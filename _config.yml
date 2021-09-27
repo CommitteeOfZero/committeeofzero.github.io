@@ -24,9 +24,12 @@ paginate: 5
 # url: "http://temp.dareno.me"
 
 # lastmod date is publishing date! 
-#gems:
+#plugins:
 #  -
 #    jekyll-sitemap
+plugins:
+  -
+    jekyll-feed
 
 defaults:
   -
