@@ -47,5 +47,5 @@ For a year from August 2020 to August 2021, we released monthly progress updates
 * [Progress Update #5 - Jan 1, 2021]({{ "/2021/01/01/chaoshead-noah-progress-update-5.html" | relative_url }})
 * [Progress Update #4 - Dec 1, 2020]({{ "/2020/12/01/chaoshead-noah-progress-update-4.html" | relative_url }})
 * [Progress Update #3 - Nov 1, 2020]({{ "/2020/11/01/chaoshead-noah-progress-update-3.html" | relative_url }})
-* [Progress Update #2 - Oct 1, 2021]({{ "/2020/10/01/chaoshead-noah-progress-update-2.html" | relative_url }})
+* [Progress Update #2 - Oct 1, 2020]({{ "/2020/10/01/chaoshead-noah-progress-update-2.html" | relative_url }})
 * [Progress Update #1 - Aug 25, 2020]({{ "/2020/08/25/chaoshead-noah-progress-update-1.html" | relative_url }})
