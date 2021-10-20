@@ -12,7 +12,7 @@ Greetings and salutations, lab mems and gigalomaniacs. We’re guessing since yo
 **UPDATE:** That was nearly five years ago now. Can you believe it? Well, a promise is a promise, and we've finally gotten around to releasing this major update for the STEINS;GATE Steam patch! Throughout the years, we've gained more and more experience working with this series, so it was only natural that someday we'd return to the project that started it all! Even though STEINS;GATE still remains as a top-of-the-line localization, there's always a *few* things to fix, aren't there? Now then, without further ado, let the 19790th development council commence!
  
 <div style="border: 1px solid #fff; padding: 8px;">
-Download link and instructions are <a href="#guides">↓ below</a>.
+Download link and instructions are <a href="#installation">↓ below</a>.
 </div>
  
 [Join us on Discord](https://discord.gg/rq4GGCh) for fun, ~~shitposting~~ and support.
