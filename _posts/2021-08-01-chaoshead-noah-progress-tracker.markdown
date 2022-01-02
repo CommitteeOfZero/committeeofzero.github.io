@@ -9,21 +9,21 @@ excerpt: <p>This is the progress tracker for our CHAOS;HEAD NOAH fan translation
 
 This is the progress tracker for our CHAOS;HEAD NOAH fan translation, which is updated on the first day of every month. For more information on the nature of the translation project, as well as the meanings of the columns in the below table, you can read about it all [here]({% post_url 2021-04-01-chaoshead-noah-translation-process-deep-dive %}).
 
-### Overall Totals — December 2nd, 2021
+### Overall Totals — January 2nd, 2022
 
 |                  | **Translation** | **TLC**    | **Editing** |
 | ---------------- | --------------- | ---------- | ----------- |
-| Common route     | 100.00%         | 12.39%     | **11.20%**  |
+| Common route     | 100.00%         | 12.39%     | 11.20%      |
 | B route          | 100.00%         |            |             |
 | Nanami route     | 100.00%         |            |             |
-| Yua route        | 100.00%         | 59.03%     | 16.96%      |
+| Yua route        | 100.00%         | **74.28%** | 16.96%      |
 | Sena route       | 100.00%         | 100.00%    | 4.71%       |
 | Kozue route      | 100.00%         |            |             |
 | Ayase route      | 100.00%         | 100.00%    | 56.32%      |
 | Rimi route       | 100.00%         |            |             |
 | True end         | 100.00%         |            |             |
 | TIPs             | 100.00%         | 100.00%    | 23.94%      |
-| **<u>Total</u>** | 100.00%         | 20.31%     | **11.25%**  |
+| **<u>Total</u>** | 100.00%         | **20.92%** | 11.25%      |
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD
