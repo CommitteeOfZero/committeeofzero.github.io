@@ -3,6 +3,7 @@ title: "CHAOS;HEAD NOAH - Progress Update #12"
 layout: post
 excerpt: <p>It has been a whole year of memories and progress, so hop in and let's have one more heart-to-heart.</p>
 date: 2021-08-01 00:00:01 +0000
+hidden: true
 ---
 
 It has been a whole year of memories and progress, so hop in and let's have one more heart-to-heart.

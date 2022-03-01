@@ -1,10 +1,10 @@
 ---
 title: "CHAOS;HEAD NOAH Progress Tracker"
 layout: post
-permalink: "/projects/chn-progress-tracker.html"
 active_tab: projects
 date: 2021-08-01 00:00:02 +0000
 excerpt: <p>This is the progress tracker for our CHAOS;HEAD NOAH fan translation, which is updated on the first day of every month.</p>
+hidden: true
 ---
 
 This is the progress tracker for our CHAOS;HEAD NOAH fan translation, which is updated on the first day of every month. For more information on the nature of the translation project, as well as the meanings of the columns in the below table, you can read about it all [here]({% post_url 2021-04-01-chaoshead-noah-translation-process-deep-dive %}).
