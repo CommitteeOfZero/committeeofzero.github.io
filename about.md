@@ -35,21 +35,22 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[Cypert](https://twitter.com/CypertSystem)**: CG Editor / Subtitles
 * **[Raniel](mailto:raniel@dareno.me)**: Lead PR <small>/ resident shitposter</small>
 * **[dusk](https://twitter.com/EpitaxyMeltdown)**: CG Editor (Cleaning / Redrawing)
-* **[ItsRigs](https://twitter.com/Chaos_World_300)**: Translator / Translation Advisor
+* **[ItsRigs](https://twitter.com/Chaos_World_300)**: Translator / TLC
 * **[MrComputerRevo](https://twitter.com/MrComputerRevo)**: Lead Developer / Reverse Engineer
 * **[Rain](https://rainm.io/)**: Lead Translator / TLC
 * **[Sarkkoth](https://youtube.com/Sarkkoth)**: Translator
-* **[Fasty](https://twitter.com/Fasty022)**: Editor
+* **[Fasty](https://twitter.com/Fasty022)**: Editor / TLC
 * **[JoseJL](mailto:josejl1987@gmail.com)**: Game Developer / Reverse Engineer
-* **[Enorovan](https://twitter.com/Enorovan)**: Translator / Editor
-* **[WitchEvelyn](https://twitter.com/Witch_Evelyn)**: Translator
-* **[fl4t_is_justice](https://twitter.com/fl4t_is_justice)**: Translator
-* **[ChrisGLink](https://twitter.com/ChrisGLink)**: Translator / TLC
+* **[Enorovan](https://twitter.com/Enorovan)**: Translator / Mass Replacer / Developer
+* **[WitchEvelyn](https://twitter.com/Witch_Evelyn)**: Translator / TLC
+* **[fl4t_is_justice](https://twitter.com/fl4t_is_justice)**: Translator / TLC
+* **[ChrisGLink](https://twitter.com/ChrisGLink)**: Translator / TLC / Editor
 * **[barrafas](https://twitter.com/barrafas0)**: TLC / Editor
 * **[Jake](https://twitter.com/futotorofu)**: TLC
 * **[LkProd](https://twitter.com/ropdlk)**: CG Editor
 * **[BlabbityBla](https://twitter.com/BlaBlabbity)**: Translator
 * **[Spider](#)**: Quality Assurance
+* **[LightArrowsEXE](https://twitter.com/LightArrowsEXE)**: Video Connoisseur / Karaoke Subtitles
 
 ### Past members
 

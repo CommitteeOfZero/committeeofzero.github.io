@@ -31,6 +31,11 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.0.3 *(Apr 1, 2022)*
+
+* The translation check/proofreading pass of the game has advanced, fixing incorrect terminology, inaccuracies, and inconsistencies.
+* The Swimsuit Patch bonus feature has been implemented.
+
 ##### Version 1.0.2 *(Aug 24, 2021)*
 
 * A light translation check/proofreading pass of half the game has been completed, fixing incorrect terminology, inaccuracies, and inconsistencies.
