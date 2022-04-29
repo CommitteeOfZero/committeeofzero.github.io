@@ -11,6 +11,13 @@ Oh hey, we released something on time for once.
 
 This patch brings the fixes and improvements from our previous patch to the Steam version and adds a few more. See [below](#features) for a full list of features.
 
+**UPDATE:** See that "few" above? Miiight be a bit of an understatement. 
+
+Much like what we talked about for our STEINS;GATE Steam Patch version 2.0, we gained experience over the years, our team got bigger, and our ambitions higher. So here it is, finally—the major update to our CHAOS;CHILD Steam Patch. With all the places our CHAOS;HEAD NOAH translation has gone, we were bound to revise CHAOS;CHILD at some point; the two games are very tightly connected, after all. As our work on NOAH progressed, we found more and more parallels, more evident thematic progression, and just... more in general. It wouldn’t be an exaggeration to say this patch has an amount of work and thought put into it comparable to our ROBOTICS;NOTES ELITE Steam Patch, but with far less crunch this time, we promise.
+
+So, without further ado, we welcome you back to Chaos World.
+
+
 <div style="border: 1px solid #fff; padding: 8px;">
 Download link and instructions are <a href="#guides">↓ below</a>.
 </div>
@@ -27,6 +34,13 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 {% include thumb.html fullsize="/uploads/cc_extracgs.png" thumb="/uploads/cc_extracgs_thumb.png" caption="Translated CGs" %}
 
 # Changelog
+
+##### Version 2.0 *(April 29, 2022)*
+
+* A full proofreading pass of the game has been completed, fixing large amounts of incorrect terminology, inaccuracies, inconsistencies, as well as improving general readability. Some moderate translation checking was done as well.
+* The TIPS have received a full translation check and editing pass.
+* Terminology has been made consistent with our CHAOS;HEAD NOAH translation and all our other patches.
+* Restored Japanese honorifics.
 
 ##### Version 1.12 *(May 21, 2019)*
 
@@ -76,11 +90,23 @@ The original game release has several technical issues, such as broken lipsync a
 
 ##### Script fixes
 
-From typos to mistranslations, we've fixed mistakes ranging from large to small—for a total of over 1,600 lines changed. Some of them were tiny enough that most people would probably skim past without realizing, while others were grossly obvious or confusing and were serious impediments to an immersive reading experience.
+Corrects major mistranslations, continuity errors, and other translation flaws.
+
+These range from simple punctuation mistakes, to huge errors that could impact one’s understanding of the game. Examples could include inaccurate descriptions, improper names, inconsistent terminology, etc.
+
+The CHAOS;CHILD localization suffers from a peculiar translation issue. The way the game was written in Japanese takes a lot of inspiration from other mystery novels—especially with the prose. Unfortunately, in quite a lot of instances, descriptions or internal thoughts were watered-down, or even worse, partly cut in the localization. This could be for any number of reasons—time crunch, lack of awareness, or perhaps not having the opportunity to read the other games in the series. Either way, we have restored the text to match the original Japanese text.
+
+As part of our pass, we revised some pretty large things that we wouldn't normally change, the biggest of which old fans of the series will pick up on pretty quick. We hope you enjoy discovering them as much as we enjoyed coming up with them.
+
+##### Restored Japanese honorifics
+
+Much like we did for the STEINS;GATE 0 Steam Patch version 2.0, we fully reimplemented honorifics. The official localizations of all other games use Japanese honorifics, and so does our CHAOS;HEAD NOAH translation, so it's only natural that CHAOS;CHILD receives the same treatment.
 
 ##### Consistency fixes
 
-There were a number of terms in CHAOS;CHILD, such as names of people, objects, and products, which were translated differently in previous localizations and official media. This patch **optionally** replaces all inconsistent terminology with the translations used in previous titles (primarily STEINS;GATE’s localization), as well as swapping the name order to Japanese (e.g. "Takumi Nishijo" → "Nishijou Takumi").
+There were a number of terms in CHAOS;CHILD—such as the names of people, objects, events, and products—which were translated differently in previous localizations and official media. In most instances, consistency issues were most likely caused by a lack of a CHAOS;HEAD NOAH localization, as well as other untranslated games. Fortunately, because of our familiarity and work with this series, we’ve been able to create a proper CHAOS; terminology list, and the CHAOS;CHILD Steam Patch version 2.0 will be your first look at it.
+
+In short, on top of making CHAOS;CHILD consistent with every other patched game, it has also been made consistent with our CHAOS;HEAD NOAH translation. This’ll allow each and every one of our readers to have the best experience possible—one that maintains everything that connects these wonderful games together.
 
 ##### Typography improvements
 
@@ -151,12 +177,12 @@ Update Windows. You may need to install the Visual C++ 2015 Redistributable Upda
 
 # Credits
 
-* **Image editing**: Cypert, dusk, rimi, MrComputerRevo, Kumin, Raykable, Zips
+* **Image editing**: Cypert, dusk, rimi, MrComputerRevo, Kumin, Raykable, Zips, Enorovan
 * **Hacking**: SomeAnon, daxxy, MrComputerRevo, JoseJL
-* **Editing**: Kumin, Discontinuous Qualia
-* **Translation**: Rain, ItsRigs, MrComputerRevo, Ice
+* **Editing**: Kumin, Discontinuous Qualia, Spider
+* **Translation**: Rain, ItsRigs, MrComputerRevo, Ice, Enorovan, ChrisGLink
 * **Subtitles**: zahj
-* **Chief Masochism Officer**: MrComputerRevo
+* **Chief Masochism Officer**: MrComputerRevo, Enorovan (abdication)
 * **Masochism Deputies**: Raniel, Gel Banana
 
 Special thanks to our vetted laboratory assistants for playtesting and proofreading!
