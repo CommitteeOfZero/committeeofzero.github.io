@@ -94,7 +94,7 @@ Corrects major mistranslations, continuity errors, and other translation flaws.
 
 These range from simple punctuation mistakes, to huge errors that could impact one’s understanding of the game. Examples could include inaccurate descriptions, improper names, inconsistent terminology, etc.
 
-The CHAOS;CHILD localization suffers from a peculiar translation issue. The way the game was written in Japanese takes a lot of inspiration from other mystery novels—especially with the prose. Unfortunately, in quite a lot of instances, descriptions or internal thoughts were watered-down, or even worse, partly cut in the localization. This could be for any number of reasons—time crunch, lack of awareness, or perhaps not having the opportunity to read the other games in the series. Either way, we have restored the text to match the original Japanese text.
+The CHAOS;CHILD localization suffers from a peculiar translation issue. The way the game was written in Japanese takes a lot of inspiration from other mystery novels—especially with the prose. Unfortunately, in quite a lot of instances, descriptions and internal thoughts lacked a lot of the punch they should've had, or even worse, were cut out entirely in the localization. This could have been for any number of reasons, be it time crunch, lack of awareness, or perhaps not having the opportunity to read the other games in the series. Regardless, we've made it a point to restore these passages to match the original Japanese text.
 
 As part of our pass, we revised some pretty large things that we wouldn't normally change, the biggest of which old fans of the series will pick up on pretty quick. We hope you enjoy discovering them as much as we enjoyed coming up with them.
 
