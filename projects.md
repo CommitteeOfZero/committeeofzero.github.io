@@ -20,10 +20,10 @@ active_tab: projects
 
 #### Work in progress
 
-* [CHAOS;HEAD NOAH Fan Translation & PC Port]({{ "/2022/04/01/committee-of-zero-progress-update-2.html" | relative_url }})
-* [STEINS;GATE ELITE Steam Patch]({{ "/2022/04/01/committee-of-zero-progress-update-2.html" | relative_url }})
-* [STEINS;GATE: Linear Bounded Phenogram Steam Patch]({{ "/2022/04/01/committee-of-zero-progress-update-2.html" | relative_url }})
-* [STEINS;GATE: My Darling's Embrace Steam Patch]({{ "/2022/04/01/committee-of-zero-progress-update-2.html" | relative_url }})
+* [CHAOS;HEAD NOAH Fan Translation & PC Port]({{ "/2022/05/01/committee-of-zero-progress-update-3.html" | relative_url }})
+* STEINS;GATE ELITE Steam Patch
+* STEINS;GATE: Linear Bounded Phenogram Steam Patch
+* STEINS;GATE: My Darling's Embrace Steam Patch
 
 #### Supporting technology
 

@@ -102,6 +102,6 @@ Minor Indiscretion is made up of a few moving parts. First off, you have “mino
 
 ## Wow, that was a lot.
 
-Yeah. This is definitely our longest post to date, but it’s arguably one of our most important. We want everyone to know that each and every one of our changes that departs from the original translations is made with purely the utmost respect to the source material. We hope that this post has been helpful and enlightening to everyone, and we hope that you’re all as excited as we are to see all the things we have in store for our future content. If you still have any questions, feel free to drop by our Discord server to talk to us—we’re always willing to.
+Yeah. This is definitely our longest post to date, but it’s arguably one of our most important. We want everyone to know that each and every one of our changes that departs from the original translations is made with purely the utmost respect to the source material. We hope that this post has been helpful and enlightening to everyone, and we hope that you’re all as excited as we are to see all the things we have in store for our future content. If you still have any questions, feel free to drop by [our Discord server](https://discord.gg/rq4GGCh) to talk to us—we’re always willing to.
 
 Well, that’s everything. Take care, all.
