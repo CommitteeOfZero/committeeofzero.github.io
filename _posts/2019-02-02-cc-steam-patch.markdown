@@ -138,7 +138,7 @@ Much of the system/menu text has been re-translated for comprehensibility. Backl
 1. **[↓ Download the installer](https://github.com/CommitteeOfZero/cc-patch/releases).** You want `CCPatch-v<version>-Setup.zip`, not the source code.
 2. Extract the archive somewhere on your hard drive, not in your game directory.
 3. Go to the newly created `CCPatch-v<version>-Setup` folder and run `CCPatch-Installer.exe`. **Warning:** Has sound.
-  * If the installer quits with an error about `MSVCP140.dll`, install [Visual C++ 2015 Redistributable Update 3](https://www.microsoft.com/en-us/download/details.aspx?id=53587) (32-bit version, `vc_redist.x86.exe` - regardless of your system) and try again.
+  * If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
 4. After you click *Finish* and the installer closes, you can delete the `CCPatch-v<version>-Setup` folder.
 
 # Troubleshooting
@@ -167,7 +167,7 @@ Install [DirectX 9.0c](https://www.microsoft.com/en-us/download/details.aspx?id=
 
 ![MSVCP140.dll error]({{ "/uploads/error_vcruntime.png" | absolute_url }})
 
-Install [Visual C++ 2015 Redistributable Update 3](https://www.microsoft.com/en-us/download/details.aspx?id=53587) (32-bit version, `vc_redist.x86.exe` - regardless of your system) and try again.
+Install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
 
 ### Installer shows an error about `api-ms-win-crt-runtime-l1-1-0.dll`
 
