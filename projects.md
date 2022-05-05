@@ -24,6 +24,7 @@ active_tab: projects
 * STEINS;GATE ELITE Steam Patch
 * STEINS;GATE: Linear Bounded Phenogram Steam Patch
 * STEINS;GATE: My Darling's Embrace Steam Patch
+* ANONYMOUS;CODE Stream Fan Translation
 
 #### Supporting technology
 
