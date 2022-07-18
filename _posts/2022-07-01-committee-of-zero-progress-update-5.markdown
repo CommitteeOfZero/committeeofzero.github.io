@@ -51,4 +51,4 @@ We appreciate all of you, and we hope you're all looking forward to whatever we'
 
 Take care now.
 
-NEXT REPORT: August 1st
+# NEXT REPORT: August 1st
