@@ -2,6 +2,7 @@
 title: "STEINS;GATE 0 100% Spoiler-free Walkthrough"
 layout: post
 permalink: "/projects/sg0-walkthrough.html"
+active_tab: guides
 date: 2020-08-21 17:56:06 +0100
 excerpt: <p>A 100% walkthrough for STEINS;GATE 0, designed to allow readers to play through in the optimal route order while unlocking every scene, CG, music track, and tip along the way.</p>
 ---

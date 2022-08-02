@@ -2,6 +2,7 @@
 title: "ROBOTICS;NOTES ELITE 100% Walkthrough"
 layout: post
 permalink: "/projects/rne-walkthrough.html"
+active_tab: guides
 date: 2020-11-13 20:02:28 +0100
 excerpt: <p>A 100% walkthrough for ROBOTICS;NOTES ELITE, designed to allow readers to play through the game in the optimal route order.</p>
 ---

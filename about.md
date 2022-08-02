@@ -52,6 +52,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[Spider](#)**: Quality Assurance
 * **[LightArrowsEXE](https://twitter.com/LightArrowsEXE)**: Video Connoisseur / Karaoke Subtitles
 * **[Rile_Zugo](https://twitter.com/rile_zugo)**: CG Editor
+* **[Bloody](#)**: CG Editor
 
 ### Past members
 
