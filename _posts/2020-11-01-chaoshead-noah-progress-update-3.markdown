@@ -28,7 +28,7 @@ Anyway, we have been making good progress, and we are happy to report that versi
 
 If you are at all familiar with SciADV, you may have heard of a humble little series called Infinity. In this series, a game rests at the very end, capping off the trilogy with a third entry lovingly-crafted to open your third eye: Remember11. Another group was formed a few months back in order to patch the game's existing translation, and a few of our members are a part of that team as well. While it may be called Remember11, they certainly haven't forgotten NOAH for it. Rather, they've been working on it simultaneously for quite some time now, and they are proud to announce that the translation end of the project is complete. All that remains is the coding, so feel free to [join this server](https://discord.gg/zAySJjQ) if you wish to stay tuned!
 
-# "So you're saying that NoAH progress got delayed. SMH." Well, not quite. 
+# "So you're saying that NOAH progress got delayed. SMH." Well, not quite. 
 
 You see, some of our team members are actually insane and decided to keep chipping away at NOAH while working on ROBOTICS;NOTES ELITE, so there has been some progress after all. Not as much as if our entire team was on it unabated, but enough that we hope you'll appreciate it. Here’s that information for ya.
 

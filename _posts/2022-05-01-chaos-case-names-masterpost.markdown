@@ -61,7 +61,7 @@ So, the original Japanese of this case is 美味い手, (“umai te”),  which 
 
 ### Why didn’t you change Group Dive or DQN Puzzle?
 
-If we didn’t change the names, we either felt it did a good job representing the Japanese, or you have a special case like DQN. DQN (read like “dough-kyun”) is a term meaning “delinquent,” and it’s *all over* SciADV—especially CHAOS; games. Now, other localizations have taken it out before, such as Steins;Gate, and that’s completely fine. However, one of the biggest reasons we chose not to do the same here was because DQN was, well, literally written on the bodies of the victims of DQN Puzzle in the form of the letters “D,” “Q,” and “N.” There is also a TIP present in-game explaining the term and its importance, so we felt the name was fine.
+If we didn’t change the names, we either felt it did a good job representing the Japanese, or you have a special case like DQN. DQN (read like “dough-kyun”) is a term meaning “delinquent,” and it’s *all over* SciADV—especially CHAOS; games. Now, other localizations have taken it out before, such as STEINS;GATE, and that’s completely fine. However, one of the biggest reasons we chose not to do the same here was because DQN was, well, literally written on the bodies of the victims of DQN Puzzle in the form of the letters “D,” “Q,” and “N.” There is also a TIP present in-game explaining the term and its importance, so we felt the name was fine.
 
 ### Don’t Look at Me → Don’t Look
 
