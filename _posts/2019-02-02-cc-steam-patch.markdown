@@ -35,7 +35,7 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
-##### Version 2.0 *(April 29, 2022)*
+##### Version 2.0 *(Apr 29, 2022)*
 
 * A full proofreading pass of the game has been completed, fixing large amounts of incorrect terminology, inaccuracies, inconsistencies, as well as improving general readability. Some moderate translation checking was done as well.
 * The TIPS have received a full translation check and editing pass.

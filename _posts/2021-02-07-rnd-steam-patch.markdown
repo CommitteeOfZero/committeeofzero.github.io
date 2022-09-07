@@ -31,6 +31,11 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.0.4 *(Sep 7, 2022)*
+
+* Translation, consistency, and typo fixes.
+* A consistent crash on Twipo has been fixed.
+
 ##### Version 1.0.3 *(Apr 1, 2022)*
 
 * The translation check/proofreading pass of the game has advanced, fixing incorrect terminology, inaccuracies, and inconsistencies.
