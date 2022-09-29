@@ -35,6 +35,11 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 2.0.1 *(Sep 29, 2022)*
+
+* Minor text and consistency fixes.
+* The title menu's logo is now properly translated.
+
 ##### Version 2.0 *(Apr 29, 2022)*
 
 * A full proofreading pass of the game has been completed, fixing large amounts of incorrect terminology, inaccuracies, inconsistencies, as well as improving general readability. Some moderate translation checking was done as well.
@@ -177,11 +182,12 @@ Update Windows. You may need to install the Visual C++ 2015 Redistributable Upda
 
 # Credits
 
-* **Image editing**: Cypert, dusk, rimi, MrComputerRevo, Kumin, Raykable, Zips, Enorovan
-* **Hacking**: SomeAnon, daxxy, MrComputerRevo, JoseJL
-* **Editing**: Kumin, Discontinuous Qualia, Spider
 * **Translation**: Rain, ItsRigs, MrComputerRevo, Ice, Enorovan, ChrisGLink
+* **Editing**: Kumin, Discontinuous Qualia, Spider
+* **Image editing**: Cypert, dusk, rimi, MrComputerRevo, Kumin, Raykable, Zips, Enorovan, Rile_Zugo
+* **Hacking**: SomeAnon, daxxy, MrComputerRevo, JoseJL, Enorovan
 * **Subtitles**: zahj
+* **QC**: Spider
 * **Chief Masochism Officer**: MrComputerRevo, Enorovan (abdication)
 * **Masochism Deputies**: Raniel, Gel Banana
 
