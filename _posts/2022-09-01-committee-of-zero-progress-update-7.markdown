@@ -72,4 +72,4 @@ Well, that’s it for this month. We hope you’re looking forward to the future
 
 Stay tuned.
 
-# NEXT REPORT: October 1st
+# NEXT REPORT: October 1st.

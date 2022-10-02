@@ -48,4 +48,4 @@ We know that 2020's been a really hard year—not just for us, but for all of yo
 
 We wish you happy holidays and a happy New Year. Stay safe, stay warm, and most importantly of all, stay awesome.
 
-# NEXT REPORT: February 1st
+# NEXT REPORT: February 1st.

@@ -55,4 +55,4 @@ Whew, man. That ended up being one of the most packed progress reports yet. It h
 
 That's all for today. As always, we’ll see you again next month!
 
-# NEXT REPORT: March 1st
+# NEXT REPORT: March 1st.

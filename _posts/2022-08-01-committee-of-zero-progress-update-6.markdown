@@ -57,4 +57,4 @@ We’ve got one more thing to show you.
 
 <div class="youtube-wrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i8cFtc6bqU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-# NEXT REPORT: September 1st
+# NEXT REPORT: September 1st.
