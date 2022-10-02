@@ -22,6 +22,10 @@ We can’t help but think, “Is there anything we can do about this?” And we�
 **#SaveChaosHead**<br>
 **#SaveSciADV**
 
+We want all of you to head onto Twitter and blast these hashtags everywhere. See if you can get ‘em trending, even! While we know that Steam is a huge platform, and getting anything changed is a big task, Valve has been known to respond to fan demand like this before. Who knows what could happen?
+
+We’re also aware that the team at Operation HiddenHand have plans to try getting the decision reversed, such as a petition, among other things. There’ll be more information about that in the coming days, but keep an eye on [@OpHiddenHand](https://twitter.com/ophiddenhand) for more details.
+
 And as you’re spreading the word about CHAOS;HEAD NOAH, make sure to recommend people play with the CoZ patch while you’re at it. ;) After all, it completely restores all the content from the 360 release which was cut in later ports, plus much more.
 
 *But what does the ban change for us?*
