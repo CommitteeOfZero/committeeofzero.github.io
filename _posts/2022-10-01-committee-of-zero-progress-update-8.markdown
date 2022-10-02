@@ -7,7 +7,7 @@ date: 2022-10-01 00:00:01 +0000
 
 Hello, everyone! It’s time for our eighth general report (if you look at it sideways, it’ll be our Infinity-eth)! We know you guys have been waiting for this one, so let’s jump straight into it.
 
-### The Bad News
+# The Bad News
 
 As you all know, CHAOS;HEAD NOAH has been banned from Steam. This is incredibly unfortunate, and even downright unfair. Valve’s review process has repeatedly been shown to not judge Visual Novels properly—to the point of obvious bias. It’s very sad to us that this has affected the first entry in such a beloved series.
 
@@ -17,7 +17,7 @@ Speaking not as patchers, but as fans, we *heavily* condemn this decision by Val
 
 We can’t help but think, “Is there anything we can do about this?” And we’ve come to the conclusion that yes, there is. Considering our team is spread out across the globe, we can’t exactly go marching down to Valve HQ. But with your help, we *can* get the word out.
 
-*How are we going to do this, you ask?*
+#### How are we going to do this, you ask?
 
 **#SaveChaosHead**<br>
 **#SaveSciADV**
@@ -28,17 +28,17 @@ We’re also aware that the team at Operation HiddenHand have plans to try getti
 
 And as you’re spreading the word about CHAOS;HEAD NOAH, make sure to recommend people play with the CoZ patch while you’re at it. ;) After all, it completely restores all the content from the 360 release which was cut in later ports, plus much more.
 
-*But what does the ban change for us?*
+#### But what does the ban change for us?
 
 As we’ve said in last month’s report, we’re working on patching the Nintendo Switch version of the game. We’d like to release the Switch patch by the end of October—like we originally planned for the Steam version—but with how bumpy the road has been, we’d like to state in advance: We might end up needing just a few days longer than originally planned, just to make sure the end product is ready. That’s not to say we won’t do everything we can to be finished by our initial deadline, though! And if there is a delay, it won’t be more than a handful of days at most.
 
 At any rate, Spike Chunsoft have stated that they’re looking into alternate storefronts to host the PC version of CHAOS;HEAD NOAH. If and/or when NOAH does receive an official PC port on another storefront besides Steam, we certainly plan on patching it.
 
-*What about CoZ’s own PC port?*
+#### What about CoZ’s own PC port?
 
 We regret to announce officially—even though we’d long suspected it—that our custom PC port Nitrosharp won’t be ready in time for the release of our translation. Even if it were feature-complete right now, we still wouldn’t have enough time to test it before release. We want to make sure Nitrosharp can provide a stable game experience before we can confidently call it ready!
 
-### How do you patch the Switch version of NOAH?
+# How do you patch the Switch version of NOAH?
 
 We will, of course, provide a more detailed guide later, but in summary, there are two ways to patch and play the Nintendo Switch version of the game:
 
@@ -48,7 +48,7 @@ We will, of course, provide a more detailed guide later, but in summary, there a
 
 We understand that not everyone has access to a moddable Switch, but unfortunately, there is no other way to legitimately play the game or obtain the game files for use in an emulator. We hope you understand.
 
-*A few useful resources:*<br>
+#### A few useful resources:
 
 - To check if your Switch is compatible with custom firmware installation, go [here](https://ismyswitchpatched.com/).
 - If it is, you will need to use an RCM Jig to short some pins on your system. You can find those for around $5 USD online.
@@ -58,7 +58,7 @@ Naturally, we heavily encourage you to support the official release, however you
 
 Without further ado, here are the overall totals for NOAH as of today:
 
-### CHAOS;HEAD NOAH Overall Totals — October 1st, 2022
+# CHAOS;HEAD NOAH Overall Totals — October 1st, 2022
 
 |                  | **Translation** | **TLC**    | **Editing** |
 | ---------------- | --------------- | ---------- | ----------- |
@@ -80,7 +80,7 @@ Without further ado, here are the overall totals for NOAH as of today:
 \*\*: Numbers highlighted in **bold** indicate that progress has been made in the past month.
 
 
-### Copy, Paste. Clean, Redraw, Typeset.
+# Copy, Paste. Clean, Redraw, Typeset.
 
 As you can see, we are almost completely finished with the game’s text. As a matter of fact, there are less than 10 scripts that have yet to be edited and finalized—out of over 300! We might just be done with the text of the TL before the official translation releases!
 
@@ -90,7 +90,7 @@ When it comes to fixing up bugs introduced by the new port, as well as restoring
 
 In the field of images and videos, we’re still steadily chugging along. Though, in the interest of perfect transparency, this is our main point of concern in terms of meeting our deadline. There are a *lot* of images, and they’re a lot more technical to edit than those in any other SciADV game. So while we have made a good amount of progress, there still is a fair amount left to go.
 
-### Finally…
+# Finally…
 
 We plan to host a celebration stream upon the release of our CHAOS;HEAD NOAH patch, and we’d love it if you all tuned in! On top of a quick presentation about the patch and a Q&A, we’ll talk about the future of the Committee of Zero. We’ll be posting more info at a later date, including the exact day and time of the event, so stay tuned for more updates. Make sure you’re following us [@CommitteeOf0](https://twitter.com/CommitteeOf0) so you don’t miss out!
 
