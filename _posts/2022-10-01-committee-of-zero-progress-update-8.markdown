@@ -11,7 +11,7 @@ Hello, everyone! It’s time for our eighth general report (if you look at it si
 
 As you all know, CHAOS;HEAD NOAH has been banned from Steam. This is incredibly unfortunate, and even downright unfair. Valve’s review process has repeatedly been shown to not judge Visual Novels properly—to the point of obvious bias. It’s very sad to us that this has affected the first entry in such a beloved series.
 
-(For those who are wondering what happened and would like to know more, [this article by Ars Technica](https://arstechnica.com/gaming/2022/09/nintendoes-what-valve-dont-game-barred-from-steam-will-launch-on-switch/) summaries the situation excellently.)
+(For those who are wondering what happened and would like to know more, [this article by Ars Technica](https://arstechnica.com/gaming/2022/09/nintendoes-what-valve-dont-game-barred-from-steam-will-launch-on-switch/) summarizes the situation excellently.)
 
 Speaking not as patchers, but as fans, we *heavily* condemn this decision by Valve.
 
