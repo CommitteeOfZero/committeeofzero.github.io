@@ -31,6 +31,10 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.0.9 *(Oct 10, 2022)*
+
+* More translation, consistency, and typo fixes.
+
 ##### Version 1.0.8 *(Apr 1, 2022)*
 
 * More translation, consistency, and typo fixes.
