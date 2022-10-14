@@ -55,6 +55,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[Bloody](#)**: CG Editor
 * **[Zips](https://twitter.com/ZiShoR)**: CG Editor / Resident Coffee Maker
 * **[milkyzer0](https://twitter.com/MilkyZer0)**: CG Editor
+* **[Choccy](https://twitter.com/ChrisChoccy)**: CG Editor
 
 ### Past members
 
