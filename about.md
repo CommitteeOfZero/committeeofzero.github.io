@@ -26,29 +26,26 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 
 * **[daxxy](https://twitter.com/DrDaxxy)**: Reverse Engineer / Website Dev
 * **[SomeAnon](https://twitter.com/SomeAnonDev)**: Lead Game Developer / Tooling Developer / Reverse Engineer
-* **[zahj](mailto:zahj@dareno.me)**: Translator / TLC / Karaoke Subtitles
-* **[Kumin](mailto:kumin@dareno.me)**: Lead Editor / PR
-* **[Discontinuous Qualia](https://twitter.com/DiscontinuousQ)**: Editor / PR / Professional Chuunibyou
-* **[Gel Banana](https://twitter.com/ILoveReol)**: QC
-* **[darksoulflame ("Radio")](https://twitter.com/darksoulflame)**: QC
+* **[zahj](mailto:zahj@dareno.me)**: Karaoke Subtitles
+* **[Kumin](mailto:kumin@dareno.me)**: Editor / PR / The Gate
+* **[Discontinuous Qualia](https://twitter.com/DiscontinuousQ)**: Quality Assurance / Professional Chuunibyou
 * **[Davixxa](https://twitter.com/DavixxaYT)**: Botmaster / Resident Slacker
-* **[Cypert](https://twitter.com/CypertSystem)**: CG Editor / Subtitles
-* **[Raniel](mailto:raniel@dareno.me)**: Lead PR <small>/ resident shitposter</small>
-* **[dusk](https://twitter.com/EpitaxyMeltdown)**: CG Editor (Cleaning / Redrawing)
+* **[Cypert](https://twitter.com/CypertSystem)**: CG Editor
+* **[Raniel](mailto:raniel@dareno.me)**: PR <small>/ resident shitposter</small>
+* **[dusk](https://twitter.com/EpitaxyMeltdown)**: CG Editor
 * **[ItsRigs](https://twitter.com/Chaos_World_300)**: Translator / TLC
 * **[MrComputerRevo](https://twitter.com/MrComputerRevo)**: Lead Developer / Reverse Engineer
-* **[Rain](https://rainm.io/)**: Lead Translator / TLC
-* **[Sarkkoth](https://youtube.com/Sarkkoth)**: Translator
+* **[Rain](https://rainm.io/)**: Translator / TLC
 * **[Fasty](https://twitter.com/Fasty022)**: Editor / TLC
-* **[JoseJL](mailto:josejl1987@gmail.com)**: Game Developer / Reverse Engineer
+* **[JoseJL](mailto:josejl1987@gmail.com)**: Developer / Reverse Engineer
 * **[Enorovan](https://twitter.com/Enorovan)**: Translator / Mass Replacer / Developer
-* **[WitchEvelyn](https://twitter.com/Witch_Evelyn)**: Translator / TLC
 * **[fl4t_is_justice](https://twitter.com/fl4t_is_justice)**: Translator / TLC
-* **[ChrisGLink](https://twitter.com/ChrisGLink)**: Translator / TLC / Editor
-* **[barrafas](https://twitter.com/barrafas0)**: TLC / Editor
+* **[ChrisGLink](https://twitter.com/ChrisGLink)**: Head Editor / Translator / TLC / PR
+* **[barrafas](https://twitter.com/barrafas0)**: Quality Assurance
 * **[Jake](https://twitter.com/futotorofu)**: TLC
 * **[LkProd](https://twitter.com/ropdlk)**: CG Editor
-* **[BlabbityBla](https://twitter.com/BlaBlabbity)**: Translator
+* **[BlabbityBla](https://twitter.com/BlaBlabbity)**: Translator / TLC
+* **[TehVict](https://twitter.com/TehVict)**: CG Editor / Mecha Expert
 * **[Spider](#)**: Quality Assurance
 * **[LightArrowsEXE](https://twitter.com/LightArrowsEXE)**: Video Connoisseur / Karaoke Subtitles
 * **[Rile_Zugo](https://twitter.com/rile_zugo)**: CG Editor
@@ -57,11 +54,14 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[milkyzer0](https://twitter.com/MilkyZer0)**: CG Editor
 * **[Choccy](https://twitter.com/ChrisChoccy)**: CG Editor
 
-### Past members
+### Inactive/Past members
 
 * **[SnowedEarth](https://twitter.com/SnowedEarth)**: TLC / Karaoke Subtitles
 * **[rimi](#)**: CG Editor
 * **[Ice](https://twitter.com/DelusionParadox)**: Quality Assurance
-
+* **[Gel Banana](https://twitter.com/ILoveReol)**: QC
+* **[Sarkkoth](https://youtube.com/Sarkkoth)**: Translator
+* **[darksoulflame ("Radio")](https://twitter.com/darksoulflame)**: Quality Assurance
+* **[WitchEvelyn](https://twitter.com/Witch_Evelyn)**: Translator / TLC
 
 Keep in mind that this list does not include everyone in the Committee of Zero. We have many members, including those who have done... zero work.
