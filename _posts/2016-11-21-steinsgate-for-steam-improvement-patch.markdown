@@ -21,7 +21,7 @@ Download link and instructions are <a href="#installation">↓ below</a>.
 
 {% include thumb.html fullsize="/uploads/sghd_text_before.png" thumb="/uploads/sghd_text_before_thumb.png" caption="Typography - before" %}
 {% include thumb.html fullsize="/uploads/sghd_text_after.png" thumb="/uploads/sghd_text_after_thumb.png" caption="Typography - after" %}
-{% include thumb.html fullsize="/uploads/sghd_subtitles.png.png" thumb="/uploads/sghd_subtitles_thumb.png" caption="Subtitles" %}
+{% include thumb.html fullsize="/uploads/sghd_subtitles.png" thumb="/uploads/sghd_subtitles_thumb.png" caption="Subtitles" %}
 {% include thumb.html fullsize="/uploads/sghd_cosplay.png" thumb="/uploads/sghd_cosplay_thumb.png" caption="Cosplay Patch" %}
  
 # Changelog
