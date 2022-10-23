@@ -26,7 +26,7 @@ Download link and instructions are <a href="#installation">↓ below</a>.
  
 # Changelog
 
-##### Version 2.1 *(Oct 23, 2021)*
+##### Version 2.1 *(Oct 23, 2022)*
 
 * The Cosplay Patch has been upscaled and implemented!
 * A few more edited CGs added.
