@@ -16,8 +16,21 @@ Download link and instructions are <a href="#installation">↓ below</a>.
 </div>
  
 [Join us on Discord](https://discord.gg/rq4GGCh) for fun, ~~shitposting~~ and support.
+
+# Screenshots
+
+{% include thumb.html fullsize="/uploads/sghd_text_before.png" thumb="/uploads/sghd_text_before_thumb.png" caption="Typography - before" %}
+{% include thumb.html fullsize="/uploads/sghd_text_after.png" thumb="/uploads/sghd_text_after_thumb.png" caption="Typography - after" %}
+{% include thumb.html fullsize="/uploads/sghd_subtitles.png.png" thumb="/uploads/sghd_subtitles_thumb.png" caption="Subtitles" %}
+{% include thumb.html fullsize="/uploads/sghd_cosplay.png" thumb="/uploads/sghd_cosplay_thumb.png" caption="Cosplay Patch" %}
  
 # Changelog
+
+##### Version 2.1.0 *(Oct 23, 2021)*
+
+* The Cosplay Patch has been upscaled and implemented!
+* A few more edited CGs added.
+* Minor text and consistency fixes.
 
 ##### Version 2.0.1 *(Aug 27, 2021)*
 
@@ -61,17 +74,20 @@ Here's the full list of improvements. Each can be turned on and off individually
  
 ##### Script fixes
 
-A full proofreading pass of the game has been completed, fixing slight grammatical issues, minor typos and wording issues, as well as an extensive amount of inconsistencies with text formatting and a handful of translation fixes. Also includes display fixes in Suzuha’s route.
+A full proofreading pass of the game has been completed, fixing slight grammatical issues, minor typos and wording issues, as well as an extensive amount of inconsistencies with text formatting and a handful of translation fixes. Also includes display fixes in Suzuha's route.
  
 ##### Checked TIPS
  
 A full translation check of the TIPS has been completed, fixing minor terminology issues and light inaccuracies, as well as improving general readability.
+
+##### Cosplay Patch
+
+Reimplements the Cosplay Patch from the non-HD Japanese PC versions of STEINS;GATE using proper upscaling. You'll be able to (re)experience the game with the entirety of the characters wearing costumes/cosplay! Don't forget to thank Mayuri for this find!
+
+If you're curious about who is cosplaying who, or just can't figure out how to get started, head over [here]({{ "/2022/10/23/steinsgate-cosplay-help.html" | relative_url }}).
  
 ##### Better typography
 Adds word-wrapping to the phone and displays text in a nicer font.
- 
-[![Typography - before]({{ "/uploads/sghd_text_before_thumb.png" | relative_url }}){:height="274px" :width="274px"}]({{ "/uploads/sghd_text_before.png" | relative_url }}){:style="margin-right: 8px"}
-[![Typography - after]({{ "/uploads/sghd_text_after_thumb.png" | relative_url }}){:height="274px" :width="274px"}]({{ "/uploads/sghd_text_after.png" | relative_url }})
  
 ##### High-quality CGs
 Replaces low-quality (more heavily upscaled/compressed) translated images with edits of the high-quality Japanese originals.
@@ -135,7 +151,7 @@ Install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.
 Update Windows. You may need to install the Visual C++ Redistributable again afterwards (file above) - use “Repair” when prompted.
  
 # Credits
-* **Image editing**: Cypert, LkProd
+* **Image editing**: Cypert, LkProd, Zips, Spider
 * **Hacking**: SomeAnon, daxxy, MrComputerRevo
 * **Editing**: Fasty, Kumin, ChrisGLink, Enorovan
 * **Translation**: ChrisGLink
