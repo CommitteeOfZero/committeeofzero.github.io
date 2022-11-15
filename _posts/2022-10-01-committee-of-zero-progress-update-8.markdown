@@ -96,4 +96,4 @@ We plan to host a celebration stream upon the release of our CHAOS;HEAD NOAH pat
 
 Thank you all for sticking with us, and we’ll see you again soon!
 
-# NEXT REPORT: November 1st.
+# NEXT REPORT: After the patch releases.
