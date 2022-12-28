@@ -56,10 +56,10 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 
 ### Inactive/Past members
 
-* **[SnowedEarth](https://twitter.com/SnowedEarth)**: TLC / Karaoke Subtitles
+* **[SnowedEarth](#)**: TLC / Karaoke Subtitles
 * **[rimi](#)**: CG Editor
-* **[Ice](https://twitter.com/DelusionParadox)**: Quality Assurance
-* **[Gel Banana](https://twitter.com/ILoveReol)**: QC
+* **[Ice](#)**: Quality Assurance
+* **[Gel Banana](#)**: QC
 * **[Sarkkoth](https://youtube.com/Sarkkoth)**: Translator
 * **[darksoulflame ("Radio")](https://twitter.com/darksoulflame)**: Quality Assurance
 * **[WitchEvelyn](https://twitter.com/Witch_Evelyn)**: Translator / TLC
