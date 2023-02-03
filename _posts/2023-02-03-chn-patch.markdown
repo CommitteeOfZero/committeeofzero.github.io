@@ -165,7 +165,7 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 * **Translators**: ChrisGLink, Enorovan, BlabbityBla, Rain, Leah (fl4t_is_justice)
 * **Head Editor**: ChrisGLink
 * **Assistant Editor**: Kumin
-* **Image Editors**: Rile_Zugo, Cypert, Choccy, Bloody, milkyzer0, TehVict, Kumin, Prod, Enorovan, Zips, Dusk, Vimiani
+* **Image Editors**: Rile_Zugo, Cypert, Choccy, Bloody, milkyzer0, TehVict, Kumin, LkProd, Enorovan, Zips, Dusk, Vimiani
 * **Developers**: BoilingTeapot, Leah (fl4t_is_justice), JoseJL, Enorovan, Arcana, MrComputerRevo, SomeAnon, daxxy
 * **Subtitler**: zahj
 * **Quality Checking Engineer**: Spiderfreak1011
