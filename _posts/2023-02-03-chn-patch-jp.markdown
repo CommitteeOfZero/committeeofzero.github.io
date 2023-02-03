@@ -36,7 +36,7 @@ CHAOS;HEAD NOAHのSwitch・PC版は移植の際にPSP・PS3版をベースにし
 
 パッチ適用前のセーブデータをそのまま持ち越して読み込むことができる
 
-# Installation instructions
+# インストール方法
 
 ### Steam
 
