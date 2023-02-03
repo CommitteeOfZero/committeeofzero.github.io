@@ -11,6 +11,12 @@ excerpt: <p>A 100% walkthrough for CHAOS;HEAD NOAH, designed to allow readers to
 
 This is a 100% walkthrough for CHAOS;HEAD NOAH, designed to allow readers to play through in the optimal route order while unlocking every scene, CG, music track, and tip along the way.
 
+# Preface: The Delusion Trigger
+
+At different points in CHAOS;HEAD NOAH, you will come into contact with the “Delusion Trigger” system. Through it, you can choose if the protagonist experiences a positive delusion, a negative delusion, or no delusion at all.
+
+Click the green button or press Right Trigger on controller to lock into a positive delusion; click the red button or press Left Trigger to lock into a negative delusion; or proceed normally to stay in reality.
+
 # Silent Sky (Ending A)
 
 This is the game's common route; it is required in order to access the rest of the game.
@@ -75,12 +81,20 @@ Positive: “Is there nothing but Cola[...]”
 
 NO → YES → NO → YES → YES
 
+As you progress, a handful of Nanami-related intermissions will be interspersed throughout the story. The skip mode will disengage during these scenes. Be sure to read them for additional context.
+
+The game will branch into the route in chapter six.
+
 ### Yua Route
 
 Chapter 1<br>
 Neutral: I felt bad[...]
 
 NO → NO → YES → YES → YES
+
+As you progress, a handful of Yua-related intermissions will be interspersed throughout the story. The skip mode will disengage during these scenes. Be sure to read them for additional context.
+
+The game will branch into the route in chapter seven.
 
 ### Ayase Route
 
@@ -89,6 +103,10 @@ Negative: ...looked at me.
 
 YES → NO → YES → YES → YES
 
+As you progress, a handful of Aуase-related intermissions will be interspersed throughout the story. The skip mode will disengage during these scenes. Be sure to read them for additional context.
+
+The game will branch into the route in chapter seven.
+
 ### Kozue Route
 
 Chapter 3<br>
@@ -96,12 +114,21 @@ Positive: And sure enough[...]
 
 YES → YES → YES → YES → NO
 
+As you progress, a handful of Kоzue-related intermissions will be interspersed throughout the story. The skip mode will disengage during these scenes. Be sure to read them for additional context.
+
+The game will branch into the route in chapter seven.
+
 ### Sena Route
 
 Chapter 3<br>
 Neutral: She'd actually swung[...]
 
-YES → YES → YES → YES → NO 
+YES → YES → YES → YES → NO
+
+As you progress, a handful of Sena-related intermissions will be interspersed throughout the story. The skip mode will disengage during these scenes. Be sure to read them for additional context.
+
+The game will branch into the route in chapter seven.
+
 
 ### Rimi Route
 
@@ -109,6 +136,10 @@ Chapter 1<br>
 Positive: I felt bad[...]
 
 YES → NO → YES → NO → YES
+
+As you progress, a handful of Rimi-related intermissions will be interspersed throughout the story. The skip mode will disengage during these scenes. Be sure to read them for additional context.
+
+The game will branch into the route in chapter eight.
 
 ### Bad Ending
 
@@ -140,7 +171,7 @@ Any deviation from above will result in Ending A.
 
 # Remaining Achievements and Cleanup
 
-The final achievements are tied to viewing all delusions, TIPS, CGs, as well as two specific results from the medical questionaire you fill out in Chapter 2.
+The final achievements are tied to viewing all delusions, TIPS, CGs, as well as two specific results from the medical questionnaire you fill out in Chapter 2.
 
 Simply view all delusions—positive, negative, and neutral. This should help you get most of the CGs and TIPS as well. However, there are a few CG variants that result from 
 <details>

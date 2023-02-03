@@ -29,10 +29,10 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Screenshots
 
-{% include thumb.html fullsize="/uploads/rnd_tips.png" thumb="/uploads/rnd_tips_thumb.png" caption="Our CHAOS;HEAD NOAH Translation" %}
-{% include thumb.html fullsize="https://www.youtube.com/watch?v=yCyV22P1IMA" fullsize_ext=true thumb="/uploads/rnd_mouse_thumb.png" caption="Uncensoring" %}
-{% include thumb.html fullsize="/uploads/chn_images.webp" thumb="/uploads/cc_typography_thumb.png" caption="Translated CGs" %}
-{% include thumb.html fullsize="/uploads/chn_videos.png" thumb="/uploads/chn_videos_thumb.png" caption="Translated Videos" %}
+{% include thumb.html fullsize="/uploads/chn_translation.png" thumb="/uploads/chn_translation_thumb.png" caption="Translation/Consistency/Typography" %}
+{% include thumb.html fullsize="/uploads/chn_videos.png" thumb="/uploads/chn_videos_thumb.png" caption="Translated Songs" %}
+{% include thumb.html fullsize="/uploads/chn_images.png" thumb="/uploads/chn_images_thumb.png" caption="Translated CGs" %}
+{% include thumb.html fullsize="/uploads/chn_additional_subs.png" thumb="/uploads/chn_additional_subs_thumb.png" caption="Additional Subtitles" %}
 
 # <a name="features"></a>Features
 

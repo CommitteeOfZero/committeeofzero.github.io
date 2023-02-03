@@ -10,7 +10,7 @@ hidden: true
 
 # [**English**]({{ "/projects/chn-patch.html" | relative_url }})
 
-#### 規制コンテンツの修正
+### 規制コンテンツの修正
 
 CHAOS;HEAD NOAHのSwitch・PC版は移植の際にPSP・PS3版をベースにしたため一部のテキストがオミットされてしまった。ゲーム内の規制箇所は計11シーンに及び、特にあるルートではテキストにして５００行を超える重要な場面が簡略化されている。
 
@@ -18,13 +18,13 @@ CHAOS;HEAD NOAHのSwitch・PC版は移植の際にPSP・PS3版をベースにし
 
 下着DLCの規制も同様に撤廃。本移植でカットされた星来の別衣装を実装した。
 
-#### バグ修正
+### バグ修正
 
 再生されない動画、映らない立ち絵、画像の表示ミスといった重大なバグを修正。
 
 見落としたバグがあれば、ぜひDiscordサーバーに参加してお知らせください！
 
-#### QoLの改良
+### QoLの改良
 
 少し読み進む度に文字送りを止めていたスキップ機能を改善。ちゃんとテキストを飛ばせるようになった。
 
@@ -32,15 +32,32 @@ CHAOS;HEAD NOAHのSwitch・PC版は移植の際にPSP・PS3版をベースにし
 
 そして最後にXbox 360・Vita版をより忠実に再現するため、一部Tipsの解除条件を変更した。お楽しみに！
 
-#### フォント変更
-
-ゲーム中のテキストが全体的に小さくなり、文字の外側に黒い縁が追加された。
-
-#### セーブデータの互換性
+### セーブデータの互換性
 
 パッチ適用前のセーブデータをそのまま持ち越して読み込むことができる
 
+# Installation instructions
+
+### Steam
+
+1. **[↓ インストーラーをダウンロードしてください。](https://github.com/CommitteeOfZero/chn-patch/releases).** ソースコードではなく、`CHNSteamPatch-v<version>-Setup.zip`をダウロードしてください。
+2. ゲームフォルダー以外のハードドライブのどこかでアーカイブを解凍してください。
+3. [下着DLC](https://store.steampowered.com/app/2103330/CHAOSHEAD_NOAH__COSTUME_DLC/)がインストールされていて**Steamは走行中であることを確認してください。**
+4. 新しく作られた`CHNSteamPatch-v<version>-Setup`フォルダーに移動してから`CHNSteamPatch-Installer.exe`を走行してください。**※音響注意**
+  * インストーラーが`MSVCP140_1.dll`についてのエラーで停止したら[Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe)（32ビットバージョンのvc_redist.x86.exe）をインストールして再試行してください。
+5. Finishをクリックしてインストーラーが閉じたら、ご自由に`CHNSteamPatch-v<version>-Setup`フォルダーを削除できます。
+
+### GOG
+
+1. **[↓ インストーラーをダウンロードしてください。](https://github.com/CommitteeOfZero/chn-patch/releases).** ソースコードではなく、`CHNGOGPatch-v<version>-Setup.zip`をダウロードしてください。
+2. ゲームフォルダー以外のハードドライブのどこかでアーカイブを解凍してください。
+3. [下着DLC](https://www.gog.com/en/game/chaos_head_noah_costume_dlc)がインストールされていることを確認してください。
+3. 新しく作られた`CHNGOGPatch-v<version>-Setup`フォルダーに移動してから`CHNGOGPatch-Installer.exe`を走行してください。**※音響注意**
+ * インストーラーが`MSVCP140_1.dll`についてのエラーで停止したら[Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe)（32ビットバージョンのvc_redist.x86.exe）をインストールして再試行してください。
+4. Finishをクリックしてインストーラーが閉じたら、ご自由に`CHNGOGPatch-v<version>-Setup`フォルダーを削除できます。
 
 ### CFW Switch
-1. ** [↓ パッチアーカイブをダウンロード](https://github.com/CommitteeOfZero/chn-patch/releases)ソースコードではなく、CHNSwitchJPPatch-v<version>-Setup.zipをダウンロードしてください。**
-2. アーカイブ内容をSwitch用のSDカードのルートディレクトリに解凍してください。 
+
+1. **[↓ パッチアーカイブをダウンロード](https://github.com/CommitteeOfZero/chn-patch/releases)**
+ソースコードではなく、`CHNSwitchJPPatch-v<version>-Setup.zip`をダウンロードしてください。
+2. アーカイブ内容をSwitch用のSDカードのルートフォルダーに展開してください。
