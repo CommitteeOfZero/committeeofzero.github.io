@@ -64,9 +64,11 @@ From CGs to BGs, nearly every single image in the game with Japanese text has be
 
 ### Translated Videos and Audio
 
-Every video in the game been translated, including the entirety of the credits, as well as all *13* opening and ending songs. We’ve included optional karaoke subtitles for each of these songs, with the ability to select between Japanese & English subtitles, Japanese-only subtitles, or English-only subtitles.
+Every opening and ending song in the game has been translated—all *13* of them. We’ve included optional karaoke subtitles for each one, with the ability to select between Japanese & English song subtitles, Japanese-only subtitles, or English-only subtitles.
 
-A number of lines in the game are audio-only and have no associated text. We have provided subtitles so that these lines are understandable to an English audience.
+Also, a number of lines in the game are audio-only and have no associated text. We have provided subtitles so that these lines are understandable to an English audience.
+
+Finally, to ensure that all the staff who worked on this game get their fair acknowledgement, we've also translated the entirety of the game's credits to English.
 
 ### Additional Subtitles
 

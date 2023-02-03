@@ -11,7 +11,7 @@ excerpt: <p>A 100% walkthrough for CHAOS;HEAD NOAH, designed to allow readers to
 
 This is a 100% walkthrough for CHAOS;HEAD NOAH, designed to allow readers to play through in the optimal route order while unlocking every scene, CG, music track, and tip along the way.
 
-# Silent Sky
+# Silent Sky (Ending A)
 
 This is the game's common route; it is required in order to access the rest of the game.
 
@@ -19,16 +19,18 @@ Choose any delusions you wish.
 
 There is one bad ending in this route, triggered by making too many mistakes on a certain set of choices; it is recommended to try and solve it yourself first, but the answers will be below under Bad Ending should you need them.
 
+<p>Once you reach this ending, certain delusions will now appear with YES/NO prompts on your next playthrough. As a general rule, in order to reach a character route, you must <u>enter a specific delusion for each character and answer its subsequent prompts correctly.</u></p>
+
 # Routes
 
 <p>The recommended route order is <i>Common Route (Ending A) → B → Nanami → Yua → Ayase → Kozue → Sena → Rimi → Blue Sky (Ending AA).</i></p>
 
-<p>Following the completion of the Common Route, certain delusions will now appear with YES/NO prompts. As a general rule, in order to reach a character route, you must <u>enter a specific delusion for each character and answer its subsequent prompts correctly.</u></p>
 
-### Crying Sky
+### Crying Sky (Ending B)
 
-This route is sole exception to the rule; rather than simply selecting a certain delusion and answering the prompts correctly, it requires a number of specific delusions to be viewed.<br>
-Start a new game, then view at least 10 of the following 18 delusions. Ignore any character route prompts you might encounter along the away.
+This route is the sole exception to the rule mentioned before; rather than simply selecting a certain delusion and answering the prompts correctly, it requires a number of specific delusions to be viewed.
+
+Start a new game, then view at least 10 of the following 18 delusions. Ignore any question prompts you might encounter along the away.
 
 Chapter 1<br>
 Neutral: I felt bad[...]<br>
@@ -131,7 +133,8 @@ Ending AA:
 
     YES → YES → NO → YES → YES → YES → YES → YES → YES → YES → YES → YES → YES
 </details>
-Ending A: any deviation from above.
+
+Any deviation from above will result in Ending A.
 
 ---
 
