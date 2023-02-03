@@ -22,13 +22,13 @@ If you answered "yes" to all three of these questions, ~~you're probably more qu
 
 ## The Plan
 
-CHAOS;HEAD Noah is a console-exclusive expanded rerelease of CHAOS;HEAD.
+CHAOS;HEAD NOAH is a console-exclusive expanded rerelease of CHAOS;HEAD.
 
 The project is to
 
-* reimplement the VN engine used for CHAOS;HEAD (and Noah),
-* ~~combine Noah's scripts with TLWiki's CHAOS;HEAD translation (though heavily revised and edited to match our style) and~~ *(Edit: as the update above says, we're translating the whole thing now)*
-* translate the content added in Noah.
+* reimplement the VN engine used for CHAOS;HEAD (and NOAH),
+* ~~combine NOAH's scripts with TLWiki's CHAOS;HEAD translation (though heavily revised and edited to match our style) and~~ *(Edit: as the update above says, we're translating the whole thing now)*
+* translate the content added in NOAH.
 
 We've already assembled a crack team of programmers, an image editor, a TLC and (English language) editor and supporting staff. Work on the engine has already begun; ~~the CHAOS;HEAD TL transferral is set to begin shortly, after we finish up on a side project~~ *(Edit: Noah translation is in progress)*.
 

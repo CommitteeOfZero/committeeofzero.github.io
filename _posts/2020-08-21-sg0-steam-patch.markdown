@@ -168,7 +168,7 @@ Can be installed over the Steam version of the game without breaking existing sa
 # <a name="guides"></a>Guides
 
 * [100% Spoiler-free Walkthrough]({{ "/projects/sg0-walkthrough.html" | relative_url }})
-* [Installing on Linux]({{ "/projects/sg0-linux.html" | relative_url }})
+* [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }})
 
 # Installation instructions
 

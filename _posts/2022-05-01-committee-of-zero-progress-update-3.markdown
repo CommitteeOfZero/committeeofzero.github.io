@@ -11,7 +11,7 @@ Welcome to May 2022. Let’s get moving.
 
 ### CHAOS;CHILD 2.0
 
-To begin, if you haven’t heard, we recently released Version 2.0 of our CHAOS;CHILD Steam Patch, something that’s been in the works for well over a year now. It’s got a whole host of improvements packaged into it, a handful of which were ripped straight from our upcoming CHAOS;HEAD NOAH translation! We’ve gotta be consistent, after all—even if it means spoiling a few surprises.
+To begin, if you haven’t heard, we recently released Version 2.0 of our CHAOS;CHILD Improvement Patch, something that’s been in the works for well over a year now. It’s got a whole host of improvements packaged into it, a handful of which were ripped straight from our upcoming CHAOS;HEAD NOAH translation! We’ve gotta be consistent, after all—even if it means spoiling a few surprises.
 
 While we worked on NOAH and CHAOS;CHILD 2.0, we did change some pretty large things from TLWiki’s original CHAOS;HEAD translation, as well as the original CHAOS;CHILD translation. [We made a basic list of the terminology we changed right here, but be warned that there will be spoilers for both games.](https://twitter.com/Enorovan/status/1520127243535720449)
 

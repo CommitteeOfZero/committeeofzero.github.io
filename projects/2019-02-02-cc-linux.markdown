@@ -1,10 +1,10 @@
 ---
-title: "CHAOS;CHILD Steam patch: Installing on Linux"
+title: "CHAOS;CHILD Improvement Patch: Installing on Linux"
 layout: page
 permalink: "/projects/cc-linux.html"
 active_tab: projects
 date: 2019-02-02 00:00:00 +0100
-excerpt: <p>Linux installation instructions for the CHAOS;CHILD Steam patch</p>
+excerpt: <p>Linux installation instructions for the CHAOS;CHILD Improvement Patch</p>
 ---
 
 [← Back to project page]({{ "/projects/chaoschild-steam.html" | relative_url }})

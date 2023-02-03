@@ -1,11 +1,11 @@
 ---
 title: "CHAOS; Case Names Masterpost"
 layout: post
-excerpt: <p>So, two days ago we released Version 2.0 of our CHAOS;CHILD Steam Patch, and with that patch came a lot of changes and updates to the game—some of which were pretty big.</p>
+excerpt: <p>So, two days ago we released Version 2.0 of our CHAOS;CHILD Improvement Patch, and with that patch came a lot of changes and updates to the game—some of which were pretty big.</p>
 date: 2022-05-01 00:00:01 +0000
 ---
 
-So, two days ago we released Version 2.0 of our CHAOS;CHILD Steam Patch, and with that patch came a lot of changes and updates to the game—some of which were pretty big. So! We’re here right now to clear up a few things, mainly—why exactly did they need to be changed, and why were they changed to what they are now?
+So, two days ago we released Version 2.0 of our CHAOS;CHILD Improvement Patch, and with that patch came a lot of changes and updates to the game—some of which were pretty big. So! We’re here right now to clear up a few things, mainly—why exactly did they need to be changed, and why were they changed to what they are now?
 
 Let’s get started.
 

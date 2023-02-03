@@ -1,10 +1,10 @@
 ---
-title: "CHAOS;CHILD Steam Patch"
+title: "CHAOS;CHILD Improvement Patch"
 layout: post
 permalink: "/projects/chaoschild-steam.html"
 active_tab: projects
 date: 2019-02-02 00:00:00 +0100
-excerpt: <p>No, this isn't a delusion. Our CHAOS;CHILD Steam patch, full of fixes and improvements, is out now!</p>
+excerpt: <p>No, this isn't a delusion. Our CHAOS;CHILD Improvement Patch, full of fixes and improvements, is out now!</p>
 ---
 
 Oh hey, we released something on time for once.
@@ -13,7 +13,7 @@ This patch brings the fixes and improvements from our previous patch to the Stea
 
 **UPDATE:** See that "few" above? Miiight be a bit of an understatement. 
 
-Much like what we talked about for our STEINS;GATE Steam Patch version 2.0, we gained experience over the years, our team got bigger, and our ambitions higher. So here it is, finally—the major update to our CHAOS;CHILD Steam Patch. With all the places our CHAOS;HEAD NOAH translation has gone, we were bound to revise CHAOS;CHILD at some point; the two games are very tightly connected, after all. As our work on NOAH progressed, we found more and more parallels, more evident thematic progression, and just... more in general. It wouldn’t be an exaggeration to say this patch has an amount of work and thought put into it comparable to our ROBOTICS;NOTES ELITE Steam Patch, but with far less crunch this time, we promise.
+Much like what we talked about for our STEINS;GATE Steam Patch version 2.0, we gained experience over the years, our team got bigger, and our ambitions higher. So here it is, finally—the major update to our CHAOS;CHILD Improvement Patch. With all the places our CHAOS;HEAD NOAH translation has gone, we were bound to revise CHAOS;CHILD at some point; the two games are very tightly connected, after all. As our work on NOAH progressed, we found more and more parallels, more evident thematic progression, and just... more in general. It wouldn’t be an exaggeration to say this patch has an amount of work and thought put into it comparable to our ROBOTICS;NOTES ELITE Steam Patch, but with far less crunch this time, we promise.
 
 So, without further ado, we welcome you back to Chaos World.
 
@@ -109,7 +109,7 @@ Much like we did for the STEINS;GATE 0 Steam Patch version 2.0, we fully reimple
 
 ##### Consistency fixes
 
-There were a number of terms in CHAOS;CHILD—such as the names of people, objects, events, and products—which were translated differently in previous localizations and official media. In most instances, consistency issues were most likely caused by a lack of a CHAOS;HEAD NOAH localization, as well as other untranslated games. Fortunately, because of our familiarity and work with this series, we’ve been able to create a proper CHAOS; terminology list, and the CHAOS;CHILD Steam Patch version 2.0 will be your first look at it.
+There were a number of terms in CHAOS;CHILD—such as the names of people, objects, events, and products—which were translated differently in previous localizations and official media. In most instances, consistency issues were most likely caused by a lack of a CHAOS;HEAD NOAH localization, as well as other untranslated games. Fortunately, because of our familiarity and work with this series, we’ve been able to create a proper CHAOS; terminology list, and the CHAOS;CHILD Improvement Patch version 2.0 will be your first look at it.
 
 In short, on top of making CHAOS;CHILD consistent with every other patched game, it has also been made consistent with our CHAOS;HEAD NOAH translation. This’ll allow each and every one of our readers to have the best experience possible—one that maintains everything that connects these wonderful games together.
 
@@ -136,7 +136,7 @@ Much of the system/menu text has been re-translated for comprehensibility. Backl
 # <a name="guides"></a>Guides
 
 * [100% Spoiler-free Walkthrough]({{ "/projects/cc-walkthrough.html" | relative_url }})
-* [Installing on Linux]({{ "/projects/cc-linux.html" | relative_url }})
+* [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }})
 
 # Installation instructions
 

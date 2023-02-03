@@ -1,0 +1,178 @@
+---
+title: "CHAOS;HEAD NOAH Overhaul Patch"
+layout: post
+permalink: "/projects/chn-patch.html"
+active_tab: projects
+date: 2023-02-03 00:00:01 +0100
+excerpt: <p>It's time to find the blue.</p>
+---
+
+# [**日本語**]({{ "/projects/chn-patch-jp.html" | relative_url }})
+
+CHAOS;HEAD NOAH: the mindbending, unforgettable opening act to one of the most popular Visual Novel franchises out there—the Science Adventure series. It's the definitive edition of the CHAOS;HEAD story, featuring a number of fascinating character routes that expand on the original and its characters. And we've been working on it for... a very long time.
+
+And it's finally here.
+
+Featuring a fully uncensored experience, over 150 translated CGs, countless bug fixes, as well as an entire original translation of the game, this is our most ambitious project to date. In the past, we've only had our patches available for English audiences on PC, but for CHAOS;HEAD NOAH, we're not stopping there. Our patch is available for Steam, Steam Deck, GOG, Nintendo Switch*, and in both English *and* Japanese. See <a href="#features">below</a> for a full list of features.
+
+And now, without further ado...
+
+It's time to find the blue.
+
+<div style="border: 1px solid #fff; padding: 8px;">
+Download link and instructions are <a href="#guides">↓ below</a>.
+</div>
+
+If you want a spoiler-free guide on how to obtain every ending, you can find one [here]({{ "/projects/chn-walkthrough.html" | relative_url }}).
+
+[Join us on Discord](https://discord.gg/rq4GGCh) for fun, ~~cat videos,~~ and support.
+
+# Screenshots
+
+{% include thumb.html fullsize="/uploads/rnd_tips.png" thumb="/uploads/rnd_tips_thumb.png" caption="Our CHAOS;HEAD NOAH Translation" %}
+{% include thumb.html fullsize="https://www.youtube.com/watch?v=yCyV22P1IMA" fullsize_ext=true thumb="/uploads/rnd_mouse_thumb.png" caption="Uncensoring" %}
+{% include thumb.html fullsize="/uploads/chn_images.webp" thumb="/uploads/cc_typography_thumb.png" caption="Translated CGs" %}
+{% include thumb.html fullsize="/uploads/chn_videos.png" thumb="/uploads/chn_videos_thumb.png" caption="Translated Videos" %}
+
+# <a name="features"></a>Features
+
+### Fully Translated from the Ground Up
+
+Over six years in the making, the biggest feature this patch provides is our very own translation. Ever since our head translator opened up the first script in April 2017, we've been toiling over each and every line in order to best represent these intriguing characters and the sweeping story that surrounds them. We've lived and breathed these scripts for years now, all so we can ensure that *you,* the readers, will feel the same way we did when we read it for the first time so long ago.
+
+From scenes of grief and tragedy, to lighthearted slice-of-life, to spine-tingling horror, we've worked hard to make sure our translation will provide you with the best possible English-speaking experience for this 2009 classic.
+
+*We've got a little more to say in regards to why we felt it necessary to replace the translation, if you're interested. You can find it right [here]({{ "/projects/chn-note-on-translation.html" | relative_url }})*
+
+##### Consistency
+
+The Science Adventure universe is a rich setting filled with many diverse sci-fi concepts, forming an immersive, interconnected world. Of course, in order for this to work, the connections between games rely on having the *same names* being used for the *same things.* Unfortunately, in the official English releases, that's not exactly the case. Terminology is translated inconsistently, references are constantly missed... It's clear that these translations were made without context of the greater series.
+
+Our patch rectifies this. Ranging from NOAH's sequel, CHAOS;HEAD Love Chu☆Chu! to the latest SciADV entry, ANONYMOUS;CODE, we've made sure to restore every little connection from game to game to maintain the intended experience for not just NOAH, but the entire Science Adventure series.
+
+### Decensored Content
+
+When NOAH was ported to PSP, a great deal of content was cut in order to lower the age rating. And, unfortunately, the Nintendo Switch and PC releases are based on this censored script. Eleven scenes throughout the game had lines completely deleted, and one route in particular had a whopping *500-line scene* erased entirely! This scene is vital to the game's central mystery, making the exclusion all the more damaging to the experience.
+
+In our patch, however, we've added back every last bit of the removed content—restoring the presentation of the original Xbox 360 release.
+
+Furthermore, we've restored full functionality for the Lingerie Conversion Patch DLC. This includes Seira's alternate outfit, which was removed in the official localized release.
+
+### Translated Images
+
+From CGs to BGs, nearly every single image in the game with Japanese text has been translated to English. Over *150 images* have been painstakingly cleaned, redrawn, and typeset for this patch.
+
+### Translated Videos and Audio
+
+Every video in the game been translated, including the entirety of the credits, as well as all *13* opening and ending songs. We’ve included optional karaoke subtitles for each of these songs, with the ability to select between Japanese & English subtitles, Japanese-only subtitles, or English-only subtitles.
+
+A number of lines in the game are audio-only and have no associated text. We have provided subtitles so that these lines are understandable to an English audience.
+
+### Additional Subtitles
+
+A number of lines in the game are audio-only and have no associated text. We have provided subtitles so that these lines are understandable to an English audience.
+
+### Bug Fixes
+
+The Switch/PC ports are plagued with numerous technical issues. Videos refusing to play, sprites not showing, incorrect images being displayed, certain visual effects and menus being entirely broken... We've fixed every single issue that we could track down.
+
+For example, the skip feature is notoriously broken, with it constantly stopping every other line. We've restored it to its normal functionality so you can get to the game's many endings far quicker.** 
+
+Additionally, the SHORTCUT menu, which allows you to skip between chapters after the Common Route is complete, was left unfinished by *MAGES.* We've fixed up and completed the implementation of this menu, so it is now fully functional.
+
+*Did we miss something? Join our [Discord server](https://discord.gg/rq4GGCh) and let us know!*
+
+### Typography improvements
+
+We've completely rewritten the text rendering engine to provide a better reading experience. All text is now displayed in an easier-to-read font with better formatting, plus new features implemented such as *italics.*
+
+### Additional Features
+
+A number of unlock conditions for certain extras have been changed in order to better replicate the experience of the uncut Xbox 360 and PS Vita versions.
+
+We've included one last surprise after the credits roll. Keep your eyes peeled for it!
+
+### Save Game Compatibility
+
+Can be installed over every version of the game without breaking existing saves.
+
+# <a name="guides"></a>Guides
+
+* [100% Spoiler-free Walkthrough]({{ "/projects/chn-walkthrough.html" | relative_url }})
+* [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }})
+
+
+# Installation instructions
+
+### Steam
+
+1. **[↓ Download the installer](https://github.com/CommitteeOfZero/chn-patch/releases).** You want `CHNSteamPatch-v<version>-Setup.zip`, not the source code.
+2. Extract the archive somewhere on your hard drive, not in your game directory.
+3. Make sure that you have installed the [Costume DLC](https://store.steampowered.com/app/2103330/CHAOSHEAD_NOAH__COSTUME_DLC/) and that **Steam is currently open.**
+4. Go to the newly created `CHNSteamPatch-v<version>-Setup` folder and run `CHNSteamPatch-Installer.exe`. **Warning:** Has sound.
+  * If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
+5. After you click *Finish* and the installer closes, you can delete the `CHNSteamPatch-v<version>-Setup` folder.
+
+### GOG
+
+1. **[↓ Download the installer](https://github.com/CommitteeOfZero/chn-patch/releases).** You want `CHNGOGPatch-v<version>-Setup.zip`, not the source code.
+2. Extract the archive somewhere on your hard drive, not in your game directory.
+3. Make sure that you have installed the [Costume DLC](https://www.gog.com/en/game/chaos_head_noah_costume_dlc).
+3. Go to the newly created `CHNGOGPatch-v<version>-Setup` folder and run `CHNGOGPatch-Installer.exe`. **Warning:** Has sound.
+  * If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
+4. After you click *Finish* and the installer closes, you can delete the `CHNGOGPatch-v<version>-Setup` folder.
+
+### CFW Switch
+
+#### US
+
+1. **[↓ Download the patch archive](https://github.com/CommitteeOfZero/chn-patch/releases).** You want `CHNSwitchUSPatch-v<version>-Setup.zip`, not the source code.
+2. Extract its content to the root of your Switch SD card.
+
+#### EU
+
+1. **[↓ Download the patch archive](https://github.com/CommitteeOfZero/chn-patch/releases).** You want `CHNSwitchEUPatch-v<version>-Setup.zip`, not the source code.
+2. Extract its content to the root of your Switch SD card.
+
+#### JP
+
+1. **[↓ Download the patch archive](https://github.com/CommitteeOfZero/chn-patch/releases).** You want `CHNSwitchJPPatch-v<version>-Setup.zip`, not the source code.
+2. Extract its content to the root of your Switch SD card.
+
+# Troubleshooting
+
+If you're having a problem not covered here, please [ask us on Discord](https://discord.gg/rq4GGCh) about it.
+
+**Note:** The game uses components from the latest **DirectX End-User Runtimes** (you may not have these even if you have the right DirectX version). If the game fails to run for you, [install DirectX End-User Runtimes](https://www.microsoft.com/en-us/download/details.aspx?id=35). (Steam should take care of this for you, but we're leaving it here just in case.)
+
+### Installer shows an error about `MSVCP140_1.dll`
+
+![MSVCP140.dll error]({{ "/uploads/error_vcruntime_sg0_steam.png" | absolute_url }})
+
+Install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
+
+### Installer shows an error about `api-ms-win-crt-runtime-l1-1-0.dll`
+
+![UCRT error]({{ "/uploads/error_ucrt.png" | absolute_url }})
+
+Update Windows. You may need to install the Visual C++ Redistributable again afterwards (file above) - use “Repair” when prompted.
+
+# Credits
+
+* **Head Translator**: ItsRigs
+* **Translators**: ChrisGLink, Enorovan, BlabbityBla, Rain, Leah (fl4t_is_justice)
+* **Head Editor**: ChrisGLink
+* **Assistant Editor**: Kumin
+* **Image Editors**: Rile_Zugo, Cypert, Choccy, Bloody, milkyzer0, TehVict, Kumin, Prod, Enorovan, Dusk, Vimiani
+* **Developers**: BoilingTeapot, Leah (fl4t_is_justice), JoseJL, Enorovan, Arcana, MrComputerRevo, SomeAnon, daxxy
+* **Subtitler**: zahj
+* **Quality Checking Engineer**: Spiderfreak1011
+* **Testers**: Jake, milkyzer0, Discontinuous Qualia, Bear, Jigsawtooth, wacker, KSJune, Vimiani, Dobu, Fasty
+* **Special Thanks**: Try-Z from Gero Saga, LorePAG, Shikushiku, Double Eyepatch
+
+This project includes a number of third-party components. See [this page]({{ "/projects/chn-thirdparty.html" | relative_url }}) for attribution.
+
+---
+
+*(Nintendo Switch version requires custom firmware. Compatible with JP, US, and EU copies.)
+**The skip function will still be broken on pre-existing saves, as the save data is used to keep track of which lines have been read before. Skip through the game at least once to remedy this issue.

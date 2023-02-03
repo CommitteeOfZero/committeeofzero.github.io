@@ -106,6 +106,10 @@ Workaround for issue where game hangs at black screen when exiting while in full
  
 ##### Higher-quality videos
 Adds subtitles to some translated videos, allowing you to use the high-quality Japanese originals.
+
+# <a name="guides"></a>Guides
+
+* [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }})
  
 # <a name="installation"></a>Installation instructions
 This patch is for the English Steam version of STEINS;GATE. The JAST release, Steam version set to Japanese and pirated copies are not supported.

@@ -10,8 +10,8 @@ See our [GitHub](https://github.com/CommitteeOfZero) for an overview of everythi
 
 ##### Patch root repositories
 
-* [sghd-patch](https://github.com/CommitteeOfZero/sghd-patch), the repository that ties all of the *STEINS;GATE Steam improvement patch* components together.
-* [cc-patch](https://github.com/CommitteeOfZero/cc-patch), the repository that does the same for the much newer *CHAOS;CHILD Steam patch*.
+* [sghd-patch](https://github.com/CommitteeOfZero/sghd-patch), the repository that ties all of the *STEINS;GATE Steam Patch* components together.
+* [cc-patch](https://github.com/CommitteeOfZero/cc-patch), the repository that does the same for the much newer *CHAOS;CHILD Improvement Patch*.
 
 ##### Tools used during the build
 
