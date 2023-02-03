@@ -28,21 +28,19 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[SomeAnon](https://twitter.com/SomeAnonDev)**: Lead Game Developer / Tooling Developer / Reverse Engineer
 * **[zahj](mailto:zahj@dareno.me)**: Karaoke Subtitles
 * **[Kumin](mailto:kumin@dareno.me)**: Editor / PR / The Gate
-* **[Discontinuous Qualia](https://twitter.com/DiscontinuousQ)**: Quality Assurance / Professional Chuunibyou
+* **[Discontinuous Qualia](https://twitter.com/DiscontinuousQ)**: Quality Assurance
 * **[Davixxa](https://twitter.com/DavixxaYT)**: Botmaster / Resident Slacker
 * **[Cypert](https://twitter.com/CypertSystem)**: CG Editor
 * **[Raniel](mailto:raniel@dareno.me)**: PR <small>/ resident shitposter</small>
-* **[dusk](https://twitter.com/EpitaxyMeltdown)**: CG Editor
+* **[dusk](https://twitter.com/EpitaxyMeltdown)**: CG Cleaner
 * **[ItsRigs](https://twitter.com/Chaos_World_300)**: Translator / TLC
 * **[MrComputerRevo](https://twitter.com/MrComputerRevo)**: Developer / Reverse Engineer
-* **[Rain](https://rainm.io/)**: Lead Translator / TLC
+* **[Rain](https://rainm.io/)**: Translator / TLC
 * **[Fasty](https://twitter.com/Fasty022)**: Editor / TLC
 * **[JoseJL](mailto:josejl1987@gmail.com)**: Developer / Reverse Engineer
 * **[Enorovan](https://twitter.com/Enorovan)**: Translator / Mass Replacer / Developer
-* **[fl4t_is_justice](https://twitter.com/fl4t_is_justice)**: Translator / TLC
+* **[fl4t_is_justice](https://twitter.com/fl4t_is_justice)**: Developer / Reverse Engineer / Translator / TLC
 * **[ChrisGLink](https://twitter.com/ChrisGLink)**: Head Editor / Translator / TLC / PR
-* **[barrafas](https://twitter.com/barrafas0)**: Quality Assurance
-* **[Jake](https://twitter.com/futotorofu)**: TLC
 * **[LkProd](https://twitter.com/ropdlk)**: CG Editor
 * **[BlabbityBla](https://twitter.com/BlaBlabbity)**: Translator / TLC
 * **[TehVict](https://twitter.com/TehVict)**: CG Editor / Mecha Expert
@@ -64,5 +62,11 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[Sarkkoth](https://youtube.com/Sarkkoth)**: Translator
 * **[darksoulflame ("Radio")](https://twitter.com/darksoulflame)**: Quality Assurance
 * **[WitchEvelyn](https://twitter.com/Witch_Evelyn)**: Translator / TLC
+* **[barrafas](https://twitter.com/barrafas0)**: Quality Assurance
+* **[Jake](https://twitter.com/futotorofu)**: TLC
+
+### Other Contributors
+
+* **[Mouse](#)**: King of the JPR
 
 Keep in mind that this list does not include everyone in the Committee of Zero. We have many members, including those who have done... zero work.
