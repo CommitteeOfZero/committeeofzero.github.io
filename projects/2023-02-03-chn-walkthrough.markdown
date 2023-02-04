@@ -162,7 +162,7 @@ Ending AA:
 <details>
     <summary>SPOILER</summary>
 
-    YES → YES → NO → YES → YES → YES → YES → YES → YES → YES → YES → YES → YES
+    YES → YES → NO → NO → NO → YES → YES → YES → YES → YES → YES → YES → YES → YES → YES
 </details>
 
 Any deviation from above will result in Ending A.
