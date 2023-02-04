@@ -42,7 +42,7 @@ Over six years in the making, the biggest feature this patch provides is our ver
 
 From scenes of grief and tragedy, to lighthearted slice-of-life, to spine-tingling horror, we've worked hard to make sure our translation will provide you with the best possible English-speaking experience for this 2009 classic.
 
-*We've got a little more to say in regards to why we felt it necessary to replace the translation, if you're interested. You can find it right [here]({{ "/projects/chn-note-on-translation.html" | relative_url }})*
+*We've got a little more to say in regards to why we felt it necessary to replace the translation, if you're interested. You can find it right [here]({{ "/projects/chn-note-on-translation.html" | relative_url }}).*
 
 ##### Consistency
 
@@ -60,7 +60,7 @@ Furthermore, we've restored full functionality for the Lingerie Conversion Patch
 
 ### Translated Images
 
-From CGs to BGs, nearly every single image in the game with Japanese text has been translated to English. Over *150 images* have been painstakingly cleaned, redrawn, and typeset for this patch.
+From CGs to BGs, nearly every single image in the game with Japanese text has been translated into English. Over *150 images* have been painstakingly cleaned, redrawn, and typeset for this patch.
 
 ### Translated Videos and Audio
 
