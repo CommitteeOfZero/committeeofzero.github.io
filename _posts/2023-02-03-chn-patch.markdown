@@ -13,7 +13,7 @@ CHAOS;HEAD NOAH: the mindbending, unforgettable opening act to one of the most p
 
 And it's finally here.
 
-Featuring a fully uncensored experience, over 150 translated CGs, countless bug fixes, as well as an entire original translation of the game, this is our most ambitious project to date. In the past, we've only had our patches available for English audiences on PC, but for CHAOS;HEAD NOAH, we're not stopping there. Our patch is available for Steam, Steam Deck, GOG, Nintendo Switch*, and in both English *and* Japanese. See <a href="#features">below</a> for a full list of features.
+Featuring a fully uncensored experience, over 150 translated CGs, countless bug fixes, as well as an entire original translation of the game, this is our most ambitious project to date. In the past, we've only had our patches available for English audiences on PC, but for CHAOS;HEAD NOAH, we're not stopping there. Our patch is available for Steam, Steam Deck, GOG, Nintendo Switch\*, and in both English *and* Japanese. See <a href="#features">below</a> for a full list of features.
 
 And now, without further ado...
 
