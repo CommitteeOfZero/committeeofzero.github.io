@@ -67,6 +67,6 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 
 ### Other Contributors
 
-* **[Mouse](#)**: King of the JPR
+* **[Mouse]((https://twitter.com/5zzb)**: King of the JPR
 
 Keep in mind that this list does not include everyone in the Committee of Zero. We have many members, including those who have done... zero work.
