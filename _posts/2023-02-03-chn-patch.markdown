@@ -108,7 +108,7 @@ Can be installed over every version of the game without breaking existing saves.
 2. Extract the archive somewhere on your hard drive, not in your game directory.
 3. Make sure that you have installed the [Costume DLC](https://store.steampowered.com/app/2103330/CHAOSHEAD_NOAH__COSTUME_DLC/) and that **Steam is currently open.**
 4. Go to the newly created `CHNSteamPatch-v<version>-Setup` folder and run `CHNSteamPatch-Installer.exe`. **Warning:** Has sound.
-  * If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
+  * If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) (64-bit version, vc_redist.x64.exe - regardless of your system) and try again.
 5. After you click *Finish* and the installer closes, you can delete the `CHNSteamPatch-v<version>-Setup` folder.
 
 ### GOG
@@ -117,7 +117,7 @@ Can be installed over every version of the game without breaking existing saves.
 2. Extract the archive somewhere on your hard drive, not in your game directory.
 3. Make sure that you have installed the [Costume DLC](https://www.gog.com/en/game/chaos_head_noah_costume_dlc).
 3. Go to the newly created `CHNGOGPatch-v<version>-Setup` folder and run `CHNGOGPatch-Installer.exe`. **Warning:** Has sound.
-  * If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
+  * If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) (64-bit version, vc_redist.x64.exe - regardless of your system) and try again.
 4. After you click *Finish* and the installer closes, you can delete the `CHNGOGPatch-v<version>-Setup` folder.
 
 ### CFW Switch
@@ -147,7 +147,7 @@ If you're having a problem not covered here, please [ask us on Discord](https://
 
 ![MSVCP140.dll error]({{ "/uploads/error_vcruntime_sg0_steam.png" | absolute_url }})
 
-Install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
+Install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) (64-bit version, vc_redist.x64.exe - regardless of your system) and try again.
 
 ### Installer shows an error about `api-ms-win-crt-runtime-l1-1-0.dll`
 
