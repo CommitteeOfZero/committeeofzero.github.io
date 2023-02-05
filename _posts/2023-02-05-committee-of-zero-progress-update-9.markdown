@@ -1,7 +1,6 @@
 ---
 title: "Committee of Zero - Progress Update #9"
 layout: post
-excerpt: <p>Hello, everyone! It's time for our eighth general report (if you look at it sideways, it'll be our Infinity-eth)! We know you guys have been waiting for this one, so let's jump straight into it.</p>
 date: 2023-02-05 00:00:01 +0000
 ---
 
