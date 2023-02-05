@@ -1,8 +1,12 @@
 ---
 title: "Committee of Zero - Progress Update #9"
 layout: post
+excerpt: <p>Since a certain “anonymous hacker” was so kind as to leak all our projects during our stream earlier today, it seems that several cats are now out of their bags. Let's talk about them.</p>
 date: 2023-02-05 00:00:01 +0000
 ---
+
+Since a certain “anonymous hacker” was so kind as to leak all our projects during our stream earlier today, it seems that several cats are now out of their bags. Let's talk about them.
+
 
 # CHAOS;HEAD Love Chu☆Chu!
 
