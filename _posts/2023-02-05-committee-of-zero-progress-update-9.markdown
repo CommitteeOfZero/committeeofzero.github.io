@@ -7,6 +7,7 @@ date: 2023-02-05 00:00:01 +0000
 
 Since a certain “anonymous hacker” was so kind as to leak all our projects during our stream earlier today, it seems that several cats are now out of their bags. Let's talk about them.
 
+<div class="youtube-wrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5Zokz2QvNeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 # CHAOS;HEAD Love Chu☆Chu!
 
@@ -24,7 +25,7 @@ However, a good chunk of that work will be the port we're making for the game, w
 
 Regardless, we hope you're as excited to experience this game as we are to dive into it!
 
-# CHAOS;HEAD Love Chu☆Chu! Overall Totals — October 1st, 2022
+# CHAOS;HEAD Love Chu☆Chu! Overall Totals — February 5th, 2023
 
 |                  | **Translation** | **TLC**    | **Editing** |
 | ---------------- | --------------- | ---------- | ----------- |
