@@ -34,6 +34,24 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 {% include thumb.html fullsize="/uploads/chn_images.png" thumb="/uploads/chn_images_thumb.png" caption="Translated CGs" %}
 {% include thumb.html fullsize="/uploads/chn_additional_subs.png" thumb="/uploads/chn_additional_subs_thumb.png" caption="Additional Subtitles" %}
 
+# Changelog
+
+##### Version 1.0.1 *(Feb 4, 2023)*
+
+* All
+  * Adjusted the flags for triggering certain TIPS.
+  * Added additional button guides for the save menus.
+  * Fixed a bug that prevented certain lines from displaying automatically.
+  * Minor text fixes.
+* Steam & GOG
+  * Fixed a bug that caused an achievement to trigger earlier than intended.
+  * Adjusted the karaoke subtitles so that they are on by default.
+* GOG
+  * Fixed a bug that caused the credits to play when idling on the title screen.
+  * Fixed the installation for GOG's offline installer.
+* Switch
+  * Fixed a bug that caused the scroll bar in the TIPS menu to extend beyond the edges.
+
 # <a name="features"></a>Features
 
 ### Fully Translated from the Ground Up
