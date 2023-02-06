@@ -30,6 +30,10 @@ active_tab: projects
 * [STEINS;GATE 0 PC English Patch]({{ "/projects/sg0.html" | relative_url }}) - obsoleted by the [Steam Patch]({{ "/projects/sg0-steam.html" | relative_url }})
 
 #### Work in progress
+* [CHAOS;HEAD Love Chu☆Chu!]({{ "/2023/02/05/committee-of-zero-progress-update-9.html" | relative_url }})
+    <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
+* CHAOS;CHILD Love Chu☆Chu!!
+    <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 * CHAOS;HEAD NOAH Nitrosharp Port
 * STEINS;GATE ELITE Steam Patch
     <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
@@ -37,8 +41,6 @@ active_tab: projects
     <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 * STEINS;GATE: My Darling's Embrace Steam Patch
     <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
-* [CHAOS;CHILD Improvement Patch]({{ "/projects/chaoschild-steam.html" | relative_url }})
-    <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-gog.svg" | relative_url }}">
 
 #### Supporting technology
 
