@@ -31,8 +31,8 @@ active_tab: projects
 
 #### Work in progress
 * CHAOS;HEAD NOAH Nitrosharp Port
-* CHAOS;HEAD Love Chu☆Chu! Fan-translation and Ports
-* CHAOS;CHILD Love Chu☆Chu!! Fan-translation and Ports
+* [CHAOS;HEAD Love Chu☆Chu! Fan-translation and Ports]({{ "/2023/02/05/committee-of-zero-progress-update-9.html" | relative_url }})
+* [CHAOS;CHILD Love Chu☆Chu!! Fan-translation and Ports]({{ "/2023/02/05/committee-of-zero-progress-update-9.html" | relative_url }})
 * STEINS;GATE ELITE Steam Patch
     <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 * STEINS;GATE: Linear Bounded Phenogram Steam Patch
