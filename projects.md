@@ -31,6 +31,8 @@ active_tab: projects
 
 #### Work in progress
 * CHAOS;HEAD NOAH Nitrosharp Port
+* CHAOS;HEAD Love Chu☆Chu! Fan-translation and Ports
+* CHAOS;CHILD Love Chu☆Chu!! Fan-translation and Ports
 * STEINS;GATE ELITE Steam Patch
     <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 * STEINS;GATE: Linear Bounded Phenogram Steam Patch
