@@ -3,7 +3,7 @@ title: "CHAOS;HEAD NOAH Overhaul Patch"
 layout: post
 permalink: "/projects/chn-patch.html"
 active_tab: projects
-date: 2023-02-03 00:00:01 +0100
+date: 2023-02-03 00:00:01 +0000
 excerpt: <p>It's time to find the blue.</p>
 ---
 
