@@ -56,7 +56,7 @@ Negative: The police...
 
 Chapter 5<br>
 Positive: Here's another example.<br>
-Negative: Speak of the devil[...]
+Negative: ...!
 
 Chapter 6<br>
 Positive: Discouraged, I hung up the phone.<br>
