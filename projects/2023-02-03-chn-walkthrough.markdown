@@ -36,7 +36,7 @@ There is one bad ending in this route, triggered by making too many mistakes on 
 
 This route is the sole exception to the rule mentioned before; rather than simply selecting a certain delusion and answering the prompts correctly, it requires a number of specific delusions to be viewed.
 
-Start a new game, then view at least 10 of the following 18 delusions. Skip any question prompts you might encounter along the away by giving only YES answers.
+Start a new game, then view at least 10 of the following 18 delusions. Skip any route question prompts you might encounter along the away by giving only YES answers, and avoid the Bad Ending in Chapter 6 by answering those questions correctly.
 
 Chapter 1<br>
 Neutral: I felt bad[...]<br>
