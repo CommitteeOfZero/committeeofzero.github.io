@@ -173,10 +173,10 @@ Any deviation from above will result in Ending A.
 
 The final achievements are tied to viewing all delusions, TIPS, CGs, as well as two specific results from the medical questionnaire you fill out in Chapter 2.
 
-Simply view all delusions—positive, negative, and neutral. This should help you get most of the CGs and TIPS as well. However, there are a few CG variants that result from 
+Simply view all delusions—positive, negative, and neutral. This should help you get most of the CGs and TIPS as well. However, there are a couple CG variants that result from 
 <details>
     <summary>SPOILER</summary>
-    how you answered Grimm's questions in Chapter 1. Depending on your choices, Hazuki can wear glasses or not wear glasses, and Ayase will either wear a swimsuit or lingerie.
+    how you answered Grimm's questions in Chapter 1. Depending on your choices, Hazuki can wear glasses or not wear glasses.
 </details>
 
 For the questionnaire, you need to submit it twice—once with all boxes checked, and once with no boxes checked.
