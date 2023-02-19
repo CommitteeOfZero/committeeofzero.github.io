@@ -144,7 +144,7 @@ The game will branch into the route in chapter eight.
 ### Bad Ending
 
 Chapter 6<br>
-To get the bad ending, select any deviation from below.
+To get the bad ending, invert the answers below.
 
 To proceed with the Common Route, select:
 <details>
