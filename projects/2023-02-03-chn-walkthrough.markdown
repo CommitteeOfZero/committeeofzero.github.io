@@ -36,7 +36,7 @@ There is one bad ending in this route, triggered by making too many mistakes on 
 
 This route is the sole exception to the rule mentioned before; rather than simply selecting a certain delusion and answering the prompts correctly, it requires a number of specific delusions to be viewed.
 
-Start a new game, then view at least 10 of the following 18 delusions. Skip any question prompts you might encounter along the away by simply answering YES or NO to everything.
+Start a new game, then view at least 10 of the following 18 delusions. Skip any route question prompts you might encounter along the away by giving only YES answers, and avoid the Bad Ending in Chapter 6 by answering those questions correctly.
 
 Chapter 1<br>
 Neutral: I felt bad[...]<br>
@@ -56,7 +56,7 @@ Negative: The police...
 
 Chapter 5<br>
 Positive: Here's another example.<br>
-Negative: Speak of the devil[...]
+Negative: ...!
 
 Chapter 6<br>
 Positive: Discouraged, I hung up the phone.<br>
@@ -144,7 +144,7 @@ The game will branch into the route in chapter eight.
 ### Bad Ending
 
 Chapter 6<br>
-To get the bad ending, select any deviation from below.
+To get the bad ending, invert the answers below.
 
 To proceed with the Common Route, select:
 <details>
@@ -173,10 +173,10 @@ Any deviation from above will result in Ending A.
 
 The final achievements are tied to viewing all delusions, TIPS, CGs, as well as two specific results from the medical questionnaire you fill out in Chapter 2.
 
-Simply view all delusions—positive, negative, and neutral. This should help you get most of the CGs and TIPS as well. However, there are a few CG variants that result from 
+Simply view all delusions—positive, negative, and neutral. This should help you get most of the CGs and TIPS as well. However, there are a couple CG variants that result from 
 <details>
     <summary>SPOILER</summary>
-    how you answered Grimm's questions in Chapter 1. Depending on your choices, Hazuki can wear glasses or not wear glasses, and Ayase will either wear a swimsuit or lingerie.
+    how you answered Grimm's questions in Chapter 1. Depending on your choices, Hazuki can wear glasses or not wear glasses.
 </details>
 
 For the questionnaire, you need to submit it twice—once with all boxes checked, and once with no boxes checked.
