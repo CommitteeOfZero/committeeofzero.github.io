@@ -36,6 +36,21 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.0.2 *(Feb 19, 2023)*
+
+* All
+  * Minor text fixes.
+  * Translated a few additional BGs for consistency.
+  * Fixed a bug that caused TIPS to not be numbered properly.
+  * Fixed a bug where two voicelines were improperly called.
+  * Fixed a bug that caused some text to display incorrectly.
+  * Made certain mask effects more accurate to the Xbox 360 release.
+
+* Steam & GOG
+  * Fixed a crash with subtitles for legacy Wine users running OpenGL.
+  * Fixed a bug that caused a certain menu option to be unselectable with keyboard or controller.
+  * Fixed a bug that caused the subtitles in one ending to not display properly.
+
 ##### Version 1.0.1 *(Feb 4, 2023)*
 
 * All
@@ -51,6 +66,13 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
   * Fixed the installation for GOG's offline installer.
 * Switch
   * Fixed a bug that caused the scroll bar in the TIPS menu to extend beyond the edges.
+
+# *Known Issues*
+
+* All
+  * There is a bug causing a certain character's lipflaps to stop functioning.
+  * Certain SFX are not looping properly.
+  * A certain TIP is unlocking before it's meant to.
 
 # <a name="features"></a>Features
 
