@@ -81,7 +81,7 @@ Positive: “Is there nothing but Cola[...]”
 
 NO → YES → NO → YES → YES
 
-As you progress, a Nanami-related intermission will be interspersed throughout the story. The skip mode will disengage during these scenes. Be sure to read them for additional context.
+As you progress, a Nanami-related intermission will appear during the story. The skip mode will disengage during these scenes. Be sure to read them for additional context.
 
 The game will branch into the route in chapter six.
 
@@ -125,7 +125,7 @@ Neutral: She'd actually swung[...]
 
 YES → YES → YES → YES → NO
 
-As you progress, a Sena-related intermission will be interspersed throughout the story. The skip mode will disengage during these scenes. Be sure to read them for additional context.
+As you progress, a Sena-related intermission will appear during the story. The skip mode will disengage during these scenes. Be sure to read them for additional context.
 
 The game will branch into the route in chapter seven.
 
