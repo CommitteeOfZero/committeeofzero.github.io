@@ -15,7 +15,7 @@ This is a 100% walkthrough for CHAOS;HEAD NOAH, designed to allow readers to pla
 
 At different points in CHAOS;HEAD NOAH, you will come into contact with the “Delusion Trigger” system. Through it, you can choose if the protagonist experiences a positive delusion, a negative delusion, or no delusion at all.
 
-Click the green button or press Right Trigger on controller to lock into a positive delusion; click the red button or press Left Trigger to lock into a negative delusion; or proceed normally to stay in reality.
+Click the green button or press Left Trigger on controller to lock into a positive delusion; click the red button or press Right Trigger to lock into a negative delusion; or proceed normally to stay in reality.
 
 # Silent Sky (Ending A)
 
