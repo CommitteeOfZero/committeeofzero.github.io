@@ -44,7 +44,7 @@ CHAOS;HEAD NOAHのSwitch・PC版は移植の際にPSP・PS3版をベースにし
 2. ゲームフォルダー以外のハードドライブのどこかでアーカイブを解凍してください。
 3. [下着DLC](https://store.steampowered.com/app/2103330/CHAOSHEAD_NOAH__COSTUME_DLC/)がインストールされていて**Steamは実行中であることを確認してください。**
 4. 新しく作られた`CHNSteamPatch-v<version>-Setup`フォルダーに移動してから`CHNSteamPatch-Installer.exe`を実行してください。**※音量注意**
-  * インストーラーが`MSVCP140_1.dll`についてのエラーで停止したら[Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe)（64ビットバージョンのvc_redist.x64.exe）をインストールして再試行してください。
+  * インストーラーが`MSVCP140_1.dll`についてのエラーで停止したら[Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe)（32ビットバージョンのvc_redist.x86.exe）をインストールして再試行してください。
 5. Finishをクリックしてインストーラーが閉じたら、ご自由に`CHNSteamPatch-v<version>-Setup`フォルダーを削除できます。
 
 ### GOG
@@ -53,7 +53,7 @@ CHAOS;HEAD NOAHのSwitch・PC版は移植の際にPSP・PS3版をベースにし
 2. ゲームフォルダー以外のハードドライブのどこかでアーカイブを解凍してください。
 3. [下着DLC](https://www.gog.com/en/game/chaos_head_noah_costume_dlc)がインストールされていることを確認してください。
 3. 新しく作られた`CHNGOGPatch-v<version>-Setup`フォルダーに移動してから`CHNGOGPatch-Installer.exe`を実行してください。**※音量注意**
- * インストーラーが`MSVCP140_1.dll`についてのエラーで停止したら[Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe)（64ビットバージョンのvc_redist.x64.exe）をインストールして再試行してください。
+ * インストーラーが`MSVCP140_1.dll`についてのエラーで停止したら[Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe)（32ビットバージョンのvc_redist.x86.exe）をインストールして再試行してください。
 4. Finishをクリックしてインストーラーが閉じたら、ご自由に`CHNGOGPatch-v<version>-Setup`フォルダーを削除できます。
 
 ### CFW Switch

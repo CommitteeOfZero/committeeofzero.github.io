@@ -1,15 +1,15 @@
 ---
-title: "CHAOS;HEAD NOAH Improvement Patch third-party components"
+title: "CHAOS;HEAD NOAH Overhaul Patch third-party components"
 layout: page
 permalink: "/projects/chn-thirdparty.html"
 active_tab: projects
 date: 2023-02-03 00:00:00 +0100
-excerpt: Attribution for third-party components used in CHAOS;HEAD NOAH Improvement Patch
+excerpt: Attribution for third-party components used in CHAOS;HEAD NOAH Overhaul Patch
 ---
 
 [← Back to project page]({{ "/projects/chn-patch.html" | relative_url }})
 
-**CHAOS;HEAD NOAH Improvement Patch** depends on a number of third-party components:
+**CHAOS;HEAD NOAH Overhaul Patch** depends on a number of third-party components:
 
 **Installer background music:** ["SHIBUYA from CHAOS;HEAD -opn version-"](https://soundcloud.com/valsound/shibuya-from-chaoshead-opn-version) by Takeshi Abo
 **Bonus music:** ["Real Link -piano2022- / CHAOS;HEAD NOAH"](https://www.youtube.com/watch?v=FPT81_j81YQ) by Takeshi Abo

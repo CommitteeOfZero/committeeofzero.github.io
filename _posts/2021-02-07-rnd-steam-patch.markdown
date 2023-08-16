@@ -118,7 +118,7 @@ If you're having a problem not covered here, please [ask us on Discord](https://
 
 ### Game/launcher fails to start from Steam
 
-You can try starting the launcher from the desktop/start menu shortcut (if you created one during the installation) or by directly running `LauncherC0.exe` from the game directory (right click *ROBOTICS;NOTES ELITE* in your Steam library, *Properties* → *Local Files* → *Browse Local Files...*). Make sure you're logged into Steam, though.
+You can try starting the launcher from the desktop/start menu shortcut (if you created one during the installation) or by directly running `LauncherC0.exe` from the game directory (right click *ROBOTICS;NOTES DaSH* in your Steam library, *Properties* → *Local Files* → *Browse Local Files...*). Make sure you're logged into Steam, though.
 
 ### Game shows an error about `mgs::Audio::CPlayer::InitializeXaudio()`
 
