@@ -207,7 +207,7 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 * **Developers**: BoilingTeapot, Leah (fl4t_is_justice), JoseJL, Enorovan, Arcana, MrComputerRevo, SomeAnon, daxxy
 * **Subtitler**: zahj
 * **Quality Checking Engineer**: Spiderfreak1011
-* **Testers**: Jake, milkyzer0, Discontinuous Qualia, Bear, Jigsawtooth, wacker, KSJune, Vimiani, Dobu, Fasty
+* **Testers**: Jake, milkyzer0, Discontinuous Qualia, Bear, Jigsawtooth, wacker, KSJune, Vimiani, Dobu
 * **Special Thanks**: Try-Z from Gero Saga, LorePAG, Shikushiku, Double Eyepatch
 
 This project includes a number of third-party components. See [this page]({{ "/projects/chn-thirdparty.html" | relative_url }}) for attribution.

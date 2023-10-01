@@ -175,7 +175,7 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 
 * **Hacking**: MrComputerRevo, JoseJL, SomeAnon, daxxy
 * **Translation**: ChrisGLink (and his baby nephew), Enorovan, Jake, Barrafas, WitchEvelyn, Rain, ItsRigs
-* **Editing**: Discontinuous Qualia, Fasty, Kumin
+* **Editing**: Discontinuous Qualia, Kumin
 * **Image editing**: LkProd, TehVict, Enorovan, WizardNoah, Kumin, MrComputerRevo
 * **Subtitles**: zahj
 * **Video editing**: LkProd

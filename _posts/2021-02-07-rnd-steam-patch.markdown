@@ -142,7 +142,7 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 
 * **Hacking**: MrComputerRevo, JoseJL, daxxy, SomeAnon
 * **Translation**: Enorovan, ChrisGLink, Rain, ItsRigs
-* **Editing**: Fasty, Kumin
+* **Editing**: Kumin
 * **Image editing**: LkProd, TehVict, Kumin
 * **Subtitles**: zahj
 
