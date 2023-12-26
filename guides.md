@@ -16,7 +16,3 @@ active_tab: guides
 #### Technical Guides
 
 * [Installing Patches on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }})
-
-#### Work in progress
-
-* STEINS;GATE Steam Patch

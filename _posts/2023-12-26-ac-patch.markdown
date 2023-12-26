@@ -1,0 +1,125 @@
+---
+title: "ANONYMOUS;CODE Improvement Patch"
+layout: post
+permalink: "/projects/ac-patch.html"
+active_tab: projects
+date: 2023-12-26 00:00:01 +0000
+excerpt: <p>Heya, Anons. A little birdie told me you’re all into patchin’ stuff. Well, what a coincidence—’cause that's what we, the hackers of the Nakano Symphonies, are all about! - 90110n</p>
+---
+
+Heya, Anons! A little birdie told me you’re all into patching stuff. Well, what a coincidence—’cause that's what we, the hackers of the Nakano Symphonies, are all about!
+
+Now, you may be wonderin’ how I got in... Well, see, our common friends over at the Committee of Zero have an [unfortunate tendency of leaving their storage servers exposed](https://www.youtube-nocookie.com/embed/5Zokz2QvNeU)... and on top of that, I've got Save & Load up my sleeves.
+
+...Uh oh. I think they’re mad.
+
+<code><a style="color: teal; text-decoration: none;">90110n</a>@<a style="color: teal; text-decoration: none;">nakano-symphonies</a>:~$ cat /dev/stderr</code>
+<div style="border: 1px solid #fff; padding: 8px;">
+  <a style="color: red; text-decoration: none;">All right Pollon, you got us. Again. But if you’re not gonna give us back the reins without a fight, could you at least clue them in on our patch?</a>
+</div>
+
+You’re not mad? Huh, cool. Sure, I’ll lend a hand! After all, we're anons with bright futures ahead of us, and we can't sit idly by when someone's in need!
+
+So, uh... Well, the dude who implemented English into my Brain-Machine Interface—which people from your world layer would call a translator, I guess—is Andrew "Steiner" Hodgson. As the name suggests, he's a guy that definitely knows his way around the SciADV-sphere, and there’s no doubt that a number of you have heard the name. So, thanks to this seasoned vet being involved, the translation we got is, honestly, pretty damn great. There are still a few hiccups here and there, but... knowing what the translation industry is like in 2037, they’re likely out of his reach. So that’s where my, uh, kinda-ticked friends at CoZ come in!
+
+How’s that? Did I do good?
+
+<code><a style="color: teal; text-decoration: none;">90110n</a>@<a style="color: teal; text-decoration: none;">nakano-symphonies</a>:~$ cat /dev/stderr</code>
+<div style="border: 1px solid #fff; padding: 8px;">
+  <a style="color: red; text-decoration: none;">...Kinda ticked is right, but yeah, you did fine. Can we get our website back now?</a>
+</div>
+
+All right, all right. Welp, anons, see you in a few minutes! And CoZ... this ain’t game over yet!
+
+<hr>
+
+*Siiigh*... Sorry about that. Now back to our regularly scheduled program(ming). See [below](#features) for a full list of features.
+
+<div style="border: 1px solid #fff; padding: 8px;">
+Download link and instructions are <a href="#guides">↓ below</a>.
+</div>
+
+If you want a spoiler-free guide on how to obtain every ending, you can find one [here]({{ "/projects/chn-walkthrough.html" | relative_url }}).
+
+[Join us on Discord](https://discord.gg/rq4GGCh) for fun, ~~cat videos,~~ and support.
+
+# Screenshots
+
+{% include thumb.html fullsize="/uploads/ac_subtitles.png" thumb="/uploads/ac_subtitles_thumb.png" caption="Subtitles" %}
+{% include thumb.html fullsize="/uploads/ac_typography.png" thumb="/uploads/ac_typography_thumb.png" caption="Text/Formatting Fixes" %}
+
+# <a name="features"></a>Features
+
+### Selectable patch scope
+As this localization includes an English dub, we're offering two different patches: Partial and Full.
+
+The Partial patch adds subtitles for songs and voice-only lines, but in the interest of immersion in regards to the EN dub, does not fix series-wide inconsistencies and grammar mistakes. This is because these changes would cause the written lines to occasionally not match the spoken ones in the dub.
+
+The Full patch includes all of these fixes, as well as the subtitles. If you are playing with JP voices or do not mind minor discrepancies with the EN dub, we suggest the Full patch. Both voice tracks are *stellar*, so this option is truly up to you.
+
+If you wish to play with the Full patch, check the first box at the bottom of the dedicated page on the installer. If you wish to play with the Partial patch, leave it unchecked.
+
+##### Script fixes
+
+A full proofreading pass of the game has been completed, fixing slight grammatical issues, minor typos and wording issues, inconsistencies with text formatting, and a handful of translation fixes. Special attention was paid to maintaining series-wide consistency.
+
+The full breadth of this will be included in the Full patch; in the Partial patch, only non-dialogue lines will be changed.
+
+##### Translated CGs
+
+Translated a number of CGs and BGs, as well as fixed some terminology and typesetting errors present in other images.
+
+##### Subbed lines
+
+The game features a number of lines that are voice-only and thus have no accompanying text, leaving those who play the game with JP voices out of luck. We have rectified this issue, subbing all 500+ different voice lines. These are toggled on by default, but can be turned off in the launcher if you would prefer.
+
+##### Karaoke subtitles
+
+Adds styled karaoke subtitles to openings, endings, and insert songs.
+
+##### High quality Opening audio
+
+The files for the game's opening theme have very low-quality audio due to poor compression. This patch replaces low-quality tracks with higher-quality versions.
+
+##### Save game compatibility
+
+Can be installed over the Steam version of the game without breaking existing saves.
+
+# <a name="guides"></a>Guides
+
+* [100% Spoiler-free Walkthrough](https://www.kirikiribasara.com/2023/09/03/anonymouscode-100-guide/)
+* [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }})
+
+# Installation instructions
+
+1. **[↓ Download the installer](https://github.com/CommitteeOfZero/ac-patch/releases).** You want `ACPatch-v<version>-Setup.zip`, not the source code.
+2. Extract the archive somewhere on your hard drive, not in your game directory.
+3. Go to the newly created `ACPatch-v<version>-Setup` folder and run `ACPatch-Installer.exe`. **Warning:** Has sound.
+  * If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
+4. After you click *Finish* and the installer closes, you can delete the `ACPatch-v<version>-Setup` folder.
+
+# Troubleshooting
+
+If you're having a problem not covered here, please [ask us on Discord](https://discord.gg/rq4GGCh) about it.
+
+**Note:** The game uses components from the latest **DirectX End-User Runtimes** (you may not have these even if you have the right DirectX version). If the game fails to run for you, [install DirectX End-User Runtimes](https://www.microsoft.com/en-us/download/details.aspx?id=35). (Steam should take care of this for you, but we're leaving it here just in case.)
+
+### Installer shows an error about `MSVCP140_1.dll`
+
+![MSVCP140.dll error]({{ "/uploads/error_vcruntime_sg0_steam.png" | absolute_url }})
+
+Install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
+
+### Installer shows an error about `api-ms-win-crt-runtime-l1-1-0.dll`
+
+![UCRT error]({{ "/uploads/error_ucrt.png" | absolute_url }})
+
+Update Windows. You may need to install the Visual C++ Redistributable again afterward (file above) - use “Repair” when prompted.
+
+# Credits
+
+* **Translation Checkers**: ItsRigs, Enorovan, Leah, ChrisGLink
+* **Image Editors**: Choccy, Enorovan
+* **Developers**: BoilingTeapot, Bloody, Enorovan
+
+This project includes a number of third-party components. See [this page]({{ "/projects/ac-thirdparty.html" | relative_url }}) for attribution.
