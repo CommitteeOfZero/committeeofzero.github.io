@@ -48,7 +48,7 @@ Yup. For the uninitiated, Representative Director of MAGES., Chiyomaru Shikura, 
 
 This month was admittedly a tad slower than the last one. We were working hard to make sure CHAOS;CHILD 2.0 got out the door, and also chipping away at that little ANONYMOUS;CODE livestream. Nevertheless, we can promise you that the latter project won’t be in the way of our NOAH progress for much longer.
 
-We also had a bit of... interesting news in regards to one of our team members doing the translation checking, Rain. If you weren’t aware, Rain is also a part of Hollow Moon, a team working on releasing Mahoyo, a game in the Fate series. Recently, an official translation of the game was announced, in a very, very interesting parallel to our project here. That’s definitely thrown a wrench into things, and as a result, he wasn’t able to give his all on NOAH this month. Either way, skies should clear pretty soon for all of us.
+We also had a bit of... interesting news in regard to one of our team members doing the translation checking, Rain. If you weren’t aware, Rain is also a part of Hollow Moon, a team working on releasing Mahoyo, a game in the Fate series. Recently, an official translation of the game was announced, in a very, very interesting parallel to our project here. That’s definitely thrown a wrench into things, and as a result, he wasn’t able to give his all on NOAH this month. Either way, skies should clear pretty soon for all of us.
 
 Anyway, that’s all for now. See you next month, everyone!
 

@@ -53,7 +53,7 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 ### Selectable patch scope
 As this localization includes an English dub, we're offering two different patches: Partial and Full.
 
-The Partial patch adds subtitles for songs and voice-only lines, but in the interest of immersion in regards to the EN dub, does not fix series-wide inconsistencies and grammar mistakes. This is because these changes would cause the written lines to occasionally not match the spoken ones in the dub.
+The Partial patch adds subtitles for songs and voice-only lines, but in the interest of immersion in regard to the EN dub, does not fix series-wide inconsistencies and grammar mistakes. This is because these changes would cause the written lines to occasionally not match the spoken ones in the dub.
 
 The Full patch includes all of these fixes, as well as the subtitles. If you are playing with JP voices or do not mind minor discrepancies with the EN dub, we suggest the Full patch. Both voice tracks are *stellar*, so this option is truly up to you.
 
