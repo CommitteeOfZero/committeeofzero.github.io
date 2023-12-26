@@ -70,7 +70,7 @@ Contains translated versions of most CGs. CGs that were already translated in th
 
 Also translates stickers used in *RINE* conversations, system/menu text and the launcher.
 
-##### High quality FMV audio
+##### High-quality FMV audio
 
 For openings, endings and some other videos, plays high-quality versions instead of the included low-quality audio tracks.
 

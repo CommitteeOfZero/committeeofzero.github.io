@@ -70,7 +70,7 @@ Adds text to various voice-only lines and cutscenes, including several important
 
 Includes translated versions of most CGs with text. The original title had some untranslated CGs (including an untranslated map that made it impossible to finish the game without a guide), as well as parts of some CGs which were even machine-translated, and we translated and re-edited these images from scratch in 1080p (as opposed to upscaling from 540p Vita CGs). Over 200 images were modified in some way.
 
-##### High quality FMV audio
+##### High-quality FMV audio
 
 Many video files in the game (openings, endings, and several cutscenes) have very low-quality audio due to poor compression. This patch replaces low-quality tracks with higher-quality versions.
 

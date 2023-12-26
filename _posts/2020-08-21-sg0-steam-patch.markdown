@@ -152,7 +152,7 @@ Contains new translated versions of most CGs and several backgrounds. Some CGs w
 Steam version have been replaced with variations that are visually improved or better-translated. This includes many of
 the stickers used on RINE.
 
-##### High quality FMV audio
+##### High-quality FMV audio
 
 For openings, endings and some other videos, we’ve included the option to play high-quality audio instead of the
 low-quality audio tracks normally included in the Steam version.

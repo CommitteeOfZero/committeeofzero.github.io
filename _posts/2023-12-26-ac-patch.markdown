@@ -77,7 +77,7 @@ The game features a number of lines that are voice-only and thus have no accompa
 
 Adds styled karaoke subtitles to openings, endings, and insert songs.
 
-##### High quality Opening audio
+##### High-quality Opening audio
 
 The files for the game's opening theme have very low-quality audio due to poor compression. This patch replaces low-quality tracks with higher-quality versions.
 
