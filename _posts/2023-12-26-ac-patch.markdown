@@ -55,7 +55,7 @@ As this localization includes an English dub, we're offering two different patch
 
 The Partial patch adds subtitles for songs and voice-only lines, but in the interest of immersion in regard to the EN dub, does not fix series-wide inconsistencies and grammar mistakes. This is because these changes would cause the written lines to occasionally not match the spoken ones in the dub.
 
-The Full patch includes all of these fixes, as well as the subtitles. If you are playing with JP voices or do not mind minor discrepancies with the EN dub, we suggest the Full patch. Both voice tracks are *stellar*, so this option is truly up to you.
+The Full patch includes all of these fixes, as well as the subtitles. If you are playing with JP voices or do not mind some discrepancies with the EN dub, we suggest the Full patch. Both voice tracks are *stellar*, so this option is truly up to you.
 
 If you wish to play with the Full patch, check the first box at the bottom of the dedicated page on the installer. If you wish to play with the Partial patch, leave it unchecked.
 
