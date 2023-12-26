@@ -88,7 +88,6 @@ Can be installed over the Steam version of the game without breaking existing sa
 # <a name="guides"></a>Guides
 
 * [100% Spoiler-free Walkthrough](https://www.kirikiribasara.com/2023/09/03/anonymouscode-100-guide/)
-* [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }})
 
 # Installation instructions
 
