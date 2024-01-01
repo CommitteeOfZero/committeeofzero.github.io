@@ -15,7 +15,7 @@ That's right.
 
 Not only are we translating CHAOS;HEAD Love Chu☆Chu!, but we've *been* translating it. The game's translation is 65% complete, and the editing pass has already kicked off, too!
 
-For those unaware, Love Chu☆Chu!—or C;H LCC for short—is a direct, canon sequel to CHAOS;HEAD NOAH. The game is a parody of traditional dating sims and seeks to tie up a lot of the unresolved character arcs from NOAH.
+For those unaware, Love Chu☆Chu!—or C;HLCC for short—is a direct, canon sequel to CHAOS;HEAD NOAH. The game is a parody of traditional dating sims and seeks to tie up a lot of the unresolved character arcs from NOAH.
 
 We've been working on the game for a good while now, as the process of working on NOAH has been a very, very long road. Over that time, some of our team members found themselves without much to do, so they decided: Why not make some use out of that time?
 
@@ -48,7 +48,7 @@ That's right.
 
 Not only are we translating CHAOS;HEAD Love Chu☆Chu!, but we're translating CHAOS;CHILD's own version of it, CHAOS;CHILD Love Chu☆Chu!! Surprised?
 
-We're not going to share where we are at in the translation quite yet, as we'd like to focus on C;H LCC first, but we have gotten started. The game is very fun to work on, so the scenes just seem to fly by!
+We're not going to share where we are at in the translation quite yet, as we'd like to focus on C;HLCC first, but we have gotten started. The game is very fun to work on, so the scenes just seem to fly by!
 
 We'll let you in on how far into it we are at a later date.
 

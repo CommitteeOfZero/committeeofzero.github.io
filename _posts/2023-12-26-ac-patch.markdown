@@ -4,32 +4,32 @@ layout: post
 permalink: "/projects/ac-patch.html"
 active_tab: projects
 date: 2023-12-26 00:00:01 +0000
-excerpt: <p>Heya, Anons. A little birdie told me you’re all into patchin’ stuff. Well, what a coincidence—’cause that's what we, the hackers of the Nakano Symphonies, are all about! - 90110n</p>
+excerpt: <p>Heya, Anons. A little birdie told me you're all into patchin' stuff. Well, what a coincidence—'cause that's what we, the hackers of the Nakano Symphonies, are all about! - 90110n</p>
 ---
 
-Heya, Anons! A little birdie told me you’re all into patching stuff. Well, what a coincidence—’cause that's what we, the hackers of the Nakano Symphonies, are all about!
+Heya, Anons! A little birdie told me you're all into patching stuff. Well, what a coincidence—'cause that's what we, the hackers of the Nakano Symphonies, are all about!
 
-Now, you may be wonderin’ how I got in... Well, see, our common friends over at the Committee of Zero have an [unfortunate tendency of leaving their storage servers exposed](https://www.youtube-nocookie.com/embed/5Zokz2QvNeU)... and on top of that, I've got Save & Load up my sleeves.
+Now, you may be wonderin' how I got in... Well, see, our common friends over at the Committee of Zero have an [unfortunate tendency of leaving their storage servers exposed](https://www.youtube-nocookie.com/embed/5Zokz2QvNeU)... and on top of that, I've got Save & Load up my sleeves.
 
-...Uh oh. I think they’re mad.
+...Uh oh. I think they're mad.
 
 <code><a style="color: teal; text-decoration: none;">90110n</a>@<a style="color: teal; text-decoration: none;">nakano-symphonies</a>:~$ cat /dev/stderr</code>
 <div style="border: 1px solid #fff; padding: 8px;">
-  <a style="color: red; text-decoration: none;">All right Pollon, you got us. Again. But if you’re not gonna give us back the reins without a fight, could you at least clue them in on our patch?</a>
+  <a style="color: red; text-decoration: none;">All right Pollon, you got us. Again. But if you're not gonna give us back the reins without a fight, could you at least clue them in on our patch?</a>
 </div>
 
-You’re not mad? Huh, cool. Sure, I’ll lend a hand! After all, we're anons with bright futures ahead of us, and we can't sit idly by when someone's in need!
+You're not mad? Huh, cool. Sure, I'll lend a hand! After all, we're anons with bright futures ahead of us, and we can't sit idly by when someone's in need!
 
-So, uh... Well, the dude who implemented English into my Brain-Machine Interface—which people from your world layer would call a translator, I guess—is Andrew "Steiner" Hodgson. As the name suggests, he's a guy that definitely knows his way around the SciADV-sphere, and there’s no doubt that a number of you have heard the name. So, thanks to this seasoned vet being involved, the translation we got is, honestly, pretty damn great. There are still a few hiccups here and there, but... knowing what the translation industry is like in 2037, they’re likely out of his reach. So that’s where my, uh, kinda-ticked friends at CoZ come in!
+So, uh... Well, the dude who implemented English into my Brain-Machine Interface—which people from your world layer would call a translator, I guess—is Andrew "Steiner" Hodgson. As the name suggests, he's a guy that definitely knows his way around the SciADV-sphere, and there's no doubt that a number of you have heard the name. So, thanks to this seasoned vet being involved, the translation we got is, honestly, pretty damn great. There are still a few hiccups here and there, but... knowing what the translation industry is like in 2037, they're likely out of his reach. So that's where my, uh, kinda-ticked friends at CoZ come in!
 
-How’s that? Did I do good?
+How's that? Did I do good?
 
 <code><a style="color: teal; text-decoration: none;">90110n</a>@<a style="color: teal; text-decoration: none;">nakano-symphonies</a>:~$ cat /dev/stderr</code>
 <div style="border: 1px solid #fff; padding: 8px;">
   <a style="color: red; text-decoration: none;">...Kinda ticked is right, but yeah, you did fine. Can we get our website back now?</a>
 </div>
 
-All right, all right. Welp, anons, see you in a few minutes! And CoZ... this ain’t game over yet!
+All right, all right. Welp, anons, see you in a few minutes! And CoZ... this ain't game over yet!
 
 <hr>
 
