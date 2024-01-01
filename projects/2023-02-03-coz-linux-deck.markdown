@@ -15,6 +15,8 @@ The build can be found [**here**](https://hawkhe.art/protonge-anonymouscode.tar.
 
 ANONYMOUS;CODE has other issues on Proton regarding audio playback in dialogue and lockups in gameplay, but our ANONYMOUS;CODE Improvement Patch addresses these by including the xaudio 2.9 library in its 1.0.1 version. With the custom Proton GE build and our patch, the game should operate completely as intended.
 
+For our leet hackers out there, you can find the GitHub commit for the video playback fix [here](https://github.com/Hawkheart/proton/commit/f8572c63ee9795f1590c97ccaa2a4ab54623db2f), with its issue history documented [here](https://github.com/ValveSoftware/Proton/issues/7083). 
+
 <hr>
 
 Head to the Polyversal CoZ Linux patcher repository by clicking on this [link](https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher).
