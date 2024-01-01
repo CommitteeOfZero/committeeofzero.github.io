@@ -48,6 +48,18 @@ If you want a spoiler-free guide on how to 100% the game, you can find one [here
 {% include thumb.html fullsize="/uploads/ac_subtitles.png" thumb="/uploads/ac_subtitles_thumb.png" caption="Subtitles" %}
 {% include thumb.html fullsize="/uploads/ac_typography.png" thumb="/uploads/ac_typography_thumb.png" caption="Text/Formatting Fixes" %}
 
+# Changelog
+
+##### Version 1.0.1 *(Jan 01, 2024)*
+
+* Minor scripting fixes.
+* Audio now functional on Linux/Steam Deck.
+* Head to our [**Linux/Steam Deck support page**]({{ "/projects/coz-linux-deck.html" | relative_url }}) for help fixing the videos on Linux/Steam Deck. **/!\ READ ATTENTIVELY BEFORE STARTING THE INSTALLATION /!\\**
+
+##### Version 1.0.0 *(Dec 26, 2023)*
+
+Initial release.
+
 # <a name="features"></a>Features
 
 ### Selectable patch scope
@@ -88,8 +100,11 @@ Can be installed over the Steam version of the game without breaking existing sa
 # <a name="guides"></a>Guides
 
 * [100% Spoiler-free Walkthrough](https://www.kirikiribasara.com/2023/09/03/anonymouscode-100-guide/)
+* [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }}) **/!\ READ ATTENTIVELY BEFORE STARTING THE INSTALLATION /!\\**
 
 # Installation instructions
+
+***Linux/Steam Deck only.*** Follow the instructions [here]({{ "/projects/coz-linux-deck.html" | relative_url }}).
 
 1. **[↓ Download the installer](https://github.com/CommitteeOfZero/ac-patch/releases).** You want `ACPatch-v<version>-Setup.zip`, not the source code.
 2. Extract the archive somewhere on your hard drive, not in your game directory.
@@ -118,6 +133,7 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 # Credits
 
 * **Translation Checkers**: ItsRigs, Enorovan, Leah, ChrisGLink
+* **Song Translations**: ItsRigs (Translation), Kumin (Editing)
 * **Image Editors**: Choccy, Enorovan
 * **Developers**: BoilingTeapot, Bloody, Enorovan
 
