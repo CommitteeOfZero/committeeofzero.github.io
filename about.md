@@ -25,7 +25,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 ## Members
 
 * **[daxxy](https://twitter.com/DrDaxxy)**: Reverse Engineer / Website Dev
-* **[SomeAnon](https://twitter.com/SomeAnonDev)**: Lead Game Developer / Tooling Developer / Reverse Engineer
+* **[sa.exe (aka SomeAnon)](https://twitter.com/SomeAnonDev)**: Lead Game Developer / Tooling Developer / Reverse Engineer
 * **[zahj](mailto:zahj@dareno.me)**: Karaoke Subtitles
 * **[Kumin](mailto:kumin@dareno.me)**: Editor / PR / The Gate
 * **[Discontinuous Qualia](https://twitter.com/DiscontinuousQ)**: Quality Assurance
@@ -43,7 +43,6 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[LkProd](https://twitter.com/ropdlk)**: CG Editor
 * **[BlabbityBla](https://twitter.com/BlaBlabbity)**: Translator / TLC
 * **[TehVict](https://twitter.com/TehVict)**: CG Editor / Mecha Expert
-* **[Spider](#)**: Quality Assurance
 * **[LightArrowsEXE](https://twitter.com/LightArrowsEXE)**: Video Connoisseur / Karaoke Subtitles
 * **[Rile_Zugo](https://twitter.com/rile_zugo)**: CG Editor
 * **[Bloody](#)**: CG Editor
@@ -62,6 +61,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[WitchEvelyn](https://twitter.com/Witch_Evelyn)**: Translator / TLC
 * **[barrafas](https://twitter.com/barrafas0)**: Quality Assurance
 * **[Jake](https://twitter.com/futotorofu)**: TLC
+* **[Spider](#)**: Quality Assurance
 
 ### Other Contributors
 
