@@ -52,7 +52,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[Zips](https://twitter.com/ZiShoR)**: CG Editor / Resident Coffee Maker
 * **[Choccy](https://twitter.com/ChrisChoccy)**: CG Editor
 
-#### Miscellanous
+#### Miscellaneous
 * **[zahj](mailto:zahj@dareno.me)**: Karaoke Subtitles
 * **[Raniel](mailto:raniel@dareno.me)**: PR <small>/ resident shitposter</small>
 
