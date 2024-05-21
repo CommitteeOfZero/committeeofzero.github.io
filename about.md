@@ -42,7 +42,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[Enorovan](https://twitter.com/Enorovan)**: Project Manager / Translator / Patch TLC / Developer / Website
 * **[fl4t_is_justice](https://twitter.com/fl4t_is_justice)**: Developer / Reverse Engineer / Translator / TLC / JPR
 
-####Image Work
+#### Image Work
 * **[Cypert](https://twitter.com/CypertSystem)**: CG Editor
 * **[dusk](https://twitter.com/EpitaxyMeltdown)**: CG Cleaner
 * **[LkProd](https://twitter.com/ropdlk)**: CG Editor
