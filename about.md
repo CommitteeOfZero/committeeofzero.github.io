@@ -24,31 +24,37 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 
 ## Members
 
-* **[daxxy](https://twitter.com/DrDaxxy)**: Reverse Engineer / Website Dev
-* **[sa.exe (aka SomeAnon)](https://twitter.com/SomeAnonDev)**: Lead Game Developer / Tooling Developer / Reverse Engineer
-* **[zahj](mailto:zahj@dareno.me)**: Karaoke Subtitles
-* **[Kumin](mailto:kumin@dareno.me)**: Editor / PR / The Gate
-* **[Discontinuous Qualia](https://twitter.com/DiscontinuousQ)**: Quality Assurance
-* **[Davixxa](https://twitter.com/DavixxaYT)**: Botmaster / Resident Slacker
-* **[Cypert](https://twitter.com/CypertSystem)**: CG Editor
-* **[Raniel](mailto:raniel@dareno.me)**: PR <small>/ resident shitposter</small>
-* **[dusk](https://twitter.com/EpitaxyMeltdown)**: CG Cleaner
-* **[ItsRigs](https://twitter.com/Chaos_World_300)**: Translator / TLC
-* **[MrComputerRevo](https://twitter.com/MrComputerRevo)**: Developer / Reverse Engineer
-* **[Rain](https://rainm.io/)**: Translator / TLC
-* **[JoseJL](mailto:josejl1987@gmail.com)**: Developer / Reverse Engineer
-* **[Enorovan](https://twitter.com/Enorovan)**: Translator / Mass Replacer / Developer
-* **[fl4t_is_justice](https://twitter.com/fl4t_is_justice)**: Developer / Reverse Engineer / Translator / TLC / JPR
-* **[ChrisGLink](https://twitter.com/ChrisGLink)**: Head Editor / Translator / TLC / PR
-* **[LkProd](https://twitter.com/ropdlk)**: CG Editor
+#### Tech
+* **[sa.exe (aka SomeAnon)](https://twitter.com/SomeAnonDev)**: Nitrosharp Lead Developer / Tooling Developer / Reverse Engineer
+* **[MrComputerRevo](https://twitter.com/MrComputerRevo)**: Impacto Lead Developer / Reverse Engineer
+* **[JoseJL](mailto:josejl1987@gmail.com)**: LanguageBarrier(32 & 64) Lead Developer / Reverse Engineer
+
+#### Translation
+##### Translation
+* **[ItsRigs](https://twitter.com/Chaos_World_300)**: CHAOS;HEAD Series Head Translator / TLC
+* **[ChrisGLink](https://twitter.com/ChrisGLink2)**: Head Editor / Translator / TLC / PR
 * **[BlabbityBla](https://twitter.com/BlaBlabbity)**: Translator / TLC
+##### Editing
+* **[ChrisGLink](https://twitter.com/ChrisGLink2)**: Head Editor / Translator / TLC / PR
+* **[Kumin](mailto:kumin@dareno.me)**: Editor / Song Editor / PR
+
+#### Translation & Tech
+* **[Enorovan](https://twitter.com/Enorovan)**: Project Manager / Translator / Patch TLC / Developer / Website
+* **[fl4t_is_justice](https://twitter.com/fl4t_is_justice)**: Developer / Reverse Engineer / Translator / TLC / JPR
+
+####Image Work
+* **[Cypert](https://twitter.com/CypertSystem)**: CG Editor
+* **[dusk](https://twitter.com/EpitaxyMeltdown)**: CG Cleaner
+* **[LkProd](https://twitter.com/ropdlk)**: CG Editor
 * **[TehVict](https://twitter.com/TehVict)**: CG Editor / Mecha Expert
-* **[LightArrowsEXE](https://twitter.com/LightArrowsEXE)**: Video Connoisseur / Karaoke Subtitles
 * **[Rile_Zugo](https://twitter.com/rile_zugo)**: CG Editor
 * **[Bloody](#)**: CG Editor
 * **[Zips](https://twitter.com/ZiShoR)**: CG Editor / Resident Coffee Maker
-* **[milkyzer0](https://twitter.com/MilkyZer0)**: CG Editor
 * **[Choccy](https://twitter.com/ChrisChoccy)**: CG Editor
+
+#### Miscellanous
+* **[zahj](mailto:zahj@dareno.me)**: Karaoke Subtitles
+* **[Raniel](mailto:raniel@dareno.me)**: PR <small>/ resident shitposter</small>
 
 ### Inactive/Past members
 
@@ -61,7 +67,12 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 * **[WitchEvelyn](https://twitter.com/Witch_Evelyn)**: Translator / TLC
 * **[barrafas](https://twitter.com/barrafas0)**: Quality Assurance
 * **[Jake](https://twitter.com/futotorofu)**: TLC
+* **[milkyzer0](#)**: CG Editor
 * **[Spider](#)**: Quality Assurance
+* **[Rain](#)**: Translator / TLC
+* **[daxxy](https://twitter.com/DrDaxxy)**: Former Lead Developer / Reverse Engineer / Website
+* **[Discontinuous Qualia](https://twitter.com/DiscontinuousQ)**: Quality Assurance
+* **[Davixxa](https://twitter.com/DavixxaYT)**: Botmaster / Resident Slacker
 
 ### Other Contributors
 
