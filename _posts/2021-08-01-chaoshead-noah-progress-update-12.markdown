@@ -20,7 +20,7 @@ This is why we have decided to stop posting monthly reports. But don't worry—w
 
 To be honest, stopping the monthly reports is a good sign. It means we've communicated everything we have to tell you about the NOAH fan translation project. At this point, all that remains is to keep moving ahead with our current setup. Thank you all for waiting patiently for the release.
 
-And hey, if the time comes when there's enough information worth talking about, we might post another progress report. But for the time being, we highly recommend you follow [our Twitter account](https://twitter.com/CommitteeOf0/), as that's the first place we'll be posting any future announcements.
+And hey, if the time comes when there's enough information worth talking about, we might post another progress report. But for the time being, we highly recommend you follow [our Twitter account](https://x.com/CommitteeOf0/), as that's the first place we'll be posting any future announcements.
 
 In other news... a few days ago, we released version 2.0 of our STEINS;GATE patch. It comes with a plethora of changes that were beyond the scope of our patches back when the v1.0 released in 2016. If you're feeling up for a reread, of if you've yet to experience the STEINS;GATE visual novel, now's a better time than ever! And as always, let us know if we broke something via the #bug-reports channel of [our Discord server](https://discord.gg/rq4GGCh).
 

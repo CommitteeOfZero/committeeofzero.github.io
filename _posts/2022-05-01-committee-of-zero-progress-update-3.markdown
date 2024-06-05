@@ -13,7 +13,7 @@ Welcome to May 2022. Let’s get moving.
 
 To begin, if you haven’t heard, we recently released Version 2.0 of our CHAOS;CHILD Improvement Patch, something that’s been in the works for well over a year now. It’s got a whole host of improvements packaged into it, a handful of which were ripped straight from our upcoming CHAOS;HEAD NOAH translation! We’ve gotta be consistent, after all—even if it means spoiling a few surprises.
 
-While we worked on NOAH and CHAOS;CHILD 2.0, we did change some pretty large things from TLWiki’s original CHAOS;HEAD translation, as well as the original CHAOS;CHILD translation. [We made a basic list of the terminology we changed right here, but be warned that there will be spoilers for both games.](https://twitter.com/Enorovan/status/1520127243535720449)
+While we worked on NOAH and CHAOS;CHILD 2.0, we did change some pretty large things from TLWiki’s original CHAOS;HEAD translation, as well as the original CHAOS;CHILD translation. [We made a basic list of the terminology we changed right here, but be warned that there will be spoilers for both games.](https://x.com/Enorovan/status/1520127243535720449)
 
 Now, these changes are pretty big, and we know how big of a deal it is to change established terms. Some may be wondering why they had to be changed at all! [So, that’s why we decided it’s time to bring you yet another deep-dive into the hearts and minds of those of us at the Committee of Zero. But beware... spoilers for the CHAOS; games and our longest post to date await all ye who travel here...]({{ "/2022/05/01/chaos-case-names-masterpost.html" | relative_url }})
 

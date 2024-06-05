@@ -27,7 +27,7 @@ If you don’t have any money to spare, spreading the word and getting people ac
 
 ### Now that we’ve said what needs to be said, let’s step away from the sadness and talk about what you’re all here for.
 
-Let’s start with NOAH. First off, we’re assuming you’ve heard by now that an official translation of NOAH has been announced over on the KagakuADV Twitter. We’ve already decided since the day it was announced that we’re going to continue working on our own translation until we have further information. You can read more on that [here](https://twitter.com/CommitteeOf0/status/1496581277637652484?s=20&t=LoPUSYyjtYUiMu4PWa5org).
+Let’s start with NOAH. First off, we’re assuming you’ve heard by now that an official translation of NOAH has been announced over on the KagakuADV Twitter. We’ve already decided since the day it was announced that we’re going to continue working on our own translation until we have further information. You can read more on that [here](https://x.com/CommitteeOf0/status/1496581277637652484?s=20&t=LoPUSYyjtYUiMu4PWa5org).
 
 
 As for how that translation’s been progressing, you may have noticed that the Editing portion of our progress table has been a bit... stagnant, unfortunately. Granted, all fan translation work is quite slow-going, especially when the group is infected by the grave ailments that are higher education, unfortunately-low-paying jobs, and the overall crazy nature of life itself. However, the progress on editing was beginning to grow unacceptable for us.
@@ -86,7 +86,7 @@ In short, on top of making CHAOS;CHILD consistent with every other patched game,
 There’s also a few more things about it we haven’t mentioned, but you’ll just have to wait and see what exactly those might be.
 
 
-We also have updates planned for our [STEINS;GATE patch](https://twitter.com/CommitteeOf0/status/1431302975612461056) and our long-awaited [1/3rd patch for ROBOTICS;NOTES DaSH](https://twitter.com/CommitteeOf0/status/1430250228125478923). Unfortunately, you’ll have to wait a little while longer for these; for one, they require a bit more work on the language/image-editing end, but beyond that, our beloved techies are currently out of commission due to the less-than-fortunate state of the world.
+We also have updates planned for our [STEINS;GATE patch](https://x.com/CommitteeOf0/status/1431302975612461056) and our long-awaited [1/3rd patch for ROBOTICS;NOTES DaSH](https://x.com/CommitteeOf0/status/1430250228125478923). Unfortunately, you’ll have to wait a little while longer for these; for one, they require a bit more work on the language/image-editing end, but beyond that, our beloved techies are currently out of commission due to the less-than-fortunate state of the world.
 
 
 In the meantime, we’re excited to announce that we’ve started working on patches for three different games in the series: STEINS;GATE: My Darling’s Embrace, STEINS;GATE: Linear Bounded Phenogram, and everyone’s favorite recent MAGES. release, STEINS;GATE ELITE!

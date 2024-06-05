@@ -18,7 +18,7 @@ Don't worry, though. This is a good thing! It means the project is progressing s
 
 Two of our members, Kumin and ChrisGLink, recently appeared on an episode of Cinepresto's SciADV Sunday podcast, where they talked about the origins of the Committee of Zero, among other related topics. The VOD for this stream is currently unavailable, but we'll link it here once it gets reuploaded.
 
-We also plan on making a return on tomorrow's episode of the podcast (May 2nd). There we'll be talking about our more recent projects, including the NOAH TL! Keep an eye on [our Twitter](https://twitter.com/CommitteeOf0) and [Cinepresto's Twitch](https://www.twitch.tv/cinepresto) to know when we go live.
+We also plan on making a return on tomorrow's episode of the podcast (May 2nd). There we'll be talking about our more recent projects, including the NOAH TL! Keep an eye on [our Twitter](https://x.com/CommitteeOf0) and [Cinepresto's Twitch](https://www.twitch.tv/cinepresto) to know when we go live.
 
 And in case you missed it, last month we took an [in-depth look into our translation workflow]({% post_url 2021-04-01-chaoshead-noah-translation-process-deep-dive %}) to emphasize the importance of our TLC and editing passes. If you're not interested in reading the whole thing, the major takeaway is this: although the TL pass is nearing completion, expect TLC and editing to take at least a few more months. We appreciate your patience.
 
