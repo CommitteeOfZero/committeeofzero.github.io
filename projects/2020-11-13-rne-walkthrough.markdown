@@ -133,7 +133,7 @@ On September 20, when you start out at the Robot Clinic, reply:
 On September 21, when you make it outside of the Robot Clinic, reply:
 
 - **GEZI-SISTER: @UMISHO What is your favorite robot?**
-  - <i>Reply: Multi</i>
+  - <i>Reply: HMX-12 Multi</i>
 
 On September 27, at Junna’s house, reply:
 
