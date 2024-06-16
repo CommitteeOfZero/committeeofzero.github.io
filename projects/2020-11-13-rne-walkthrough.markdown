@@ -135,8 +135,6 @@ On September 21, when you make it outside of the Robot Clinic, reply:
 - **GEZI-SISTER: @UMISHO What is your favorite robot?**
   - <i>Reply: Multi</i>
 
-On September 26, the Kimijima Report is located at Hasetenbo Park, underneath the table and between the table foot and one of the chairs.
-
 On September 27, at Junna’s house, reply:
 
 - **GEZI-SISTER: What kind of world do[...]**
@@ -151,7 +149,7 @@ After you get to Phase 06's ending, load **SAVE 01**. Open Twipo right away and 
 - **FRAUKOUJIRO: This island has way too[...]**
   - <i>Reply: @FRAUKOUJIRO You should ask Madam President[...]</i>
 
-At noon, do not reply to any tweeps, or you will be locked out of an extra scene.
+At noon, do not reply to any tweeps, or you will be locked out of additional Twipo content.
 
 When the search for the report begins, travel to the Robot Clinic, and reply to Frau:
 
