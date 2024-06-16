@@ -133,7 +133,7 @@ On September 20, when you start out at the Robot Clinic, reply:
 On September 21, when you make it outside of the Robot Clinic, reply:
 
 - **GEZI-SISTER: @UMISHO What is your favorite robot?**
-  - <i>Reply: I have multiple</i>
+  - <i>Reply: Multi</i>
 
 On September 26, the Kimijima Report is located at Hasetenbo Park, underneath the table and between the table foot and one of the chairs.
 
