@@ -31,6 +31,7 @@ Download link and instructions are <a href="#guides">↓ below</a>.
 <p>You are required to <b>own the PC version of the game as well as the decrypted, unmodified scripts of the English Vita version 1.01</b>. These can be extracted using a <b>Vita or PSTV on firmware 3.60</b> (a hack for firmwares 3.65 to 3.68 has been announced for the near future). Both the physical and digital English Vita versions can be used.</p>
 
 Both the physical and digital English Vita versions can be used, but getting the digital version <i>onto</i> your 3.60 device currently requires a second, latest firmware Vita. <i>(Using a PS3 no longer works.)</i>
+
 </div>
 
 You can find guides for buying the Japanese PC version and extracting the necessary data from the English Vita version [below](#guides).
@@ -84,15 +85,17 @@ Like STEINS;GATE 0, the PC version of CHAOS;CHILD occasionally crashes for some 
 
 # <a name="guides"></a>Guides
 
-* [How to buy the digital PC version]({{ "/projects/cc-buying-digital-pc-version.html" | relative_url }})
-* [How to extract the English Vita version scripts]({{ "/projects/cc-extracting-english-vita-version-scripts.html" | relative_url }})
-* [100% Spoiler-free Walkthrough]({{ "/projects/cc-walkthrough.html" | relative_url }})
+- [How to buy the digital PC version]({{ "/projects/cc-buying-digital-pc-version.html" | relative_url }})
+- [How to extract the English Vita version scripts]({{ "/projects/cc-extracting-english-vita-version-scripts.html" | relative_url }})
+- [100% Spoiler-free Walkthrough]({{ "/projects/cc-walkthrough.html" | relative_url }})
 
 # Installation instructions
 
 1. **[↓ Download the installer](https://github.com/CommitteeOfZero/cc-patch/releases).**
 2. Run the installer. **Warning:** Has sound.
-  * If the installer quits with an error about `MSVCP140.dll`, install [Visual C++ 2015 Redistributable Update 3](https://www.microsoft.com/en-us/download/details.aspx?id=53587) (32-bit version, `vc_redist.x86.exe` - regardless of your system) and try again.
+
+- If the installer quits with an error about `MSVCP140.dll`, install [Visual C++ 2015 Redistributable Update 3](https://www.microsoft.com/en-us/download/details.aspx?id=53587) (32-bit version, `vc_redist.x86.exe` - regardless of your system) and try again.
+
 3. When asked, fill in the directory where you installed the PC version (containing a `USRDIR` directory and files such as `Game.exe`).
 4. When asked, fill in your path to the unencrypted, unmodified `USRDIR\script` directory copied from update 1.01 for the English Vita version (containing files ending in `.scx`).
 
@@ -111,9 +114,9 @@ If you're having a problem not covered here, please [ask us on Discord](https://
 
 This happens when the game cannot open its configuration / save data directory.
 
-Make sure your locale is set to the appropriate locale for your Windows user name (in particular, *do not* run the game in Japanese locale).
+Make sure your locale is set to the appropriate locale for your Windows user name (in particular, _do not_ run the game in Japanese locale).
 
-If your *Documents* folder is on *OneDrive*, currently the only way to run the game is to move it out (using the appropriate Windows functionality, not simply dragging the folder).
+If your _Documents_ folder is on _OneDrive_, currently the only way to run the game is to move it out (using the appropriate Windows functionality, not simply dragging the folder).
 
 This is a bug in the PC version of the engine we will address in an update soon.
 
@@ -121,11 +124,11 @@ This is a bug in the PC version of the engine we will address in an update soon.
 
 ![SdWrap error]({{ "/uploads/error_sdwrap.png" | absolute_url }})
 
-The *title* is important here - in Japanese locale, the message would display correctly, however that's not related to the issue at hand (and using Japanese locale is not required to run the game and can actually cause problems itself).
+The _title_ is important here - in Japanese locale, the message would display correctly, however that's not related to the issue at hand (and using Japanese locale is not required to run the game and can actually cause problems itself).
 
 This happens when the patch installer fails to modify your game executable (most likely because something else on your system was reading `Game.exe` at the time or because you're using antivirus).
 
-1. Browse to the game folder (the *Troubleshooting* tab under *More Settings* in the launcher has a button for this).
+1. Browse to the game folder (the _Troubleshooting_ tab under _More Settings_ in the launcher has a button for this).
 2. Close the launcher.
 3. Close/disable antivirus or anything else that might be preventing `Game.exe` from being modified (rebooting may help).
 4. Delete/move `Game.exe.bak` and `Game.exe.tmp` to prevent the installer from believing `Game.exe` has been successfully patched.
@@ -151,13 +154,13 @@ Update Windows. You may need to install the Visual C++ 2015 Redistributable Upda
 
 # Credits
 
-* **Image editing**: Cypert, dusk, rimi, MrComputerRevo, Kumin, Raykable
-* **Hacking**: SomeAnon, daxxy, MrComputerRevo
-* **Editing**: Kumin, Discontinuous Qualia
-* **Translation**: Rain, ItsRigs, MrComputerRevo, Ice
-* **Subtitles**: zahj
-* **Chief Masochism Officer**: MrComputerRevo
-* **Masochism Deputies**: Raniel, Gel Banana
+- **Image editing**: Cypert, dusk, rimi, MrComputerRevo, Kumin, Raykable
+- **Hacking**: SomeAnon, daxxy, MrComputerRevo
+- **Editing**: Kumin, Discontinuous Qualia
+- **Translation**: Rain, ItsRigs, MrComputerRevo, Ice
+- **Subtitles**: zahj
+- **Chief Masochism Officer**: MrComputerRevo
+- **Masochism Deputies**: Raniel, Gel Banana
 
 Special thanks to our vetted laboratory assistants for playtesting and proofreading!
 

@@ -13,7 +13,7 @@ Since a certain “anonymous hacker” was so kind as to leak all our projects d
 
 That's right.
 
-Not only are we translating CHAOS;HEAD Love Chu☆Chu!, but we've *been* translating it. The game's translation is 65% complete, and the editing pass has already kicked off, too!
+Not only are we translating CHAOS;HEAD Love Chu☆Chu!, but we've _been_ translating it. The game's translation is 65% complete, and the editing pass has already kicked off, too!
 
 For those unaware, Love Chu☆Chu!—or C;HLCC for short—is a direct, canon sequel to CHAOS;HEAD NOAH. The game is a parody of traditional dating sims and seeks to tie up a lot of the unresolved character arcs from NOAH.
 
@@ -27,17 +27,18 @@ Regardless, we hope you're as excited to experience this game as we are to dive 
 
 # CHAOS;HEAD Love Chu☆Chu! Overall Totals — February 5th, 2023
 
-|                  | **Translation** | **TLC**    | **Editing** |
-| ---------------- | --------------- | ---------- | ----------- |
-| Common route     | **53.17%**      | **17.90%** | **17.90%**  |
-| Nanami route     | **100.00%**     |            |             |
-| Yua route        | **100.00%**     |            |             |
-| Sena route       | **100.00%**     |            |             |
-| Kozue route      |                 |            |             |
-| Ayase route      |                 |            |             |
-| Rimi route       | **100.00%**     |            |             |
-| TIPs             | **100.00%**     | **100.00%**| **100.00%** |
-| **<u>Total</u>** | **65.04%**      | **6.17%**  | **6.17%**   |
+|                  | **Translation** | **TLC**     | **Editing** |
+| ---------------- | --------------- | ----------- | ----------- |
+| Common route     | **53.17%**      | **17.90%**  | **17.90%**  |
+| Nanami route     | **100.00%**     |             |             |
+| Yua route        | **100.00%**     |             |             |
+| Sena route       | **100.00%**     |             |             |
+| Kozue route      |                 |             |             |
+| Ayase route      |                 |             |             |
+| Rimi route       | **100.00%**     |             |             |
+| TIPs             | **100.00%**     | **100.00%** | **100.00%** |
+| **<u>Total</u>** | **65.04%**      | **6.17%**   | **6.17%**   |
+
 {: class="totals"}
 
 \*: Numbers highlighted in **bold** indicate the progress that has been made since the project started.
@@ -63,11 +64,12 @@ As ELITE will not need font and image editing, the brunt of the work will primar
 Most of the tech work is already complete, but the TLC and Editing has been taking a bit of a break in order for all hands to focus on NOAH. This'll change fairly soon.
 
 # STEINS;GATE: My Darling's Embrace
+
 A portion of the tech work has been completed, as well as some TLC and Editing, but this is the lowest-priority project for us at the moment.
 
 # Conclusion
 
-That's all for this progress report. We've got an array of projects in the works, as we're sure you can see. We were really, *really* excited to announce the LCCs, so we hope you were just as excited to see them announced.
+That's all for this progress report. We've got an array of projects in the works, as we're sure you can see. We were really, _really_ excited to announce the LCCs, so we hope you were just as excited to see them announced.
 
 We'll be taking a bit of a break now, so we'll catch up with you all soon.
 

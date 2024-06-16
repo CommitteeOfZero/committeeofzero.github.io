@@ -25,7 +25,7 @@ As you may know, CHAOS;HEAD NOAH’s fate on Steam is still somewhat uncertain a
 
 &emsp;1. If the game isn’t actually banned, or receives an official PC port on another platform, we will patch it like we’ve always done.
 
-&emsp;2. If the game *is* banned, and Nitrosharp isn’t complete, we’ll patch the Nintendo Switch version of the game. It will be usable on both modded Switches, as well as the Switch emulator of your choice. Naturally, you will need to legally acquire the game yourself.<br>...We also made an educated guess that the PC port would be based on the Switch version, so we’ve already started getting it ready using the Japanese release. Currently, 50% has already been inserted into the engine, and it’s advancing more and more every day.
+&emsp;2. If the game _is_ banned, and Nitrosharp isn’t complete, we’ll patch the Nintendo Switch version of the game. It will be usable on both modded Switches, as well as the Switch emulator of your choice. Naturally, you will need to legally acquire the game yourself.<br>...We also made an educated guess that the PC port would be based on the Switch version, so we’ve already started getting it ready using the Japanese release. Currently, 50% has already been inserted into the engine, and it’s advancing more and more every day.
 
 &emsp;3. When Nitrosharp is complete, we will be releasing our translation along with it. This will require you to legally acquire the files of the Xbox 360 version of the game.
 
@@ -37,28 +37,27 @@ As we’re sure you’re all aware, ANONYMOUS;CODE released a little over a mont
 
 Okay, now that that’s all out of the way, here are the numbers.
 
-
 ### CHAOS;HEAD NOAH Overall Totals — September 1st, 2022
 
-|                  | **Translation** | **TLC**    | **Editing** |
-| ---------------- | --------------- | ---------- | ----------- |
-| Common route     | 100.00%         | **91.36%** | **91.36%**  |
-| B route          | 100.00%         | **100.00%**|             |
-| Nanami route     | 100.00%         | **44.84%** | 5.54%       |
-| Yua route        | 100.00%         | 100.00%    | 100.00%     |
-| Sena route       | 100.00%         | 100.00%    | 100.00%     |
-| Kozue route      | 100.00%         | **100.00%**| **18.98%**  |
-| Ayase route      | 100.00%         | 100.00%    | 100.00%     |
-| Rimi route       | 100.00%         | **100.00%**| **14.19%**  |
-| True end         | 100.00%         |            |             |
-| TIPs             | 100.00%         | 100.00%    | **100.00%** |
-| **<u>Total</u>** | 100.00%         | **91.32%** | **80.07%**  |
+|                  | **Translation** | **TLC**     | **Editing** |
+| ---------------- | --------------- | ----------- | ----------- |
+| Common route     | 100.00%         | **91.36%**  | **91.36%**  |
+| B route          | 100.00%         | **100.00%** |             |
+| Nanami route     | 100.00%         | **44.84%**  | 5.54%       |
+| Yua route        | 100.00%         | 100.00%     | 100.00%     |
+| Sena route       | 100.00%         | 100.00%     | 100.00%     |
+| Kozue route      | 100.00%         | **100.00%** | **18.98%**  |
+| Ayase route      | 100.00%         | 100.00%     | 100.00%     |
+| Rimi route       | 100.00%         | **100.00%** | **14.19%**  |
+| True end         | 100.00%         |             |             |
+| TIPs             | 100.00%         | 100.00%     | **100.00%** |
+| **<u>Total</u>** | 100.00%         | **91.32%**  | **80.07%**  |
+
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD
 
 \*\*: Numbers highlighted in **bold** indicate that progress has been made in the past month.
-
 
 ### CHAOS;HEAD NOAH
 

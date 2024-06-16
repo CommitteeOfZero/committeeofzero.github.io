@@ -9,7 +9,6 @@ Hey there, everybody! Happy New Year!
 
 As 2023 leaves and 2024 begins, we figured now was the right time to update you on the current state of affairs over at the Committee of Zero HQ. It's been... oh wow, around eleven months since the last one, so we're definitely due for some transparency around here.
 
-
 With the ANONYMOUS;CODE Improvement Patch all done, we can now put our focus back on the \*checks notes\* five other projects we've been working on. And yes, working on; despite us saying we've been on an [extended break](https://sonome.dareno.me/2023/02/05/committee-of-zero-progress-update-9.html), some of our team members have a tough time sitting still. So let's get into it!
 
 # Existing Patches
@@ -53,6 +52,7 @@ Now, on to the serious business. Let's start with the percentages.
 | Rimi route       | 100.00%         |            |             |
 | TIPs             | 100.00%         | 100.00%    | 100.00%     |
 | **<u>Total</u>** | **70.54%**      | **22.70%** | **22.70%**  |
+
 {: class="totals"}
 
 \*: Numbers highlighted in **bold** indicate that progress has been made since the last progress report.
@@ -71,7 +71,6 @@ Lastly, the port on impacto—our C++ reimplementation of the MAGES. engine. Thi
 
 The LCC ports are still a while away, and definitely have plenty of work left to be done. Of course, impacto is a collaborative project, so the more contributors we have, the faster the ports can be completed! If you have skills in C++, feel free to join our [Discord](https://discord.gg/rq4GGCh) server and talk to us!
 
-
 # CHAOS;CHILD Love Chu☆Chu!!
 
 Last time, we told you that we weren't quite ready to share progress on C;CLCC yet, as we wanted to focus on C;HLCC first. We also mentioned that we were taking an extended break after the very-taxing release of CHAOS;HEAD NOAH's translation, but... well, as we said in the intro, you'll learn that some of us have a very special definition of “taking a break.”
@@ -82,18 +81,19 @@ Last time, we told you that we weren't quite ready to share progress on C;CLCC y
 
 # CHAOS;CHILD Love Chu☆Chu!! Overall Totals — January 1st, 2024
 
-|                  | **Translation** | **TLC**    | **Editing** |
-| ---------------- | --------------- | ---------- | ----------- |
-| Common route     | **100.00%**     | **100.00%**| **100.00%** |
-| Hinae route      | **100.00%**     | **100.00%**| **100.00%** |
-| Hana route       | **100.00%**     | **33.79%** | **33.79%**  |
-| Nono route       | **100.00%**     | **100.00%**| **100.00%** |
-| Serika route     | **100.00%**     | **13.71%** | **13.71%**  |
-| Yui & Yuto route | **100.00%**     |            |             |
-| Itou route       | **100.00%**     |            |             |
-| Intermissions    | **100.00%**     |            |             |
-| TIPs             | **100.00%**     |            |             |
-| **<u>Total</u>** | **100.00%**     | **55.30%** | **55.30%**  |
+|                  | **Translation** | **TLC**     | **Editing** |
+| ---------------- | --------------- | ----------- | ----------- |
+| Common route     | **100.00%**     | **100.00%** | **100.00%** |
+| Hinae route      | **100.00%**     | **100.00%** | **100.00%** |
+| Hana route       | **100.00%**     | **33.79%**  | **33.79%**  |
+| Nono route       | **100.00%**     | **100.00%** | **100.00%** |
+| Serika route     | **100.00%**     | **13.71%**  | **13.71%**  |
+| Yui & Yuto route | **100.00%**     |             |             |
+| Itou route       | **100.00%**     |             |             |
+| Intermissions    | **100.00%**     |             |             |
+| TIPs             | **100.00%**     |             |             |
+| **<u>Total</u>** | **100.00%**     | **55.30%**  | **55.30%**  |
+
 {: class="totals"}
 
 \*: Numbers highlighted in **bold** indicate the progress that has been made since the project started.
@@ -112,8 +112,6 @@ Lastly, port-wise, C;CLCC saw some progress, though a bit less than its older si
 
 We've also been keeping an eye on the current state of PlayStation Vita and PlayStation 4 emulation—as C;HLCC runs pretty well via PS3 emulation—in case the translation finishes up far before the projected completion window for impacto.
 
-
-
 # Wrapping up
 
 So yeah! Some pretty cool stuff happening behind the scenes, and honestly, we're so happy we finally got to share it with you—especially the C;CLCC percentages. Crazy, right?
@@ -123,4 +121,3 @@ We're super excited for 2024, and we think it's finally gonna allow us to clear 
 We'll put out another progress report once we draw closer to releasing any of our STEINS;GATE fandisc patches, or if the LCCs have some huge boost worth talking about.
 
 On that note, though, Happy New Year once again, everyone, and we'll see you soon!
-

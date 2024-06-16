@@ -20,9 +20,9 @@ The translation at its core was unsalvagable. There was no better option than to
 
 Despite these critiques, we want to absolutely stress—we fully support the translators who worked on the game. Knowing the state of the industry—especially given MAGES.' track record—it's highly likely that they were neither given the time, nor the funds they needed to give this game the respect it deserves. The CG editing alone screams this—it's clear the translators did not want readers to miss out on important content contained inside images, but were forced to make massive sacrifices when it came to presentation.
 
-We are lucky enough to have had all the time we needed to do right by this project. Even all the way through the end of the translation process, there were still things we were discovering about this game and its world. In all likelihood, we might *still* find that we missed something—the release of ANONYMOUS;CODE, for example, definitely put a bunch of things into perspective.
+We are lucky enough to have had all the time we needed to do right by this project. Even all the way through the end of the translation process, there were still things we were discovering about this game and its world. In all likelihood, we might _still_ find that we missed something—the release of ANONYMOUS;CODE, for example, definitely put a bunch of things into perspective.
 
-Thankfully, we have the freedom to continue updating our patch—something the official translators lack, as any and all changes to the official release would need to go directly through *MAGES.* themselves. This explains why, despite all the issues and bugs that plague the ports, they've only fixed *one* so far!
+Thankfully, we have the freedom to continue updating our patch—something the official translators lack, as any and all changes to the official release would need to go directly through _MAGES._ themselves. This explains why, despite all the issues and bugs that plague the ports, they've only fixed _one_ so far!
 
 As long as MAGES. continues to act like this—as long as they continue to show zero care for the quality of their releases—we will continue to operate as we have been. We love this series to death, and we hope that shows.
 

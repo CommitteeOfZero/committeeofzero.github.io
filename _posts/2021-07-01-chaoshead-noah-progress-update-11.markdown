@@ -27,6 +27,7 @@ There's not much to say in this update; we've sort of exhausted the topics we wa
 | True end         | 100.00%         |            |             |
 | TIPs             | 100.00%         | 100.00%    | **21.13%**  |
 | **<u>Total</u>** | **95.39%**      | **16.30%** | **9.67%**   |
+
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD

@@ -25,52 +25,52 @@ To avoid making this guide too lengthy but also explain how to get all of the ac
 
 ### Mesopause Converter:
 
-* Start the game and progress until you are asked to choose a location to search. This will be Map Trigger Sequence 1. Create <strong>SAVE 01</strong> right before the trigger and <strong>lock</strong> it.
-* Select <u>Front of Man from the Sea Statue</u>.
-* Progress until Map Trigger Sequence 2. Create <strong>SAVE 02</strong> right before the trigger and <b>lock</b> it as well.
-* Select <u>Food Court</u>.
-* Progress until Map Trigger Sequence 3.
-* Select <u>Battle Robots Venue</u>, then <u>Main Stage</u>.
+- Start the game and progress until you are asked to choose a location to search. This will be Map Trigger Sequence 1. Create <strong>SAVE 01</strong> right before the trigger and <strong>lock</strong> it.
+- Select <u>Front of Man from the Sea Statue</u>.
+- Progress until Map Trigger Sequence 2. Create <strong>SAVE 02</strong> right before the trigger and <b>lock</b> it as well.
+- Select <u>Food Court</u>.
+- Progress until Map Trigger Sequence 3.
+- Select <u>Battle Robots Venue</u>, then <u>Main Stage</u>.
 
 ### Plasmapause Resistor:
 
-* Load <strong>SAVE 02</strong>.
-* Select <u>Front of Man from the Sea Statue</u>, then <u>Food Court</u>.
-* Progress until Map Trigger Sequence 3. Create <strong>SAVE 03</strong> right before the trigger and <b>lock</b> it as well.
-* Select <u>Main Stage</u>.
+- Load <strong>SAVE 02</strong>.
+- Select <u>Front of Man from the Sea Statue</u>, then <u>Food Court</u>.
+- Progress until Map Trigger Sequence 3. Create <strong>SAVE 03</strong> right before the trigger and <b>lock</b> it as well.
+- Select <u>Main Stage</u>.
 
 ### Exopause Thyristor:
 
-* Load <strong>SAVE 02</strong>.
-* Select <u>Robotics Lecture Classroom</u>, then <u>Food Court</u>.
-* Progress until Map Trigger Sequence 3.
-* Select <u>Main Stage</u>.
+- Load <strong>SAVE 02</strong>.
+- Select <u>Robotics Lecture Classroom</u>, then <u>Food Court</u>.
+- Progress until Map Trigger Sequence 3.
+- Select <u>Main Stage</u>.
 
 ### Thermopause Emulator:
 
-* Load <strong>SAVE 01</strong>.
-* Select <u>Main Stage</u>, then <u>Front of Man from the Sea Statue</u>.
-* Progress until Map Trigger Sequence 2.
-* Select <u>Food Court</u>.
-* Progress until Map Trigger Sequence 3.
-* Select <u>Main Stage</u>.
+- Load <strong>SAVE 01</strong>.
+- Select <u>Main Stage</u>, then <u>Front of Man from the Sea Statue</u>.
+- Progress until Map Trigger Sequence 2.
+- Select <u>Food Court</u>.
+- Progress until Map Trigger Sequence 3.
+- Select <u>Main Stage</u>.
 
 ### Ionopause Thermistor:
 
-* Load <strong>SAVE 01</strong>.
-* Select <u>Arbor Facing the Lighthouse</u>, then <u>Front of Man from the Sea Statue</u>.
-* Progress until Map Trigger Sequence 2.
-* Select <u>Food Court</u>.
-* Progress until Map Trigger Sequence 3.
-* Select <u>Main Stage</u>.
+- Load <strong>SAVE 01</strong>.
+- Select <u>Arbor Facing the Lighthouse</u>, then <u>Front of Man from the Sea Statue</u>.
+- Progress until Map Trigger Sequence 2.
+- Select <u>Food Court</u>.
+- Progress until Map Trigger Sequence 3.
+- Select <u>Main Stage</u>.
 
 ### Magnetopause Attenuator
 
-* If you've already completed <u>all the other routes</u>, a new button will appear on the main menu.
+- If you've already completed <u>all the other routes</u>, a new button will appear on the main menu.
 
 ### Heliopause Processor
 
-* Similarly, if you've already completed <u>Magnetopause Attenuator</u>, yet another button will appear on the main menu.
+- Similarly, if you've already completed <u>Magnetopause Attenuator</u>, yet another button will appear on the main menu.
 
 # Geotag Locations
 
@@ -82,10 +82,9 @@ To avoid making this guide too lengthy but also explain how to get all of the ac
 
 # Additional Info
 
-* There is an achievement for reading all the tips. Read them all (or just select them all to mark them as read) in order to receive this achievement.
-    * Note that there are two tips that are possible to miss, and both are unlocked in the places that you haven't gone to during the <u>Map Trigger Sequence 3</u>: load <strong>SAVE 03</strong>, and select <u>Food Court</u> before selecting <u>Main Stage</u>.
-* There is an achievement related to the deluoode map triggers. It involves fast-travelling three or more times while searching for a geotag.
-* There is an achievement related to the PokeCom. You will just need to get it out at any given time when the option is available, and check your current position on deluoode map.
+- There is an achievement for reading all the tips. Read them all (or just select them all to mark them as read) in order to receive this achievement.
+  - Note that there are two tips that are possible to miss, and both are unlocked in the places that you haven't gone to during the <u>Map Trigger Sequence 3</u>: load <strong>SAVE 03</strong>, and select <u>Food Court</u> before selecting <u>Main Stage</u>.
+- There is an achievement related to the deluoode map triggers. It involves fast-travelling three or more times while searching for a geotag.
+- There is an achievement related to the PokeCom. You will just need to get it out at any given time when the option is available, and check your current position on deluoode map.
 
 [← Back to project page]({{ "/projects/rnd-steam.html" | relative_url }})
-

@@ -15,14 +15,13 @@ excerpt: Attribution for third-party components used in ANONYMOUS;CODE Improveme
 
 ##### Launcher/Installer
 
-* [Qt 5.15](https://qt.io)
-* [Xdelta3](http://xdelta.org)
-* [7-Zip SFX module](https://7-zip.org/)
-* [cURL](https://curl.haxx.se/)
-* [dr_mp3](https://github.com/mackron/dr_libs)
-* [miniaudio](https://github.com/dr-soft/miniaudio)
+- [Qt 5.15](https://qt.io)
+- [Xdelta3](http://xdelta.org)
+- [7-Zip SFX module](https://7-zip.org/)
+- [cURL](https://curl.haxx.se/)
+- [dr_mp3](https://github.com/mackron/dr_libs)
+- [miniaudio](https://github.com/dr-soft/miniaudio)
 
 To use your own Qt builds with the (un)installer, extract the (un)installer executable with 7-Zip. You will be able to substitute your own Qt DLLs.
 
 [← Back to project page]({{ "/projects/chn-patch.html" | relative_url }})
-

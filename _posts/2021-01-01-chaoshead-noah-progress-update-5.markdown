@@ -6,7 +6,7 @@ date: 2021-01-01 21:00:42 +0000
 hidden: true
 ---
 
-Hey everyone! 
+Hey everyone!
 
 'Tis the season of "dude how in the WORLD did we make it through that year," so along with that heaping plate of introspection and self-reflection, we've got a nice, tall glass of Progress Report for ya (it pretty much just tastes like Eggnog), full of insight, new percentages, and more!
 
@@ -16,7 +16,7 @@ Indeed, the holidays have been kind to us, and we've been able to make a fair am
 
 Over 50%! Amazing late Christmas present, eh?
 
-And to celebrate this achievement, we're introducing a total completion percentage to the progress table. 
+And to celebrate this achievement, we're introducing a total completion percentage to the progress table.
 
 ### Overall Totals — January 1st, 2021
 
@@ -32,13 +32,14 @@ And to celebrate this achievement, we're introducing a total completion percenta
 | Rimi route       | 100.00%         |         |             |
 | True end         | 14.29%          |         |             |
 | **<u>Total</u>** | **52.85%**      |         |             |
+
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD
 
 \*\*: Numbers highlighted in **bold** indicate that progress has been made in the past month.
 
-We've been working hard on NOAH as you can see, but we couldn't have made it to this milestone without our lovely new translator: Bla! One of the translators we had on board to work on the game has been bashed over the head with lots of other responsibilities, so we're having Bla take over for him. We're real lucky to have him, so welcome, Bla! 
+We've been working hard on NOAH as you can see, but we couldn't have made it to this milestone without our lovely new translator: Bla! One of the translators we had on board to work on the game has been bashed over the head with lots of other responsibilities, so we're having Bla take over for him. We're real lucky to have him, so welcome, Bla!
 
 Before you go, we've <i>saved</i> one more present for last. Our lovely SomeAnon has prepared another video of our CHAOS;HEAD NOAH port and translation, including some more features he's gotten up and running: saving, loading, and the in-game menu. Take a look!
 

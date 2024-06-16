@@ -11,12 +11,11 @@ Oh hey, we released something on time for once.
 
 This patch brings the fixes and improvements from our previous patch to the Steam version and adds a few more. See [below](#features) for a full list of features.
 
-**UPDATE:** See that "few" above? Miiight be a bit of an understatement. 
+**UPDATE:** See that "few" above? Miiight be a bit of an understatement.
 
 Much like what we talked about for our STEINS;GATE Steam Patch version 2.0, we gained experience over the years, our team got bigger, and our ambitions higher. So here it is, finally—the major update to our CHAOS;CHILD Improvement Patch. With all the places our CHAOS;HEAD NOAH translation has gone, we were bound to revise CHAOS;CHILD at some point; the two games are very tightly connected, after all. As our work on NOAH progressed, we found more and more parallels, more evident thematic progression, and just... more in general. It wouldn’t be an exaggeration to say this patch has an amount of work and thought put into it comparable to our ROBOTICS;NOTES ELITE Steam Patch, but with far less crunch this time, we promise.
 
 So, without further ado, we welcome you back to Chaos World.
-
 
 <div style="border: 1px solid #fff; padding: 8px;">
 Download link and instructions are <a href="#guides">↓ below</a>.
@@ -35,53 +34,53 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
-##### Version 2.0.1 *(Sep 29, 2022)*
+##### Version 2.0.1 _(Sep 29, 2022)_
 
-* Minor text and consistency fixes.
-* The title menu's logo is now properly translated.
+- Minor text and consistency fixes.
+- The title menu's logo is now properly translated.
 
-##### Version 2.0 *(Apr 29, 2022)*
+##### Version 2.0 _(Apr 29, 2022)_
 
-* A full proofreading pass of the game has been completed, fixing large amounts of incorrect terminology, inaccuracies, inconsistencies, as well as improving general readability. Some moderate translation checking was done as well.
-* The TIPS have received a full translation check and editing pass.
-* Terminology has been made consistent with our CHAOS;HEAD NOAH translation and all our other patches.
-* Restored Japanese honorifics.
+- A full proofreading pass of the game has been completed, fixing large amounts of incorrect terminology, inaccuracies, inconsistencies, as well as improving general readability. Some moderate translation checking was done as well.
+- The TIPS have received a full translation check and editing pass.
+- Terminology has been made consistent with our CHAOS;HEAD NOAH translation and all our other patches.
+- Restored Japanese honorifics.
 
-##### Version 1.12 *(May 21, 2019)*
+##### Version 1.12 _(May 21, 2019)_
 
-* Fixed compatibility with May 20, 2019 Steam update.
-* Adjusted edited keyboard help for Steam version.
-* Fixed launcher issue with moving save files from a system with a controller installed to a system without one (**"There is an error importing setup files"**).
-* Controller input can now be disabled to work around phantom inputs.
-* Replaced update checker technology as the old one was causing launcher crashes for a small number of users.
-* Fixed launcher not starting with **"Entry Point Not Found"** error for a small number of users.
-* Fixed replaced videos failing to play for some Linux users.
-* More typo fixes etc.
+- Fixed compatibility with May 20, 2019 Steam update.
+- Adjusted edited keyboard help for Steam version.
+- Fixed launcher issue with moving save files from a system with a controller installed to a system without one (**"There is an error importing setup files"**).
+- Controller input can now be disabled to work around phantom inputs.
+- Replaced update checker technology as the old one was causing launcher crashes for a small number of users.
+- Fixed launcher not starting with **"Entry Point Not Found"** error for a small number of users.
+- Fixed replaced videos failing to play for some Linux users.
+- More typo fixes etc.
 
-##### Version 1.11 *(Feb 03, 2019)*
+##### Version 1.11 _(Feb 03, 2019)_
 
-* Fixed an issue where the installer would crash on pre-AVX CPUs.
+- Fixed an issue where the installer would crash on pre-AVX CPUs.
 
-##### Version 1.1 *(Feb 02, 2019)*
+##### Version 1.1 _(Feb 02, 2019)_
 
 Initial release for Steam version.
 
-* **Steam compatibility.**
-  * Lots of internal updates.
-  * Removed memory fragmentation workaround as the Steam version now has its own.
-  * Steam Play (Linux) support.
-* Some new translation fixes.
-* Includes new prompt explaining the delusion trigger controls.
-  * Because Z and C are certainly not the most obvious choice.
-* Fixed patch installer not working on certain Windows installations lacking multimedia components.
-* Fixed game engine bug involving *My Documents* paths containing special characters on *OneDrive*. 
-  * We haven't checked if the Steam version still has this issue, but both *STEINS;GATE 0* and the Japanese version of *CHAOS;CHILD* did.
-* Worked around game engine bug where, when pausing right before a voiced line, line would fail to play and game would crash on the next voiced line.
-* Fixed the goddamn title music.
-  * In 1.0, our HQ audio option had a bug preventing the title screen BGM from playing if the intro video isn't skipped. Sorry about that.
-* Installer now ships as a ZIP archive instead of a self-extracting executable.
+- **Steam compatibility.**
+  - Lots of internal updates.
+  - Removed memory fragmentation workaround as the Steam version now has its own.
+  - Steam Play (Linux) support.
+- Some new translation fixes.
+- Includes new prompt explaining the delusion trigger controls.
+  - Because Z and C are certainly not the most obvious choice.
+- Fixed patch installer not working on certain Windows installations lacking multimedia components.
+- Fixed game engine bug involving _My Documents_ paths containing special characters on _OneDrive_.
+  - We haven't checked if the Steam version still has this issue, but both _STEINS;GATE 0_ and the Japanese version of _CHAOS;CHILD_ did.
+- Worked around game engine bug where, when pausing right before a voiced line, line would fail to play and game would crash on the next voiced line.
+- Fixed the goddamn title music.
+  - In 1.0, our HQ audio option had a bug preventing the title screen BGM from playing if the intro video isn't skipped. Sorry about that.
+- Installer now ships as a ZIP archive instead of a self-extracting executable.
 
-##### Version 1.0 *(Jun 30, 2018)*
+##### Version 1.0 _(Jun 30, 2018)_
 
 Initial release for Japanese PC version.
 
@@ -135,16 +134,18 @@ Much of the system/menu text has been re-translated for comprehensibility. Backl
 
 # <a name="guides"></a>Guides
 
-* [100% Spoiler-free Walkthrough]({{ "/projects/cc-walkthrough.html" | relative_url }})
-* [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }})
+- [100% Spoiler-free Walkthrough]({{ "/projects/cc-walkthrough.html" | relative_url }})
+- [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }})
 
 # Installation instructions
 
 1. **[↓ Download the installer](https://github.com/CommitteeOfZero/cc-patch/releases).** You want `CCPatch-v<version>-Setup.zip`, not the source code.
 2. Extract the archive somewhere on your hard drive, not in your game directory.
 3. Go to the newly created `CCPatch-v<version>-Setup` folder and run `CCPatch-Installer.exe`. **Warning:** Has sound.
-  * If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
-4. After you click *Finish* and the installer closes, you can delete the `CCPatch-v<version>-Setup` folder.
+
+- If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
+
+4. After you click _Finish_ and the installer closes, you can delete the `CCPatch-v<version>-Setup` folder.
 
 # Troubleshooting
 
@@ -154,13 +155,13 @@ If you're having a problem not covered here, please [ask us on Discord](https://
 
 ### Game/launcher fails to start from Steam
 
-You can try starting the launcher from the desktop/start menu shortcut (if you created one during the installation) or by directly running `LauncherC0.exe` from the game directory (right click *CHAOS;CHILD* in your Steam library, *Properties* → *Local Files* → *Browse Local Files...*). Make sure you're logged into Steam, though.
+You can try starting the launcher from the desktop/start menu shortcut (if you created one during the installation) or by directly running `LauncherC0.exe` from the game directory (right click _CHAOS;CHILD_ in your Steam library, _Properties_ → _Local Files_ → _Browse Local Files..._). Make sure you're logged into Steam, though.
 
 ### Phantom inputs make the game impossible to control (menu selections automatically go up)
 
 On some systems the game detects false controller inputs (mostly on Linux, but we've heard this from Windows users as well).
 
-In the launcher, click *More Settings* if you haven't already, go to the *Controller* tab, select a different controller if you get multiple options or just disable controller input altogether by unchecking *Enable*.
+In the launcher, click _More Settings_ if you haven't already, go to the _Controller_ tab, select a different controller if you get multiple options or just disable controller input altogether by unchecking _Enable_.
 
 ### Game shows an error about `mgs::Audio::CPlayer::InitializeXaudio()`
 
@@ -182,14 +183,14 @@ Update Windows. You may need to install the Visual C++ 2015 Redistributable Upda
 
 # Credits
 
-* **Translation**: Rain, ItsRigs, MrComputerRevo, Ice, Enorovan, ChrisGLink
-* **Editing**: Kumin, Discontinuous Qualia, Spider
-* **Image editing**: Cypert, dusk, rimi, MrComputerRevo, Kumin, Raykable, Zips, Enorovan, Rile_Zugo
-* **Hacking**: SomeAnon, daxxy, MrComputerRevo, JoseJL, Enorovan
-* **Subtitles**: zahj
-* **QC**: Spider
-* **Chief Masochism Officer**: MrComputerRevo, Enorovan (abdication)
-* **Masochism Deputies**: Raniel, Gel Banana
+- **Translation**: Rain, ItsRigs, MrComputerRevo, Ice, Enorovan, ChrisGLink
+- **Editing**: Kumin, Discontinuous Qualia, Spider
+- **Image editing**: Cypert, dusk, rimi, MrComputerRevo, Kumin, Raykable, Zips, Enorovan, Rile_Zugo
+- **Hacking**: SomeAnon, daxxy, MrComputerRevo, JoseJL, Enorovan
+- **Subtitles**: zahj
+- **QC**: Spider
+- **Chief Masochism Officer**: MrComputerRevo, Enorovan (abdication)
+- **Masochism Deputies**: Raniel, Gel Banana
 
 Special thanks to our vetted laboratory assistants for playtesting and proofreading!
 

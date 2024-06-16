@@ -18,7 +18,7 @@ If last month we surprised you by reaching the milestone of 50% total completion
 
 But we're not done just yet...
 
-Prepare the confetti, ready the streamers, and hold one of those blowy thingies that make happy noises in your mouth, because yes, we have also finished translating Nanami’s route! That means that *all* of the heroine routes are now fully translated!
+Prepare the confetti, ready the streamers, and hold one of those blowy thingies that make happy noises in your mouth, because yes, we have also finished translating Nanami’s route! That means that _all_ of the heroine routes are now fully translated!
 
 I swear, if you gave a screenshot of this post to the Committee of Zero from a year ago, you’d lose more than one of us to a stroke. It's such a joyous time for the entire team, and we hope getting through this journey together brings a ray of sunshine to your lives as well.
 
@@ -39,13 +39,14 @@ But enough celebrations, let us move on to the numbers.
 | True end         | **54.50%**      |         |             |
 | TIPs             | **50.00%**      |         |             |
 | **<u>Total</u>** | **63.98%**      |         |             |
+
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD
 
 \*\*: Numbers highlighted in **bold** indicate that progress has been made in the past month.
 
-HOWEVER! If you thought that was everything, you'd be dead wrong. Because resident cat lover and programmer SomeAnon has prepared yet another peek behind the curtains of our NOAH port. We're proud to announce that both audio and video playback have been implemented! This means that not only can we hear the magnificent voice acting and sound effects, but we can even go through a variety of Noah-exclusive scenes that will blow people’s *minds*.<br>(╯✧ ∇ ✧)╯
+HOWEVER! If you thought that was everything, you'd be dead wrong. Because resident cat lover and programmer SomeAnon has prepared yet another peek behind the curtains of our NOAH port. We're proud to announce that both audio and video playback have been implemented! This means that not only can we hear the magnificent voice acting and sound effects, but we can even go through a variety of Noah-exclusive scenes that will blow people’s _minds_.<br>(╯✧ ∇ ✧)╯
 
 The aforementioned peek can be found below, and boy oh boy, is it peak. In order to showcase the new features, we have recorded the Phantasm live concert scene, spicy delusions included and all.
 

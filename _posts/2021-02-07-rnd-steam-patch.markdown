@@ -13,7 +13,6 @@ Hacking our way through to deliver this patch to you all has been tough—we wer
 
 This patch features a significant number of changes and fixes to improve the English release of ROBOTICS;NOTES DaSH on Steam, including typo fixes, changes for consistency with the rest of the Science Adventure Series, and even the implementation of mouse support into the game! See [below](#features) for a full list of features.
 
-
 <div style="border: 1px solid #fff; padding: 8px;">
 Download link and instructions are <a href="#guides">↓ below</a>.
 </div>
@@ -31,28 +30,33 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
-##### Version 1.0.4 *(Sep 7, 2022)*
+##### Version 1.1.0 _(Jun 16, 2024)_
 
-* Translation, consistency, and typo fixes.
-* A consistent crash on Twipo has been fixed.
+- More translation, consistency, and typo fixes.
+- DXVK common fix implemented.
 
-##### Version 1.0.3 *(Apr 1, 2022)*
+##### Version 1.0.4 _(Sep 7, 2022)_
 
-* The translation check/proofreading pass of the game has advanced, fixing incorrect terminology, inaccuracies, and inconsistencies.
-* The Swimsuit Patch bonus feature has been implemented.
+- Translation, consistency, and typo fixes.
+- A consistent crash on Twipo has been fixed.
 
-##### Version 1.0.2 *(Aug 24, 2021)*
+##### Version 1.0.3 _(Apr 1, 2022)_
 
-* A light translation check/proofreading pass of half the game has been completed, fixing incorrect terminology, inaccuracies, and inconsistencies.
-* TIPS section has been adjusted for readability.
+- The translation check/proofreading pass of the game has advanced, fixing incorrect terminology, inaccuracies, and inconsistencies.
+- The Swimsuit Patch bonus feature has been implemented.
 
-##### Version 1.0.1 *(Feb 13, 2021)*
+##### Version 1.0.2 _(Aug 24, 2021)_
 
-* Translation, consistency, and typo fixes.
-* Fixed some text-wrapping issues.
-* Fixed an issue regarding long names in the backlog.
+- A light translation check/proofreading pass of half the game has been completed, fixing incorrect terminology, inaccuracies, and inconsistencies.
+- TIPS section has been adjusted for readability.
 
-##### Version 1.0 *(Feb 07, 2021)*
+##### Version 1.0.1 _(Feb 13, 2021)_
+
+- Translation, consistency, and typo fixes.
+- Fixed some text-wrapping issues.
+- Fixed an issue regarding long names in the backlog.
+
+##### Version 1.0 _(Feb 07, 2021)_
 
 Initial release.
 
@@ -99,16 +103,18 @@ Can be installed over the Steam version of the game without breaking existing sa
 
 # <a name="guides"></a>Guides
 
-* [100% Spoiler-free Walkthrough]({{ "/projects/rnd-walkthrough.html" | relative_url }})
-* [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }})
+- [100% Spoiler-free Walkthrough]({{ "/projects/rnd-walkthrough.html" | relative_url }})
+- [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }})
 
 # Installation instructions
 
 1. **[↓ Download the installer](https://github.com/CommitteeOfZero/rnd-patch/releases).** You want `RNDPatch-v<version>-Setup.zip`, not the source code.
 2. Extract the archive somewhere on your hard drive, not in your game directory.
 3. Go to the newly created `RNDPatch-v<version>-Setup` folder and run `RNDPatch-Installer.exe`. **Warning:** Has sound.
-  * If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
-4. After you click *Finish* and the installer closes, you can delete the `RNDPatch-v<version>-Setup` folder.
+
+- If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
+
+4. After you click _Finish_ and the installer closes, you can delete the `RNDPatch-v<version>-Setup` folder.
 
 # Troubleshooting
 
@@ -118,7 +124,7 @@ If you're having a problem not covered here, please [ask us on Discord](https://
 
 ### Game/launcher fails to start from Steam
 
-You can try starting the launcher from the desktop/start menu shortcut (if you created one during the installation) or by directly running `LauncherC0.exe` from the game directory (right click *ROBOTICS;NOTES DaSH* in your Steam library, *Properties* → *Local Files* → *Browse Local Files...*). Make sure you're logged into Steam, though.
+You can try starting the launcher from the desktop/start menu shortcut (if you created one during the installation) or by directly running `LauncherC0.exe` from the game directory (right click _ROBOTICS;NOTES DaSH_ in your Steam library, _Properties_ → _Local Files_ → _Browse Local Files..._). Make sure you're logged into Steam, though.
 
 ### Game shows an error about `mgs::Audio::CPlayer::InitializeXaudio()`
 
@@ -140,11 +146,11 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 
 # Credits
 
-* **Hacking**: MrComputerRevo, JoseJL, daxxy, SomeAnon
-* **Translation**: Enorovan, ChrisGLink, Rain, ItsRigs
-* **Editing**: Kumin
-* **Image editing**: LkProd, TehVict, Kumin
-* **Subtitles**: zahj
+- **Hacking**: MrComputerRevo, JoseJL, daxxy, SomeAnon
+- **Translation**: Enorovan, ChrisGLink, Rain, ItsRigs
+- **Editing**: Kumin
+- **Image editing**: LkProd, TehVict, Kumin
+- **Subtitles**: zahj
 
 Special thanks to [grechnik](https://github.com/grechnik) for contributing to our open source repository!
 

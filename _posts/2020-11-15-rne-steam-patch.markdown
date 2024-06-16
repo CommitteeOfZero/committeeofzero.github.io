@@ -13,7 +13,6 @@ Yes, it's here—our most ambitious patch yet. As “that person” says, “we 
 
 This patch features a significant number of changes and fixes to improve the English release of ROBOTICS;NOTES ELITE on Steam, including typo fixes, a thorough check of every line of the translation, changes for consistency with the rest of the Science Adventure Series, and even the implementation of mouse support into the game! See [below](#features) for a full list of features.
 
-
 <div style="border: 1px solid #fff; padding: 8px;">
 Download link and instructions are <a href="#guides">↓ below</a>.
 </div>
@@ -31,62 +30,67 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
-##### Version 1.0.9 *(Oct 10, 2022)*
+##### Version 1.1.0 _(Jun 16, 2024)_
 
-* More translation, consistency, and typo fixes.
+- More translation, consistency, and typo fixes.
+- DXVK common fix implemented.
 
-##### Version 1.0.8 *(Apr 1, 2022)*
+##### Version 1.0.9 _(Oct 10, 2022)_
 
-* More translation, consistency, and typo fixes.
+- More translation, consistency, and typo fixes.
 
-##### Version 1.0.7 *(Aug 24, 2021)*
+##### Version 1.0.8 _(Apr 1, 2022)_
 
-* Minor text fixes, as well as improved consistency with STEINS;GATE.
-* TIPS section has been adjusted for readability.
+- More translation, consistency, and typo fixes.
 
-##### Version 1.0.6 *(Apr 02, 2021)*
+##### Version 1.0.7 _(Aug 24, 2021)_
 
-* Translated remaining untranslated CGs.
-* More translation, consistency, and typo fixes.
+- Minor text fixes, as well as improved consistency with STEINS;GATE.
+- TIPS section has been adjusted for readability.
 
-##### Version 1.0.5 *(Feb 07, 2021)*
+##### Version 1.0.6 _(Apr 02, 2021)_
 
-* More translation, consistency, and typo fixes.
-* Added the original ROBOTICS;NOTES opening to the movie library.
+- Translated remaining untranslated CGs.
+- More translation, consistency, and typo fixes.
 
-##### Version 1.0.4 *(Dec 28, 2020)*
+##### Version 1.0.5 _(Feb 07, 2021)_
 
-* More translation, consistency, and typo fixes.
+- More translation, consistency, and typo fixes.
+- Added the original ROBOTICS;NOTES opening to the movie library.
 
-##### Version 1.0.3a *(Dec 7, 2020)*
+##### Version 1.0.4 _(Dec 28, 2020)_
 
-* Compatibility update for 12/06/2020 game patch.
+- More translation, consistency, and typo fixes.
 
-##### Version 1.0.3 *(Dec 6, 2020)*
+##### Version 1.0.3a _(Dec 7, 2020)_
 
-* More translation, consistency, and typo fixes.
-* Fixed clipping in some character animations.
-* Fixed an instance where an incorrect character model was used.
-* Fixed a background that was being displayed with the wrong color.
-* Fixed an issue where tips would line break improperly.
-* Fixed an issue where the launcher would crash for some users when pressing the "More Settings" button.
-* Re-encoded videos for better quality.
+- Compatibility update for 12/06/2020 game patch.
 
-##### Version 1.0.2 *(Dec 3, 2020)*
+##### Version 1.0.3 _(Dec 6, 2020)_
 
-* More translation, consistency, and typo fixes.
-* Fixed mouse controls being inaccurate for ultrawide monitors.
-* Fixed some text-wrapping issues.
+- More translation, consistency, and typo fixes.
+- Fixed clipping in some character animations.
+- Fixed an instance where an incorrect character model was used.
+- Fixed a background that was being displayed with the wrong color.
+- Fixed an issue where tips would line break improperly.
+- Fixed an issue where the launcher would crash for some users when pressing the "More Settings" button.
+- Re-encoded videos for better quality.
 
-##### Version 1.0.1 *(Nov 19, 2020)*
+##### Version 1.0.2 _(Dec 3, 2020)_
 
-* Translation, consistency, and typo fixes.
-* Fixed text-wrapping issues with em dashes, quotes, brackets, and parentheses.
-* Fixed issues with text margins.
-* Fixed an issue with misplaced voice lines.
-* Fixed improperly displayed names. 
+- More translation, consistency, and typo fixes.
+- Fixed mouse controls being inaccurate for ultrawide monitors.
+- Fixed some text-wrapping issues.
 
-##### Version 1.0 *(Nov 15, 2020)*
+##### Version 1.0.1 _(Nov 19, 2020)_
+
+- Translation, consistency, and typo fixes.
+- Fixed text-wrapping issues with em dashes, quotes, brackets, and parentheses.
+- Fixed issues with text margins.
+- Fixed an issue with misplaced voice lines.
+- Fixed improperly displayed names.
+
+##### Version 1.0 _(Nov 15, 2020)_
 
 Initial release.
 
@@ -94,7 +98,7 @@ Initial release.
 
 ##### Script fixes
 
-Corrects *countless* mistranslations, continuity errors and other translation flaws. (Note: not actually countless, but so many we didn’t have time to count. We at least know this: around one-third of the lines in the game have been changed.)
+Corrects _countless_ mistranslations, continuity errors and other translation flaws. (Note: not actually countless, but so many we didn’t have time to count. We at least know this: around one-third of the lines in the game have been changed.)
 
 These range from simple punctuation mistakes to huge errors that could impact one’s understanding of the game, such as inaccurate characterization, wrong names, or inconsistent terminology.
 
@@ -132,16 +136,18 @@ Can be installed over the Steam version of the game without breaking existing sa
 
 # <a name="guides"></a>Guides
 
-* [100% Spoiler-free Walkthrough]({{ "/projects/rne-walkthrough.html" | relative_url }})
-* [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }})
+- [100% Spoiler-free Walkthrough]({{ "/projects/rne-walkthrough.html" | relative_url }})
+- [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }})
 
 # Installation instructions
 
 1. **[↓ Download the installer](https://github.com/CommitteeOfZero/rne-patch/releases).** You want `RNEPatch-v<version>-Setup.zip`, not the source code.
 2. Extract the archive somewhere on your hard drive, not in your game directory.
 3. Go to the newly created `RNEPatch-v<version>-Setup` folder and run `RNEPatch-Installer.exe`. **Warning:** Has sound.
-  * If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
-4. After you click *Finish* and the installer closes, you can delete the `RNEPatch-v<version>-Setup` folder.
+
+- If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
+
+4. After you click _Finish_ and the installer closes, you can delete the `RNEPatch-v<version>-Setup` folder.
 
 # Troubleshooting
 
@@ -151,7 +157,7 @@ If you're having a problem not covered here, please [ask us on Discord](https://
 
 ### Game/launcher fails to start from Steam
 
-You can try starting the launcher from the desktop/start menu shortcut (if you created one during the installation) or by directly running `LauncherC0.exe` from the game directory (right click *ROBOTICS;NOTES ELITE* in your Steam library, *Properties* → *Local Files* → *Browse Local Files...*). Make sure you're logged into Steam, though.
+You can try starting the launcher from the desktop/start menu shortcut (if you created one during the installation) or by directly running `LauncherC0.exe` from the game directory (right click _ROBOTICS;NOTES ELITE_ in your Steam library, _Properties_ → _Local Files_ → _Browse Local Files..._). Make sure you're logged into Steam, though.
 
 ### Game shows an error about `mgs::Audio::CPlayer::InitializeXaudio()`
 
@@ -173,12 +179,12 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 
 # Credits
 
-* **Hacking**: MrComputerRevo, JoseJL, SomeAnon, daxxy
-* **Translation**: ChrisGLink (and his baby nephew), Enorovan, Jake, Barrafas, WitchEvelyn, Rain, ItsRigs
-* **Editing**: Discontinuous Qualia, Kumin
-* **Image editing**: LkProd, TehVict, Enorovan, WizardNoah, Kumin, MrComputerRevo
-* **Subtitles**: zahj
-* **Video editing**: LkProd
+- **Hacking**: MrComputerRevo, JoseJL, SomeAnon, daxxy
+- **Translation**: ChrisGLink (and his baby nephew), Enorovan, Jake, Barrafas, WitchEvelyn, Rain, ItsRigs
+- **Editing**: Discontinuous Qualia, Kumin
+- **Image editing**: LkProd, TehVict, Enorovan, WizardNoah, Kumin, MrComputerRevo
+- **Subtitles**: zahj
+- **Video editing**: LkProd
 
 Special thanks to [grechnik](https://github.com/grechnik) for contributing to our open source repository!
 

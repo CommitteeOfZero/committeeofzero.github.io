@@ -11,30 +11,30 @@ excerpt: <p>Linux installation instructions for the CHAOS;CHILD Improvement Patc
 
 These instructions are for running the game from the Linux Steam client using Steam Play. Running the game with your own Wine installation should be considered unsupported.
 
-1. In Steam, go to *View* → *Settings* → *Steam Play* and *Enable Steam Play for all titles*, if you haven't already.
-2. Note what Proton version you're using. We have only tested with *Proton 3.16-6 Beta* (the default and most recent version at the time of writing).
-3. Install *CHAOS;CHILD*.
+1. In Steam, go to _View_ → _Settings_ → _Steam Play_ and _Enable Steam Play for all titles_, if you haven't already.
+2. Note what Proton version you're using. We have only tested with _Proton 3.16-6 Beta_ (the default and most recent version at the time of writing).
+3. Install _CHAOS;CHILD_.
 4. Download the patch.
 5. Unzip the archive somewhere, not in your game directory.
 6. Browse to the newly extracted `CCPatch-v<version>-Setup` folder.
 7. **DO NOT** simply run CCPatch-Installer.exe with Wine.
 
-    Instead, open a shell and use the following command:
-    
-    <div><pre><code>STEAM_COMPAT_DATA_PATH=~/.local/share/Steam/steamapps/compatdata/970570 ~/.local/share/Steam/steamapps/common/Proton\ 3.16\ Beta/proton run CCPatch-Installer.exe</code></pre></div>
+   Instead, open a shell and use the following command:
 
-    **IMPORTANT:** If the Steam library you installed *CHAOS;CHILD* into is somewhere else, replace both occurrences of `~/.local/share/Steam` accordingly. If you're not using *Proton 3.16-6 Beta*, replace that too (check your `steamapps/common` to find the right folder).
+   <div><pre><code>STEAM_COMPAT_DATA_PATH=~/.local/share/Steam/steamapps/compatdata/970570 ~/.local/share/Steam/steamapps/common/Proton\ 3.16\ Beta/proton run CCPatch-Installer.exe</code></pre></div>
+
+   **IMPORTANT:** If the Steam library you installed _CHAOS;CHILD_ into is somewhere else, replace both occurrences of `~/.local/share/Steam` accordingly. If you're not using _Proton 3.16-6 Beta_, replace that too (check your `steamapps/common` to find the right folder).
 
 8. Follow the instructions.
 
 # Playing
 
-Clicking *Play* in Steam should now run the patch launcher. Make sure you've clicked *Finish* in the installer before trying to start the launcher.
+Clicking _Play_ in Steam should now run the patch launcher. Make sure you've clicked _Finish_ in the installer before trying to start the launcher.
 
 # Known issues
 
-* Kanji in karaoke subtitles are rendered as boxes.
-* Leaving the installer running too long may crash it (this has been reported fixed, if you encounter this please let us know)
+- Kanji in karaoke subtitles are rendered as boxes.
+- Leaving the installer running too long may crash it (this has been reported fixed, if you encounter this please let us know)
 
 # Troubleshooting
 

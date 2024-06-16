@@ -14,7 +14,7 @@ That being said, the work on the ROBOTICS;NOTES ELITE patch was... exhaustive, t
 
 # OKAY SO NOAH WHERE
 
-It's coming! 
+It's coming!
 
 After suffering from a bit of post-patch fatigue, we're getting back into the groove of things. Schoolwork, finals, and part-time/full-time jobs still stand in the way of many of our translators, so it'll take some time for us to get back to full speed, but rest assured that progress is slowly but surely picking back up.
 
@@ -31,13 +31,14 @@ After suffering from a bit of post-patch fatigue, we're getting back into the gr
 | Ayase route  | 100.00%         |         |             |
 | Rimi route   | 100.00%         |         |             |
 | True end     | 14.29%          |         |             |
+
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD
 
 \*\*: Numbers highlighted in **bold** indicate that progress has been made in the past month.
 
-While there may not be a whole lot done, we are happy to announce that the longest script in the game, coming in at a whopping 78 KB, is completed! So yeah, that's cool at least! 
+While there may not be a whole lot done, we are happy to announce that the longest script in the game, coming in at a whopping 78 KB, is completed! So yeah, that's cool at least!
 
 Anyway, our team's gonna try their best to get back on NOAH, despite how busy this season can be, but please be patient with us! And if you haven't checked out ROBOTICS;NOTES ELITE yet, we highly recommend you do so! ...Just, be sure to install the patch first, alright?
 

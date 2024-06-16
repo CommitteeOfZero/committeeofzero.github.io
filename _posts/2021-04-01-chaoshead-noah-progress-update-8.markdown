@@ -6,7 +6,7 @@ date: 2021-04-01 21:00:43 +0000
 hidden: true
 ---
 
-Hi, everyone! Sorry for getting this update out so late, the past few days have been pretty crazy. Well, let's just say that, now that the first quarter of 2021 has already flown by, we've all been left feeling a little existential. Why are we alive? Why are we here? Why are *you* here?
+Hi, everyone! Sorry for getting this update out so late, the past few days have been pretty crazy. Well, let's just say that, now that the first quarter of 2021 has already flown by, we've all been left feeling a little existential. Why are we alive? Why are we here? Why are _you_ here?
 
 Oh yeah. That's why.
 
@@ -27,6 +27,7 @@ Anyway, you’ve been waiting long enough to see this report, so we’ll cut all
 | True end         | 100.00%         |            |             |
 | TIPs             | 100.00%         |            |             |
 | **<u>Total</u>** | **83.50%**      | **5.40%**  | **1.84%**   |
+
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD
@@ -35,7 +36,7 @@ Anyway, you’ve been waiting long enough to see this report, so we’ll cut all
 
 So you may be wondering: why does this update have so little written compared to the other ones? Well, the answer is, it doesn't.
 
-We've had a lot of people asking questions about our process and about how long until NOAH releases. Well, short answer: we're not sure on the amount of time it'll take, and to explain the reason, we've decided to give you a peek into how we do things! 
+We've had a lot of people asking questions about our process and about how long until NOAH releases. Well, short answer: we're not sure on the amount of time it'll take, and to explain the reason, we've decided to give you a peek into how we do things!
 
 But then that peek ended up way too long to include here, so instead, we wrote it in the form of a blog post. It sets the record straight on some things, so be sure to take a look when you're in an infodump-y mood. [Here's the link to it]({% post_url 2021-04-01-chaoshead-noah-translation-process-deep-dive %}).
 
@@ -43,7 +44,7 @@ With that all being said, let's get back to the fun stuff.
 
 ### The Fun Stuff™
 
-As for our port, while we don't have new *features* to showcase, we are proud to announce that the reimplementation of the Noah engine has been open-sourced and is now [available on GitHub](https://github.com/CommitteeOfZero/nitrosharp)! This means that people are able and welcome to help with testing the game.
+As for our port, while we don't have new _features_ to showcase, we are proud to announce that the reimplementation of the Noah engine has been open-sourced and is now [available on GitHub](https://github.com/CommitteeOfZero/nitrosharp)! This means that people are able and welcome to help with testing the game.
 
 Please follow the steps in the README file to get the port running. You will need an Xbox 360 copy of CHAOS;HEAD NOAH, as well as [a means of dumping the assets](https://pastebin.com/eHWMqqmE). In order to report an issue with the port, head over to the Issues page on GitHub and click on New Issue. In the provided form, please explain the problem in as much detail as possible.
 

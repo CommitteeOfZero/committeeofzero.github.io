@@ -31,7 +31,6 @@ There is one bad ending in this route, triggered by making too many mistakes on 
 
 <p>The recommended route order is <i>Common Route (Ending A) → B → Nanami → Yua → Ayase → Kozue → Sena → Rimi → Blue Sky (Ending AA).</i></p>
 
-
 ### Crying Sky (Ending B)
 
 This route is the sole exception to the rule mentioned before; rather than simply selecting a certain delusion and answering the prompts correctly, it requires a number of specific delusions to be viewed.
@@ -129,7 +128,6 @@ As you progress, a Sena-related intermission will appear during the story. The s
 
 The game will branch into the route in chapter seven.
 
-
 ### Rimi Route
 
 Chapter 1<br>
@@ -147,10 +145,12 @@ Chapter 6<br>
 To get the bad ending, invert the answers below.
 
 To proceed with the Common Route, select:
+
 <details>
     <summary>SPOILER</summary>
 
     YES → YES → NO → NO → YES
+
 </details>
 
 ### Blue Sky
@@ -158,11 +158,13 @@ To proceed with the Common Route, select:
 Accessible from the title menu after all other routes.<br>
 After playing for a bit, you will be met with a series of choices. It is recommended to try and solve it yourself first, but the answers are below should you need them.
 
-Ending AA: 
+Ending AA:
+
 <details>
     <summary>SPOILER</summary>
 
     YES → YES → NO → NO → NO → YES → YES → YES → YES → YES → YES → YES → YES → YES → YES
+
 </details>
 
 Any deviation from above will result in Ending A.
@@ -173,7 +175,8 @@ Any deviation from above will result in Ending A.
 
 The final achievements are tied to viewing all delusions, TIPS, CGs, as well as two specific results from the medical questionnaire you fill out in Chapter 2.
 
-Simply view all delusions—positive, negative, and neutral. This should help you get most of the CGs and TIPS as well. However, there are a couple CG variants that result from 
+Simply view all delusions—positive, negative, and neutral. This should help you get most of the CGs and TIPS as well. However, there are a couple CG variants that result from
+
 <details>
     <summary>SPOILER</summary>
     how you answered Grimm's questions in Chapter 1. Depending on your choices, Hazuki can wear glasses or not wear glasses.

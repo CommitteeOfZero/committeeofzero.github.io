@@ -18,19 +18,20 @@ That's about all we really have to say this time around. And now, the all-import
 
 ### Overall Totals — June 1st, 2021
 
-|                  | **Translation** | **TLC**     | **Editing** |
-| ---------------- | --------------- | ----------- | ----------- |
-| Common route     | **93.07%**      | **12.39%**  | **8.25%**   |
-| B route          | 100.00%         |             |             |
-| Nanami route     | 100.00%         |             |             |
-| Yua route        | 100.00%         |             |             |
-| Sena route       | 100.00%         | **10.65%**  | 4.71%       |
-| Kozue route      | 100.00%         |             |             |
-| Ayase route      | 100.00%         | 100.00%     | **28.90%**  |
-| Rimi route       | 100.00%         |             |             |
-| True end         | 100.00%         |             |             |
-| TIPs             | 100.00%         | 100.00%     | **20.42%**  |
-| **<u>Total</u>** | **95.04%**      | **13.52%**  | **7.33%**   |
+|                  | **Translation** | **TLC**    | **Editing** |
+| ---------------- | --------------- | ---------- | ----------- |
+| Common route     | **93.07%**      | **12.39%** | **8.25%**   |
+| B route          | 100.00%         |            |             |
+| Nanami route     | 100.00%         |            |             |
+| Yua route        | 100.00%         |            |             |
+| Sena route       | 100.00%         | **10.65%** | 4.71%       |
+| Kozue route      | 100.00%         |            |             |
+| Ayase route      | 100.00%         | 100.00%    | **28.90%**  |
+| Rimi route       | 100.00%         |            |             |
+| True end         | 100.00%         |            |             |
+| TIPs             | 100.00%         | 100.00%    | **20.42%**  |
+| **<u>Total</u>** | **95.04%**      | **13.52%** | **7.33%**   |
+
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD

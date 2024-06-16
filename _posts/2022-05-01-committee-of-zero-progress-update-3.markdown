@@ -38,6 +38,7 @@ Yup. For the uninitiated, Representative Director of MAGES., Chiyomaru Shikura, 
 | True end         | 100.00%         |            |             |
 | TIPs             | 100.00%         | 100.00%    | 23.94%      |
 | **<u>Total</u>** | 100.00%         | **43.42%** | **40.32%**  |
+
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD

@@ -22,6 +22,7 @@ Despite life hitting us fast, we've still been doing the best we can to get some
 | Ayase route  | 100.00%         |         |             |
 | Rimi route   | **62.69%**      |         |             |
 | True end     | **14.29%**      |         |             |
+
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD
@@ -34,6 +35,6 @@ Before we let you all go, we've got one more thing to tease you with. Last month
 
 We'll have even more to show you later as our monkeys adorned with all flavors of programming socks keep up the hard work, so stay tuned!
 
-No matter how hot the hellfire rages, we're gonna keep working hard, for that is our choice. Whenever you smell the distinct stench of searing flesh flowing along with the wind, we hope you'll be thinking of us. 
+No matter how hot the hellfire rages, we're gonna keep working hard, for that is our choice. Whenever you smell the distinct stench of searing flesh flowing along with the wind, we hope you'll be thinking of us.
 
 # NEXT REPORT: November 1st.

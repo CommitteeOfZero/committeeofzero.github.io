@@ -14,6 +14,7 @@ Now, you may be wonderin' how I got in... Well, see, our common friends over at 
 ...Uh oh. I think they're mad.
 
 <code><a style="color: teal; text-decoration: none;">90110n</a>@<a style="color: teal; text-decoration: none;">nakano-symphonies</a>:~$ cat /dev/stderr</code>
+
 <div style="border: 1px solid #fff; padding: 8px;">
   <a style="color: red; text-decoration: none;">All right Pollon, you got us. Again. But if you're not gonna give us back the reins without a fight, could you at least clue them in on our patch?</a>
 </div>
@@ -25,6 +26,7 @@ So, uh... Well, the dude who implemented English into my Brain-Machine Interface
 How's that? Did I do good?
 
 <code><a style="color: teal; text-decoration: none;">90110n</a>@<a style="color: teal; text-decoration: none;">nakano-symphonies</a>:~$ cat /dev/stderr</code>
+
 <div style="border: 1px solid #fff; padding: 8px;">
   <a style="color: red; text-decoration: none;">...Kinda ticked is right, but yeah, you did fine. Can we get our website back now?</a>
 </div>
@@ -33,7 +35,7 @@ All right, all right. Welp, anons, see you in a few minutes! And CoZ... this ain
 
 <hr>
 
-*Siiigh*... Sorry about that. Now back to our regularly scheduled program(ming). See [below](#features) for a full list of features.
+_Siiigh_... Sorry about that. Now back to our regularly scheduled program(ming). See [below](#features) for a full list of features.
 
 <div style="border: 1px solid #fff; padding: 8px;">
 Download link and instructions are <a href="#guides">↓ below</a>.
@@ -50,24 +52,25 @@ If you want a spoiler-free guide on how to 100% the game, you can find one [here
 
 # Changelog
 
-##### Version 1.0.1 *(Jan 01, 2024)*
+##### Version 1.0.1 _(Jan 01, 2024)_
 
-* Minor scripting fixes.
-* Audio now functional on Linux/Steam Deck.
-* Head to our [**Linux/Steam Deck support page**]({{ "/projects/coz-linux-deck.html" | relative_url }}) for help fixing the videos on Linux/Steam Deck. **/!\ READ ATTENTIVELY BEFORE STARTING THE INSTALLATION /!\\**
+- Minor scripting fixes.
+- Audio now functional on Linux/Steam Deck.
+- Head to our [**Linux/Steam Deck support page**]({{ "/projects/coz-linux-deck.html" | relative_url }}) for help fixing the videos on Linux/Steam Deck. **/!\ READ ATTENTIVELY BEFORE STARTING THE INSTALLATION /!\\**
 
-##### Version 1.0.0 *(Dec 26, 2023)*
+##### Version 1.0.0 _(Dec 26, 2023)_
 
 Initial release.
 
 # <a name="features"></a>Features
 
 ### Selectable patch scope
+
 As this localization includes an English dub, we're offering two different patches: Partial and Full.
 
 The Partial patch adds subtitles for songs and voice-only lines, but in the interest of immersion in regard to the EN dub, does not fix series-wide inconsistencies and grammar mistakes. This is because these changes would cause the written lines to occasionally not match the spoken ones in the dub.
 
-The Full patch includes all of these fixes, as well as the subtitles. If you are playing with JP voices or do not mind some discrepancies with the EN dub, we suggest the Full patch. Both voice tracks are *stellar*, so this option is truly up to you.
+The Full patch includes all of these fixes, as well as the subtitles. If you are playing with JP voices or do not mind some discrepancies with the EN dub, we suggest the Full patch. Both voice tracks are _stellar_, so this option is truly up to you.
 
 If you wish to play with the Full patch, check the first box at the bottom of the dedicated page on the installer. If you wish to play with the Partial patch, leave it unchecked.
 
@@ -99,18 +102,20 @@ Can be installed over the Steam version of the game without breaking existing sa
 
 # <a name="guides"></a>Guides
 
-* [100% Spoiler-free Walkthrough](https://www.kirikiribasara.com/2023/09/03/anonymouscode-100-guide/)
-* [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }}) **/!\ READ ATTENTIVELY BEFORE STARTING THE INSTALLATION /!\\**
+- [100% Spoiler-free Walkthrough](https://www.kirikiribasara.com/2023/09/03/anonymouscode-100-guide/)
+- [Installing on Linux and Steam Deck]({{ "/projects/coz-linux-deck.html" | relative_url }}) **/!\ READ ATTENTIVELY BEFORE STARTING THE INSTALLATION /!\\**
 
 # Installation instructions
 
-***Linux/Steam Deck only.*** Follow the instructions [here]({{ "/projects/coz-linux-deck.html" | relative_url }}).
+**_Linux/Steam Deck only._** Follow the instructions [here]({{ "/projects/coz-linux-deck.html" | relative_url }}).
 
 1. **[↓ Download the installer](https://github.com/CommitteeOfZero/ac-patch/releases).** You want `ACPatch-v<version>-Setup.zip`, not the source code.
 2. Extract the archive somewhere on your hard drive, not in your game directory.
 3. Go to the newly created `ACPatch-v<version>-Setup` folder and run `ACPatch-Installer.exe`. **Warning:** Has sound.
-  * If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
-4. After you click *Finish* and the installer closes, you can delete the `ACPatch-v<version>-Setup` folder.
+
+- If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
+
+4. After you click _Finish_ and the installer closes, you can delete the `ACPatch-v<version>-Setup` folder.
 
 # Troubleshooting
 
@@ -132,9 +137,9 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 
 # Credits
 
-* **Translation Checkers**: ItsRigs, Enorovan, Leah, ChrisGLink
-* **Song Translations**: ItsRigs (Translation), Kumin (Editing)
-* **Image Editors**: Choccy, Enorovan
-* **Developers**: BoilingTeapot, Bloody, Enorovan
+- **Translation Checkers**: ItsRigs, Enorovan, Leah, ChrisGLink
+- **Song Translations**: ItsRigs (Translation), Kumin (Editing)
+- **Image Editors**: Choccy, Enorovan
+- **Developers**: BoilingTeapot, Bloody, Enorovan
 
 This project includes a number of third-party components. See [this page]({{ "/projects/ac-thirdparty.html" | relative_url }}) for attribution.

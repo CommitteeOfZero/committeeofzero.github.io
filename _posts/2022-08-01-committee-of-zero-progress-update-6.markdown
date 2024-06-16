@@ -11,7 +11,7 @@ It’s August now, which means summer (for most of us) is almost over. The swelt
 
 This month also finally marks the release of the game we’ve been anticipating for seven long years: ANONYMOUS;CODE!
 
-Some of us believed the game would never come out, but after all the rewrites as it struggled to free itself from development hell, it’s finally here. And... it’s *good*. We’ve got a handful of team members that have already blasted through the game, and yeah, it’s good. Really good.
+Some of us believed the game would never come out, but after all the rewrites as it struggled to free itself from development hell, it’s finally here. And... it’s _good_. We’ve got a handful of team members that have already blasted through the game, and yeah, it’s good. Really good.
 
 SciADV isn’t dead, folks. There’s nowhere to go but up.
 
@@ -19,7 +19,7 @@ We’re also happy to hear that it’ll be receiving a localization. We’ll kee
 
 Regardless, we couldn’t be any more excited for an English audience to get their hands on the latest entry of the series. We’re still planning to sub what was streamed a little while back, so keep an eye out for videos on the scenes they showed from chapters 2 and 4!
 
-As for what we *are* translating...
+As for what we _are_ translating...
 
 ### CHAOS;HEAD NOAH
 
@@ -40,12 +40,12 @@ Steadily moving forward, here’s this month’s percentages:
 | True end         | 100.00%         |            |             |
 | TIPs             | 100.00%         | 100.00%    | 23.94%      |
 | **<u>Total</u>** | 100.00%         | **65.35%** | **65.35%**  |
+
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD
 
 \*\*: Numbers highlighted in **bold** indicate that progress has been made in the past month.
-
 
 ### In conclusion...
 

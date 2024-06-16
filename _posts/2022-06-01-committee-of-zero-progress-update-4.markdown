@@ -34,12 +34,12 @@ In the meantime, though, here’s the table:
 | True end         | 100.00%         |            |             |
 | TIPs             | 100.00%         | 100.00%    | 23.94%      |
 | **<u>Total</u>** | 100.00%         | **44.92%** | **43.89%**  |
+
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD
 
 \*\*: Numbers highlighted in **bold** indicate that progress has been made in the past month.
-
 
 ### We forgot about something...
 

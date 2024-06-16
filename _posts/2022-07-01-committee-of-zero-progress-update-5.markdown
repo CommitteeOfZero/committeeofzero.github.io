@@ -15,7 +15,7 @@ If you weren't already aware, Chiyomaru Shikura streamed some gameplay of ANONYM
 
 ### CHAOS;HEAD NOAH
 
-Another slow month, unfortunately. We're still chipping away, but these past few months haven't exactly been easy on our team members. Don't worry—we're gonna keep on pushing till it's done, it can just be awfully challenging at times. 
+Another slow month, unfortunately. We're still chipping away, but these past few months haven't exactly been easy on our team members. Don't worry—we're gonna keep on pushing till it's done, it can just be awfully challenging at times.
 
 Here's the percentages:
 
@@ -34,16 +34,16 @@ Here's the percentages:
 | True end         | 100.00%         |            |             |
 | TIPs             | 100.00%         | 100.00%    | 23.94%      |
 | **<u>Total</u>** | 100.00%         | **50.15%** | **49.29%**  |
+
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD
 
 \*\*: Numbers highlighted in **bold** indicate that progress has been made in the past month.
 
-
 ### Our other patches, including ROBOTICS;NOTES, ROBOTICS;NOTES DaSH, and CHAOS;CHILD
 
-All of these patches will be receiving minor updates fairly soon. We've found a few remaining typos and translation issues that managed to duck under our pass, so keep an eye out for those. 
+All of these patches will be receiving minor updates fairly soon. We've found a few remaining typos and translation issues that managed to duck under our pass, so keep an eye out for those.
 
 And with that, that's all for this month.
 

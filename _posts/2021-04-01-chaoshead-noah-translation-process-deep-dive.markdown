@@ -13,7 +13,7 @@ As we draw closer to completing the first-pass translation, we’ve noticed some
 
 As the three columns of percentages in the table in our latest progress update imply, all work on the project up until this month has been part of the “translation” phase, which is only the first of three phases. Here we take the Japanese text and—through an awfully complex process that we'll spare you a thesis on—convert it into English. This part of the process is what people think of when talking about "translation"—going from one language to another.
 
-However, in reality, it doesn't stop there. Given the complexity of the process (and of language as a whole), even once the translation is complete, it always has a *lot* of room for improvement. That is where translation checking (TLC) and editing come in.
+However, in reality, it doesn't stop there. Given the complexity of the process (and of language as a whole), even once the translation is complete, it always has a _lot_ of room for improvement. That is where translation checking (TLC) and editing come in.
 
 ### All right, what does TLCing and Editing entail?
 
@@ -35,7 +35,7 @@ Finally, a second, less-intensive translation check will deal with any inaccurac
 
 ### TL;DR
 
-To summarize all that mumbo jumbo: the NOAH project’s release is going to take *at least* a few more months, as the script still has two more thorough passes to go through (TLC and editing), and one more less-rigorous check afterward. 
+To summarize all that mumbo jumbo: the NOAH project’s release is going to take _at least_ a few more months, as the script still has two more thorough passes to go through (TLC and editing), and one more less-rigorous check afterward.
 And the reason TLC is expected to take longer on this project than on some other projects is because our TLCer will need to revise the translation for stylistic consistency, as some inconsistencies inevitably arise as a consequence of having multiple translators.
 
 Well, that's about everything we've got for you. We hope this was interesting and helped you understand a little bit more about what's going on behind the curtain here at CoZ. Now, [here’s your door back to the April 1st progress report]({% post_url 2021-04-01-chaoshead-noah-progress-update-8 %}) if you weren’t finished reading it, because you’ll definitely want to.

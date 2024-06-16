@@ -13,9 +13,9 @@ As you all know, CHAOS;HEAD NOAH has been banned from Steam. This is incredibly 
 
 (For those who are wondering what happened and would like to know more, [this article by Ars Technica](https://arstechnica.com/gaming/2022/09/nintendoes-what-valve-dont-game-barred-from-steam-will-launch-on-switch/) summarizes the situation excellently.)
 
-Speaking not as patchers, but as fans, we *heavily* condemn this decision by Valve.
+Speaking not as patchers, but as fans, we _heavily_ condemn this decision by Valve.
 
-We can’t help but think, “Is there anything we can do about this?” And we’ve come to the conclusion that yes, there is. Considering our team is spread out across the globe, we can’t exactly go marching down to Valve HQ. But with your help, we *can* get the word out.
+We can’t help but think, “Is there anything we can do about this?” And we’ve come to the conclusion that yes, there is. Considering our team is spread out across the globe, we can’t exactly go marching down to Valve HQ. But with your help, we _can_ get the word out.
 
 #### How are we going to do this, you ask?
 
@@ -52,7 +52,7 @@ We understand that not everyone has access to a moddable Switch, but unfortunate
 
 - To check if your Switch is compatible with custom firmware installation, go [here](https://ismyswitchpatched.com/).
 - If it is, you will need to use an RCM Jig to short some pins on your system. You can find those for around $5 USD online.
-- For a more in-depth guide on Switch custom firmware, go [here](https://nh-server.github.io/switch-guide/). 
+- For a more in-depth guide on Switch custom firmware, go [here](https://nh-server.github.io/switch-guide/).
 
 Naturally, we heavily encourage you to support the official release, however you choose to patch the game. We at CoZ have always opposed piracy, and we don’t plan on changing that any time soon.
 
@@ -60,25 +60,25 @@ Without further ado, here are the overall totals for NOAH as of today:
 
 # CHAOS;HEAD NOAH Overall Totals — October 1st, 2022
 
-|                  | **Translation** | **TLC**    | **Editing** |
-| ---------------- | --------------- | ---------- | ----------- |
-| Common route     | 100.00%         | **100.00%**| **96.85%**  |
-| B route          | 100.00%         | 100.00%    | **100.00%** |
-| Nanami route     | 100.00%         | **100.00%**| **100.00%** |
-| Yua route        | 100.00%         | 100.00%    | 100.00%     |
-| Sena route       | 100.00%         | 100.00%    | 100.00%     |
-| Kozue route      | 100.00%         | 100.00%    | **100.00%** |
-| Ayase route      | 100.00%         | 100.00%    | 100.00%     |
-| Rimi route       | 100.00%         | 100.00%    | **100.00%** |
-| True end         | 100.00%         | **100.00%**|             |
-| TIPs             | 100.00%         | 100.00%    | 100.00%     |
-| **<u>Total</u>** | 100.00%         | **100.00%**| **96.84%**  |
+|                  | **Translation** | **TLC**     | **Editing** |
+| ---------------- | --------------- | ----------- | ----------- |
+| Common route     | 100.00%         | **100.00%** | **96.85%**  |
+| B route          | 100.00%         | 100.00%     | **100.00%** |
+| Nanami route     | 100.00%         | **100.00%** | **100.00%** |
+| Yua route        | 100.00%         | 100.00%     | 100.00%     |
+| Sena route       | 100.00%         | 100.00%     | 100.00%     |
+| Kozue route      | 100.00%         | 100.00%     | **100.00%** |
+| Ayase route      | 100.00%         | 100.00%     | 100.00%     |
+| Rimi route       | 100.00%         | 100.00%     | **100.00%** |
+| True end         | 100.00%         | **100.00%** |             |
+| TIPs             | 100.00%         | 100.00%     | 100.00%     |
+| **<u>Total</u>** | 100.00%         | **100.00%** | **96.84%**  |
+
 {: class="totals"}
 
 \*: Note that Common route accounts for about two thirds of the game, and consists mostly of content that was in the original CHAOS;HEAD
 
 \*\*: Numbers highlighted in **bold** indicate that progress has been made in the past month.
-
 
 # Copy, Paste. Clean, Redraw, Typeset.
 
@@ -88,7 +88,7 @@ And as for converting our translation to work with the MAGES. engine, we’re al
 
 When it comes to fixing up bugs introduced by the new port, as well as restoring cut content, we’re already partway done, and we have a very good idea of what to do for what’s left. We’re just waiting for our tech team to finish developing a new tool that’ll make a lot of things easier going forward.
 
-In the field of images and videos, we’re still steadily chugging along. Though, in the interest of perfect transparency, this is our main point of concern in terms of meeting our deadline. There are a *lot* of images, and they’re a lot more technical to edit than those in any other SciADV game. So while we have made a good amount of progress, there still is a fair amount left to go.
+In the field of images and videos, we’re still steadily chugging along. Though, in the interest of perfect transparency, this is our main point of concern in terms of meeting our deadline. There are a _lot_ of images, and they’re a lot more technical to edit than those in any other SciADV game. So while we have made a good amount of progress, there still is a fair amount left to go.
 
 # Finally…
 
