@@ -46,7 +46,6 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 #### Translation & Tech
 
 - **[Enorovan](https://x.com/Enorovan)**: Project Manager / Translator / Patch TLC / Developer / Website
-- **[fl4t_is_justice](https://x.com/fl4t_is_justice)**: Developer / Reverse Engineer / Translator / TLC / JPR
 
 #### Image Work
 
