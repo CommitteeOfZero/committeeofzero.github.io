@@ -14,7 +14,7 @@ Unfortunately, it doesn't. And that's where we come in.
 
 ## Our purpose
 
-We, The Committee of Zero, exist for the purpose of opening the metaphorical "gate" that separates entertainment of the West and of the East, so that those of the English-speaking world may feast. To put that in a way that won't make your eyes melt from the chuunibyou, we translate/port/patch/otherwise modify visual novels from Japan so that English speakers can enjoy them.
+We, the Committee of Zero, exist for the purpose of opening the metaphorical "gate" that separates entertainment of the West and of the East, so that those of the English-speaking world may feast. To put that in a way that won't make your eyes melt from the chuunibyou, we translate/port/patch/otherwise modify visual novels from Japan so that English speakers can enjoy them.
 
 Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which consists of a great range of titles including the reason you're probably all here, STEINS;GATE. However, we intend on bringing as many of them to the English speaking world as we can, so stay tuned for that after we finish our current projects.
 
@@ -24,30 +24,44 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 
 ## Members
 
+*Members who are marked with an asterisk appear more than once in the list.*
+
+*“CHAOS; Series” means all three of our full translation projects.*
+
 #### Tech
 
-- **[sa.exe (aka SomeAnon)](https://x.com/SomeAnonDev)**: Nitrosharp Lead Developer / Tooling Developer / Reverse Engineer
-- **[MrComputerRevo](https://x.com/MrComputerRevo)**: Impacto Lead Developer / Reverse Engineer
-- **[JoseJL](mailto:josejl1987@gmail.com)**: LanguageBarrier(32 & 64) Lead Developer / Reverse Engineer
+No matter who they may be, our techies are experts at what they do, and are able to reverse engineer the most obscure code, as well as build incredible tooling next to our main projects!
+
+- **[sa.exe (aka SomeAnon)](https://x.com/SomeAnonDev)**: Nitrosharp Lead Developer / Tooling Developer
+- **[MrComputerRevo](https://x.com/MrComputerRevo)**: Impacto Lead Developer
+- **[JoseJL](mailto:josejl1987@gmail.com)**: LanguageBarrier(32 & 64) Lead Developer
+- **[Dextinfire](#)**: Impacto & C++ Virtuoso
+- **[Enorovan*](https://x.com/Enorovan)**: Patches Manager & Maintainer / Website Maintainer / Impacto & Tooling Developer
+- **[fl4t_is_justice*](https://x.com/fl4t_is_justice)**: Impacto & Tooling Developer / Reverse Engineer
 
 #### Translation
 
 ##### Translation
 
-- **[ItsRigs](https://x.com/Chaos_World_300)**: CHAOS;HEAD Series Head Translator / TLC
-- **[ChrisGLink](https://x.com/ChrisGLink2)**: Head Editor / Translator / TLC / PR
-- **[BlabbityBla](https://x.com/BlaBlabbity)**: Translator / TLC
+Be it contribution to the (re-)translation of assets and scripts in improvement patches, or localization of games that have never left Japan, our translators are here.
+
+- **[ItsRigs](https://x.com/Chaos_World_300)**: CHAOS;HEAD Series Head Translator
+- **[ChrisGLink*](https://x.com/ChrisGLink2)**: Head Editor / CHAOS; Series Translator / PR
+- **[Enorovan*](https://x.com/Enorovan)**: CHAOS; Series Translator / Patches Manager & Maintainer
+- **[fl4t_is_justice*](https://x.com/fl4t_is_justice)**: CHAOS;HEAD NOAH Translator / JPR
+- **[BlabbityBla](https://x.com/BlaBlabbity)**: CHAOS;HEAD NOAH Translator
+- **[Jake](https://x.com/futotorofu)**: CHAOS;CHILD Love Chu☆Chu! Translator
 
 ##### Editing
 
-- **[ChrisGLink](https://x.com/ChrisGLink2)**: Head Editor / Translator / TLC / PR
+A good translation has to be enjoyable, gramatically correct and coherent, and that's what editing is for.
+
+- **[ChrisGLink*](https://x.com/ChrisGLink2)**: Head Editor / CHAOS; Series Translator / PR
 - **[Kumin](mailto:kumin@dareno.me)**: Editor / Song Editor / PR
 
-#### Translation & Tech
-
-- **[Enorovan](https://x.com/Enorovan)**: Project Manager / Translator / Patch TLC / Developer / Website
-
 #### Image Work
+
+Text is good but what would we do if our background images and our cutscenes were unreadable?
 
 - **[Cypert](https://x.com/CypertSystem)**: CG Editor
 - **[dusk](https://x.com/EpitaxyMeltdown)**: CG Cleaner
@@ -58,10 +72,11 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 - **[Zips](https://x.com/ZiShoR)**: CG Editor / Resident Coffee Maker
 - **[Choccy](https://x.com/ChoccyHolly)**: CG Editor
 
-#### Miscellaneous
+#### Karaoke Subtitles
+
+...And what are lyrics if we can't understand them nor sing them along?
 
 - **[zahj](mailto:zahj@dareno.me)**: Karaoke Subtitles
-- **[Raniel](mailto:raniel@dareno.me)**: PR <small>/ resident shitposter</small>
 
 ### Inactive/Past members
 
@@ -80,6 +95,7 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 - **[daxxy](https://x.com/DrDaxxy)**: Former Lead Developer / Reverse Engineer / Website
 - **[Discontinuous Qualia](https://x.com/DiscontinuousQ)**: Quality Assurance
 - **[Davixxa](https://x.com/DavixxaYT)**: Botmaster / Resident Slacker
+- **[Raniel](mailto:raniel@dareno.me)**: PR <small>/ resident shitposter</small>
 
 ### Other Contributors
 
