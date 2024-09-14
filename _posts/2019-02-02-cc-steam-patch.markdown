@@ -34,6 +34,12 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 2.1.0 _(Sep 14, 2024)_
+
+- Minor text and consistency fixes.
+- GOG compatibility.
+- Custom Steam assets added.
+
 ##### Version 2.0.1 _(Sep 29, 2022)_
 
 - Minor text and consistency fixes.
