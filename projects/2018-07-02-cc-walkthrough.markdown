@@ -19,27 +19,27 @@ You need to play the common route first in order to unlock the others. If you wa
 
 # Character Routes
 
-<p><i>(Note: route names are omitted to avoid spoilers.)</i><br>Recommended route order is <i>A → 2 → III → Fourth</i>.<br>However, <i>A → III → 2 → Fourth</i> is also acceptable.</p>
+<p><br>Recommended route order is <i>Dark Sky End → Deep Sky End → Dream/Another Sky End → Real Sky End</i>.<br>However, <i>Dark Sky End → Dream/Another End → Deep Sky End → Real Sky End</i> is also acceptable.</p>
 
 <p>As a general rule, in order to get a certain character's route, you must <u>select positive on all delusions involving that character.</u><br>The following instructions, for the most part, do not specify <i>exactly</i> which delusions are necessary to obtain any given route, but following them will still allow one to obtain said route.</p>
 
-### Non-specific Route A
+### Dark Sky End
 
 - Select <u>all positive</u> delusions and additional delusions, including the delusions during the route itself.
 
-### Non-specific Route 2
+### Deep Sky End
 
 - Select <u>all positive</u> delusions and additional delusions, but <u>do not choose positive</u> for the delusion where Hinae and Takuru are preparing for the culture festival in Chapter 3.
 - This route has a map trigger section which must be <u>completed correctly</u> to finish the chapter.
 
-### Non-specific Route III
+### Dream/Another Sky End
 
 - Select <u>all negative</u> delusions, but <u>choose positive</u> for the delusion that follows after leaving the hospital in Chapter 5.
 - This route has two main endings. You only need one or the other to unlock the true ending, however it is recommended that you obtain both.
-- To obtain the first of the two endings, <u>select positive for all three delusions</u> in route III.
-- To obtain the second, choose <u>positive</u> (on the first delusion of the route, before the chapter title card appears), <u>then negative</u> (at Takuru's base), <u>then positive</u> (at the café).
+- To obtain the first of the two endings, Dream Sky End, <u>select positive for all three delusions</u> in this route.
+- To obtain the second, Another Sky End, choose <u>positive</u> (on the first delusion of the route, before the chapter title card appears), <u>then negative</u> (at Takuru's base), <u>then positive</u> (at the café).
 
-### Non-specific Fourth Route
+### Real Sky End
 
 - Select <u>all positive</u> delusions and additional delusions, but <u>do not choose positive</u> for the delusion where Hinae and Takuru are preparing for the culture festival in Chapter 3, and <u>do not choose positive</u> for the delusion where Takuru and co. are sleeping in the clubroom before the festival, also in Chapter 3.
 
@@ -55,29 +55,33 @@ It will be immediately obvious how to obtain this ending once <u>all other route
 
 - In order to obtain this bad ending, select <u>both of the incorrect options</u> on the first mapping trigger in Chapter 4. _(If you attempt to do this before finishing the common route, an incomplete version of the end is shown)._
 
-### Route A Bad End
+### Dark Sky Bad End
 
-- Select <u>negative on all</u> of the delusions within route A. _(Note: This ending is almost identical to the main ending of the route, with the exception of some scenes that are missing at the very end.)_
+- Select <u>negative on all</u> of the delusions within this route. _(Note: This ending is almost identical to the main ending of the route, with the exception of some scenes that are missing at the very end.)_
 
-### Route 2 Bad End
+### Deep Sky Bad End
 
-- Choose <u>any of the wrong answers</u> during route 2's map trigger section.
+- Choose <u>any of the wrong answers</u> during this route's map trigger section.
 
-### Route III Bad End 1
+### Dream/Another Bad End 1
 
-- Choose <u>negative</u> on the first delusion of route III (before the chapter title card appears).
+- Choose <u>negative</u> on this route's first delusion (before the chapter title card appears).
 
-### Route III Bad End 2
+### Dream/Another Bad End 2
 
-- Choose <u>negative</u> on the third delusion in route III (at the café).
+- Choose <u>negative</u> on this route's third delusion (at the café).
 
-### Route III Bad End 3
+### Dream/Another Bad End 3
 
-- Choose <u>neutral</u> on the third delusion in route III (at the café).
+- Choose <u>neutral</u> on this route's third delusion (at the café).
 
-### Route III Bad End 4
+### Dream/Another Bad End 4
 
-- In route III, choose <u>positive</u> (on the first delusion of the route, before the chapter title card appears), <u>then neutral</u> (at Takuru's base), <u>then positive</u> (at the café).
+- In this route, choose <u>positive</u> (on the first delusion of the route, before the chapter title card appears), <u>then neutral</u> (at Takuru's base), <u>then positive</u> (at the café).
+
+### Real Sky Bad End
+
+- This bad ending is a bit peculiar in that it has not been made attainable in-game. All of the scripting exists, however, and we have provided a video of it. You can find it [here](https://www.youtube.com/watch?v=TZL3sepcnmU).
 
 ---
 
@@ -86,7 +90,7 @@ It will be immediately obvious how to obtain this ending once <u>all other route
 After finishing all of this, there may be remaining delusions that have not yet been read.
 
 - In Chapter 5, choose <u>negative</u> for the delusion that follows after leaving the hospital.
-- In the fourth route, there is only one delusion trigger. If you have not already, select <u>both the positive and negative</u> options.
+- In Real Sky End, there is only one delusion trigger. If you have not already, select <u>both the positive and negative</u> options.
 
 # Additional Info
 
