@@ -45,7 +45,7 @@ As you can see, since our last update in January, we've gotten closer than ever 
 
 Once the translation is complete, translation checking can proceed in full swing. The process is already partially underway, as a chunk of it is being done by our editor during the editing process, but the rest will be done by the head translator.
 
-While we have made progress, we are still a ways off from release, especially in regards to the editing process. To put it mildly, the editor has been hit with the busiest schedule of his life, and thus, he's _fighting_ for his life. Send him your energy, if you would be so kind.
+While we have made progress, we are still a ways off from release, especially in regard to the editing process. To put it mildly, the editor has been hit with the busiest schedule of his life, and thus, he's _fighting_ for his life. Send him your energy, if you would be so kind.
 
 # CHAOS;CHILD Love Chu☆Chu!!
 

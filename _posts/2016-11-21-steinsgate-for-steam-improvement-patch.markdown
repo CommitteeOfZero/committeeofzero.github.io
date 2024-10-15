@@ -50,7 +50,7 @@ Download link and instructions are <a href="#installation">↓ below</a>.
 - Installer and launcher updated.
 - Steam Play (Linux) support.
 - .NET Framework is no longer required.
-- A full proofreading pass of the game has been completed, fixing slight grammatical issues, minor typos and wording issues, as well as an extensive amount of inconsistencies with text formatting.
+- A full proofreading pass of the game has been completed, fixing slight grammatical issues, minor typos, and wording issues, as well as an extensive amount of inconsistencies with text formatting.
 - A full translation check of the TIPS has been completed, fixing minor terminology issues, light inaccuracies, as well as improving general readability.
 - A small handful of text and translation fixes.
 - More edited CGs added.

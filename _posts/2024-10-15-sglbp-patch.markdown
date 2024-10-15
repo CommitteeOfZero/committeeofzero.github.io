@@ -34,7 +34,7 @@ Here's the full list of improvements. Each can be turned on and off individually
 
 ##### Script fixes
 
-A full translation check of the game has been completed, fixing grammatical issues, minor typos and wording issues, as well as an extensive amount of inconsistencies with text formatting and a handful of translation fixes.
+A full translation check of the game has been completed, fixing grammatical issues, minor typos, and wording issues, as well as an extensive amount of inconsistencies with text formatting and a handful of translation fixes.
 
 ##### Better typography
 
