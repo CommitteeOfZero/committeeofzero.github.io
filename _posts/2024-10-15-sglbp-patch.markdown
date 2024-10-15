@@ -9,9 +9,9 @@ excerpt: <p>After opening the Gate of Steiner and the Gate of Zero, the Gate of 
 
 After opening the Gate of Steiner and the Gate of Zero, the Gate of Phenogram is finally unlocked!
 
-At last, we've come to the world line where all may experience this anthology in the manner it was intended.
+At last, we've reached the world line where all may experience this anthology in the manner that was intended.
 
-As Phenogram runs on a very similar build to the original STEINS;GATE, many of the technical features this patch provides are shared with it. On the language side, meanwhile, we addressed a whole heaping helping of typos and grammatical issues, and we took special attention to ensure references, callbacks, and inter-series continuity were maintained.
+As Phenogram runs on a very similar build to the original STEINS;GATE, many of the technical features this patch provides are shared with it. On the language side, meanwhile, we addressed a whole heaping helping of typos and grammatical issues, and we took special care to ensure references, callbacks, and inter-series continuity were maintained.
 
 Now, without further ado, a Tutturu and El Psy Kongroo to you♪
 
@@ -34,11 +34,11 @@ Here's the full list of improvements. Each can be turned on and off individually
 
 ##### Script fixes
 
-A full translation check of the game has been completed, fixing grammatical issues, minor typos, and wording issues, as well as an extensive amount of inconsistencies with text formatting and a handful of translation fixes.
+A full translation check of the game has been completed, fixing mistranslations, grammatical issues, minor typos, and wording issues, as well as an extensive number of inconsistencies with text formatting.
 
 ##### Better typography
 
-Adds word-wrapping to the phone and displays text in a nicer font.
+Adds word wrapping to phone text and displays story text in a nicer font.
 
 ##### High-quality FMV music
 
@@ -74,9 +74,9 @@ You can try starting the launcher from the desktop/start menu shortcut (if you c
 
 ### Phantom inputs make the game impossible to control (menu selections automatically go up)
 
-On some systems the game detects false controller inputs (mostly on Linux, but we've heard this from Windows users as well).
+On some systems, the game detects false controller inputs (mostly on Linux, but we've heard this from Windows users as well).
 
-In the launcher, click _More Settings_ if you haven't already, go to the _Controller_ tab, select a different controller if you get multiple options or just disable controller input altogether by unchecking _Enable_.
+In the launcher, click _More Settings_ if you haven't already, go to the _Controller_ tab, select a different controller if you get multiple options, or just disable controller input altogether by unchecking _Enable_.
 
 ### Game shows an error about `mgs::Audio::CPlayer::InitializeXaudio()`
 
@@ -106,7 +106,7 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 - **Subtitles editing**: Kumin
 - **Video editing**: Rile_Zugo
 
-Special thanks to grechnik for contributing to our open source repository!
+Special thanks to grechnik for contributing to our open-source repository!
 
 This project includes a number of third-party components. See [this page]({{ "/projects/sglbp-thirdparty.html" | relative_url }}) for attribution.
 
