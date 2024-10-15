@@ -54,7 +54,7 @@ Adds styled karaoke subtitles to openings and endings.
 
 # <a name="installation"></a>Installation instructions
 
-1. **[↓ Download the installer](https://github.com/CommitteeOfZero/sghd-patch/releases).** You want `SGLBPPatch-v<version>-Setup.zip`, not the source code.
+1. **[↓ Download the installer](https://github.com/CommitteeOfZero/sglbp-patch/releases).** You want `SGLBPPatch-v<version>-Setup.zip`, not the source code.
 2. Extract the archive somewhere on your hard drive, not in your game directory.
 3. Go to the newly created `SGLBPPatch-v<version>-Setup` folder and run `SGLBPPatch-Installer.exe`. **Warning:** Has sound.
 
