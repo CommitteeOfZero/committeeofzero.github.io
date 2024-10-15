@@ -165,9 +165,9 @@ You can try starting the launcher from the desktop/start menu shortcut (if you c
 
 ### Phantom inputs make the game impossible to control (menu selections automatically go up)
 
-On some systems the game detects false controller inputs (mostly on Linux, but we've heard this from Windows users as well).
+On some systems, the game detects false controller inputs (mostly on Linux, but we've heard this from Windows users as well).
 
-In the launcher, click _More Settings_ if you haven't already, go to the _Controller_ tab, select a different controller if you get multiple options or just disable controller input altogether by unchecking _Enable_.
+In the launcher, click _More Settings_ if you haven't already, go to the _Controller_ tab, select a different controller if you get multiple options, or just disable controller input altogether by unchecking _Enable_.
 
 ### Game shows an error about `mgs::Audio::CPlayer::InitializeXaudio()`
 

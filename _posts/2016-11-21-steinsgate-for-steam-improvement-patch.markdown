@@ -50,7 +50,7 @@ Download link and instructions are <a href="#installation">↓ below</a>.
 - Installer and launcher updated.
 - Steam Play (Linux) support.
 - .NET Framework is no longer required.
-- A full proofreading pass of the game has been completed, fixing slight grammatical issues, minor typos, and wording issues, as well as an extensive amount of inconsistencies with text formatting.
+- A full proofreading pass of the game has been completed, fixing mistranslations, grammatical issues, minor typos, and wording issues, as well as an extensive number of inconsistencies with text formatting.
 - A full translation check of the TIPS has been completed, fixing minor terminology issues, light inaccuracies, as well as improving general readability.
 - A small handful of text and translation fixes.
 - More edited CGs added.
@@ -153,9 +153,9 @@ You can try starting the launcher from the desktop/start menu shortcut (if you c
 
 ### Phantom inputs make the game impossible to control (menu selections automatically go up)
 
-On some systems the game detects false controller inputs (mostly on Linux, but we've heard this from Windows users as well).
+On some systems, the game detects false controller inputs (mostly on Linux, but we've heard this from Windows users as well).
 
-In the launcher, click _More Settings_ if you haven't already, go to the _Controller_ tab, select a different controller if you get multiple options or just disable controller input altogether by unchecking _Enable_.
+In the launcher, click _More Settings_ if you haven't already, go to the _Controller_ tab, select a different controller if you get multiple options, or just disable controller input altogether by unchecking _Enable_.
 
 ### Game shows an error about `mgs::Audio::CPlayer::InitializeXaudio()`
 
@@ -186,7 +186,7 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 
 Translated lyrics for 'Skyclad Observer', 'Farfalla of Fate' and 'A.R.' taken from the previous JAST USA release of STEINS;GATE.
 
-Special thanks to grechnik for contributing to our open source repository!
+Special thanks to grechnik for contributing to our open-source repository!
 
 This project includes a number of third-party components. See [this page](https://github.com/CommitteeOfZero/LanguageBarrier/blob/master/LanguageBarrier/THIRDPARTY) for attribution and licenses.
 

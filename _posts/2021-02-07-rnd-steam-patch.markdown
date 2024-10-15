@@ -152,7 +152,7 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 - **Image editing**: LkProd, TehVict, Kumin
 - **Subtitles**: zahj
 
-Special thanks to [grechnik](https://github.com/grechnik) for contributing to our open source repository!
+Special thanks to [grechnik](https://github.com/grechnik) for contributing to our open-source repository!
 
 This project includes a number of third-party components. See [this page]({{ "/projects/rnd-thirdparty.html" | relative_url }}) for attribution.
 

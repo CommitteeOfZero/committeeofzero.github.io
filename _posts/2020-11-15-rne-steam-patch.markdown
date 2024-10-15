@@ -186,7 +186,7 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 - **Subtitles**: zahj
 - **Video editing**: LkProd
 
-Special thanks to [grechnik](https://github.com/grechnik) for contributing to our open source repository!
+Special thanks to [grechnik](https://github.com/grechnik) for contributing to our open-source repository!
 
 This project includes a number of third-party components. See [this page]({{ "/projects/rne-thirdparty.html" | relative_url }}) for attribution.
 
