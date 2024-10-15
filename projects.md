@@ -13,7 +13,11 @@ active_tab: projects
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
 - [STEINS;GATE Steam Patch]({{ "/projects/sghd.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
+- [STEINS;GATE ELITE Improvement Patch]({{ "/projects/sge-patch.html" | relative_url }})
+  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [ROBOTICS;NOTES ELITE Steam Patch]({{ "/projects/rne-steam.html" | relative_url }})
+  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
+- [STEINS;GATE: Linear Bounded Phenogram Improvement Patch]({{ "/projects/sglbp-patch.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [CHAOS;CHILD Improvement Patch]({{ "/projects/chaoschild-steam.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
@@ -34,14 +38,10 @@ active_tab: projects
 
 #### Work in progress
 
-- **[CHAOS;HEAD Love Chu☆Chu! Fan-translation and Ports]({{ "/2024/01/01/committee-of-zero-progress-update-10.html" | relative_url }})**
-- **[CHAOS;CHILD Love Chu☆Chu!! Fan-translation and Ports]({{ "/2024/01/01/committee-of-zero-progress-update-10.html" | relative_url }})**
-- [STEINS;GATE ELITE Improvement Patch
-  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">]({{ "/2024/01/01/committee-of-zero-progress-update-10.html" | relative_url }})
-- [STEINS;GATE: Linear Bounded Phenogram Improvement Patch
-  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">]({{ "/2024/01/01/committee-of-zero-progress-update-10.html" | relative_url }})
+- **[CHAOS;HEAD Love Chu☆Chu! Fan-translation and Ports]({{ "/2024/10/15/committee-of-zero-progress-update-11.html" | relative_url }})**
+- **[CHAOS;CHILD Love Chu☆Chu!! Fan-translation and Ports]({{ "/2024/10/15/committee-of-zero-progress-update-11.html" | relative_url }})**
 - [STEINS;GATE: My Darling's Embrace Improvement Patch
-  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">]({{ "/2024/01/01/committee-of-zero-progress-update-10.html" | relative_url }})
+  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">]({{ "/2024/10/15/committee-of-zero-progress-update-11.html" | relative_url }})
 - [CHAOS;CHILD Improvement Patch]({{ "/projects/chaoschild-steam.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
 - CHAOS;HEAD NOAH Nitrosharp Port

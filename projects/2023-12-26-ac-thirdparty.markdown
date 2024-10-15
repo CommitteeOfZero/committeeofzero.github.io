@@ -24,4 +24,4 @@ excerpt: Attribution for third-party components used in ANONYMOUS;CODE Improveme
 
 To use your own Qt builds with the (un)installer, extract the (un)installer executable with 7-Zip. You will be able to substitute your own Qt DLLs.
 
-[← Back to project page]({{ "/projects/chn-patch.html" | relative_url }})
+[← Back to project page]({{ "/projects/ac-patch.html" | relative_url }})
