@@ -3,7 +3,7 @@ title: "STEINS;GATE: Linear Bounded Phenogram Improvement Patch"
 layout: post
 permalink: "/projects/sglbp-patch.html"
 active_tab: projects
-date: 2024-10-15 00:00:01 +0100
+date: 2024-10-15 15:00:00 +0000
 excerpt: <p>After opening the Gate of Steiner and the Gate of Zero, the Gate of Phenogram is finally unlocked!</p>
 ---
 
