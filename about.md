@@ -24,9 +24,9 @@ Our current priority is 5pb./MAGES.'s Science Adventure (SciADV) series, which c
 
 ## Members
 
-*Members who are marked with an asterisk appear more than once in the list.*
+_Members who are marked with an asterisk appear more than once in the list._
 
-*“CHAOS; Series” means all three of our full translation projects.*
+_“CHAOS; Series” means all three of our full translation projects._
 
 #### Tech
 
@@ -36,8 +36,8 @@ No matter who they may be, our techies are experts at what they do, and are able
 - **[MrComputerRevo](https://x.com/MrComputerRevo)**: Impacto Lead Developer
 - **[JoseJL](mailto:josejl1987@gmail.com)**: LanguageBarrier(32 & 64) Lead Developer
 - **[Dextinfire](#)**: Impacto & C++ Virtuoso
-- **[Enorovan*](https://x.com/Enorovan)**: Patches Manager & Maintainer / Website Maintainer / Impacto & Tooling Developer
-- **[fl4t_is_justice*](https://x.com/fl4t_is_justice)**: Impacto & Tooling Developer / Reverse Engineer
+- **[Enorovan\*](https://x.com/Enorovan)**: Patches Manager & Maintainer / Website Maintainer / Impacto & Tooling Developer
+- **[fl4t_is_justice\*](https://x.com/fl4t_is_justice)**: Impacto & Tooling Developer / Reverse Engineer
 
 #### Translation
 
@@ -46,18 +46,18 @@ No matter who they may be, our techies are experts at what they do, and are able
 Be it contribution to the (re-)translation of assets and scripts in improvement patches, or localization of games that have never left Japan, our translators are here.
 
 - **[ItsRigs](https://x.com/Chaos_World_300)**: CHAOS;HEAD Series Head Translator
-- **[ChrisGLink*](https://x.com/ChrisGLink2)**: Head Editor / CHAOS; Series Translator / PR
-- **[Enorovan*](https://x.com/Enorovan)**: CHAOS; Series Translator / Patches Manager & Maintainer
-- **[fl4t_is_justice*](https://x.com/fl4t_is_justice)**: CHAOS;HEAD NOAH Translator / JPR
+- **[ChrisGLink\*](https://x.com/ChrisGLink2)**: Head Editor / CHAOS; Series Translator
+- **[Enorovan\*](https://x.com/Enorovan)**: CHAOS; Series Translator & Project Manager / Patches Manager & Maintainer
+- **[fl4t_is_justice\*](https://x.com/fl4t_is_justice)**: CHAOS;HEAD NOAH Translator / JPR
 - **[BlabbityBla](https://x.com/BlaBlabbity)**: CHAOS;HEAD NOAH Translator
-- **[Jake](https://x.com/futotorofu)**: CHAOS;CHILD Love Chu☆Chu! Translator
+- **[Jake](https://x.com/futotorofu)**: CHAOS;CHILD Love Chu☆Chu!! Translator
 
 ##### Editing
 
 A good translation has to be enjoyable, gramatically correct and coherent, and that's what editing is for.
 
-- **[ChrisGLink*](https://x.com/ChrisGLink2)**: Head Editor / CHAOS; Series Translator / PR
-- **[Kumin](mailto:kumin@dareno.me)**: Editor / Song Editor / PR
+- **[ChrisGLink\*](https://x.com/ChrisGLink2)**: Head Editor / CHAOS; Series Translator
+- **[Kumin\*](mailto:kumin@dareno.me)**: Editor / Song Editor
 
 #### Image Work
 
@@ -78,6 +78,15 @@ Text is good but what would we do if our background images and our cutscenes wer
 
 - **[zahj](mailto:zahj@dareno.me)**: Karaoke Subtitles
 
+#### Press Relations
+
+When we tweet that's them, basically.
+
+- **[ChrisGLink\*](https://x.com/ChrisGLink2)**
+- **[Kumin\*](mailto:kumin@dareno.me)**
+- **[Raniel](mailto:raniel@dareno.me)**
+- **[fl4t_is_justice\*](https://x.com/fl4t_is_justice)**: Japanese PR
+
 ### Inactive/Past members
 
 - **[SnowedEarth](#)**: TLC / Karaoke Subtitles
@@ -88,17 +97,13 @@ Text is good but what would we do if our background images and our cutscenes wer
 - **[darksoulflame ("Radio")](https://x.com/darksoulflame)**: Quality Assurance
 - **[WitchEvelyn](https://x.com/Witch_Evelyn)**: Translator / TLC
 - **[barrafas](https://x.com/barrafas0)**: Quality Assurance
-- **[Jake](https://x.com/futotorofu)**: TLC
 - **[milkyzer0](#)**: CG Editor
 - **[Spider](#)**: Quality Assurance
 - **[Rain](#)**: Translator / TLC
 - **[daxxy](https://x.com/DrDaxxy)**: Former Lead Developer / Reverse Engineer / Website
 - **[Discontinuous Qualia](https://x.com/DiscontinuousQ)**: Quality Assurance
-- **[Davixxa](https://x.com/DavixxaYT)**: Botmaster / Resident Slacker
-- **[Raniel](mailto:raniel@dareno.me)**: PR <small>/ resident shitposter</small>
+- **[Seralyne](https://x.com/Seralyne_)**: Botmaster / Resident Slacker
 
 ### Other Contributors
 
 - **[Mouse](https://x.com/5zzb)**: King of the JPR
-
-Keep in mind that this list does not include everyone in the Committee of Zero. We have many members, including those who have done... zero work.
