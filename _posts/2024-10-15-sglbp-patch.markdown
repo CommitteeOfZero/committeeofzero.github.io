@@ -36,6 +36,10 @@ Here's the full list of improvements. Each can be turned on and off individually
 
 A full translation check of the game has been completed, fixing mistranslations, grammatical issues, minor typos, and wording issues, as well as an extensive number of inconsistencies with text formatting.
 
+##### Translated CGs
+
+Translated a number of CGs and BGs, as well as fixed some terminology and typesetting errors present in other images.
+
 ##### Better typography
 
 Adds word wrapping to phone text and displays story text in a nicer font.
