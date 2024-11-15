@@ -47,6 +47,11 @@ Once the translation is complete, translation checking can proceed in full swing
 
 While we have made progress, we are still a ways off from release, especially in regard to the editing process. To put it mildly, the editor has been hit with the busiest schedule of his life, and thus, he's _fighting_ for his life. Send him your energy, if you would be so kind.
 
+**UPDATE (November 15th, 2024):**
+
+<blockquote class="twitter-tweet" data-dnt="true" align="center"><p lang="en" dir="ltr">In the latest progress report, we stated that the first pass of <a href="https://twitter.com/hashtag/ChaosHead?src=hash&amp;ref_src=twsrc%5Etfw">#ChaosHead</a> Love Chu Chu! was almost done, but now... it&#39;s *actually* done!<br><br>There&#39;s still plenty of work to be done, including translation checking, editing, &amp; port work, but that&#39;s step one!<br><br>Be sure you stay tuned! <a href="https://t.co/NilOc68XNJ">pic.twitter.com/NilOc68XNJ</a></p>&mdash; Committee of Zero (@CommitteeOf0) <a href="https://twitter.com/CommitteeOf0/status/1857378145286197619?ref_src=twsrc%5Etfw">November 15, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # CHAOS;CHILD Love Chu☆Chu!!
 
 Okay, that was nice and all, but you know what all this is REALLY about.
