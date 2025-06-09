@@ -36,8 +36,9 @@ No matter who they may be, our techies are experts at what they do, and are able
 - **[MrComputerRevo](https://x.com/MrComputerRevo)**: Impacto Lead Developer
 - **[JoseJL](mailto:josejl1987@gmail.com)**: LanguageBarrier(32 & 64) Lead Developer
 - **[Dextinfire](#)**: Impacto & C++ Virtuoso
+- **[PringlesGang](#)**: Impacto & C++ Virtuoso
 - **[Enorovan\*](https://x.com/Enorovan)**: Patches Manager & Maintainer / Website Maintainer / Impacto & Tooling Developer
-- **[fl4t_is_justice\*](https://x.com/fl4t_is_justice)**: Impacto & Tooling Developer / Reverse Engineer
+- **[fl4t_is_justice\*](https://x.com/fl4t_is_justice)**: Lead Switch Patches Developer / Impacto & Tooling Developer
 
 #### Translation
 
