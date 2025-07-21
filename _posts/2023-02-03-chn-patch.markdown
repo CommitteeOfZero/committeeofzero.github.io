@@ -33,13 +33,32 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 {% include thumb.html fullsize="/uploads/chn_videos.png" thumb="/uploads/chn_videos_thumb.png" caption="Translated Songs" %}
 {% include thumb.html fullsize="/uploads/chn_images.png" thumb="/uploads/chn_images_thumb.png" caption="Translated CGs" %}
 {% include thumb.html fullsize="/uploads/chn_additional_subs.png" thumb="/uploads/chn_additional_subs_thumb.png" caption="Additional Subtitles" %}
+{% include thumb.html fullsize="/uploads/chn_tutorial.png" thumb="/uploads/chn_tutorial_thumb.png" caption="Tutorial" %}
+{% include thumb.html fullsize="/uploads/chn_nametags.png" thumb="/uploads/chn_nametags_thumb.png" caption="Nametags" %}
 
 # Changelog
+
+##### Version 1.1.0 _(Jul 21, 2025)_
+
+- All
+  - Added a nametag in-game option for accessibility.
+  - Added a tutorial for delusion triggers.
+  - Minor text fixes.
+  - Translated a few additional BGs for consistency.
+  - Fixed a bug where the wrong CG was called.
+  - Fixed a bug in the shortcut menu.
+  - Fixed a bug in true end's scripting.
+  - Fixed a bug where an achievement unlocked early.
+
+- Steam & GOG
+  - Added mousewheel support to save and CG menus.
+
+- GOG
+  - Fixed installation.
 
 ##### Version 1.0.2 _(Feb 19, 2023)_
 
 - All
-
   - Minor text fixes.
   - Translated a few additional BGs for consistency.
   - Fixed a bug that caused TIPS to not be numbered properly.
@@ -124,6 +143,14 @@ _Did we miss something? Join our [Discord server](https://discord.gg/rq4GGCh) an
 ### Typography improvements
 
 We've completely rewritten the text rendering engine to provide a better reading experience. All text is now displayed in an easier-to-read font with better formatting, plus new features implemented such as _italics._
+
+### Nametags
+
+We've provided an optional accessibility toggle for nametags, available in the configuration menu.
+
+### Tutorial
+
+We've added a small tutorial to explain how delusion triggers work.
 
 ### Additional Features
 
@@ -241,5 +268,4 @@ This project includes a number of third-party components. See [this page]({{ "/p
 - [ROBOTICS;NOTES DaSH Steam Patch]({{ "/projects/rnd-steam.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [ANONYMOUS;CODE Improvement Patch]({{ "/projects/ac-patch.html" | relative_url }})
-  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">

@@ -1,18 +1,20 @@
 ---
-title: "CHAOS;HEAD Noah: Looking for Translators"
+title: "[OLD] CHAOS;HEAD NOAH: Looking for Translators"
 layout: post
 date: 2016-11-21 01:18:38 +0100
 excerpt: <p>Japanese → English translators from across the world, now is the time to come to arms.</p>
 hidden: true
 ---
 
-**Update, since this was causing some confusion:** We've long since scrapped the plan to reuse TLWiki's translation. When Noah happens, it'll be an all-new TL.
+**Update, since this was causing some confusion:** We've long since scrapped the plan to reuse TLWiki's translation. When NOAH happens, it'll be an all-new TL.
+
+**Update 2:** Very obviously, this translation project is complete. You may find it [here]({{ "/projects/chn-patch.html" | relative_url }}). We're not looking for translators for the LCCs as the translations are mostly done, nor are we considering doing so for a potential OCCULTIC;NINE project, as our team already has the firepower it would require.
 
 ---
 
 Japanese → English translators from across the world, now is the time to come to arms.
 
-Do you think you have what it takes to take on the raw, pure, unsoiled text of CHAOS;HEAD Noah?
+Do you think you have what it takes to take on the raw, pure, unsoiled text of CHAOS;HEAD NOAH?
 
 Do your writing skills and knowledge of the languages of Japanese and English alike have the power to preserve the value of that text as you guide it across the language barrier?
 
@@ -30,6 +32,6 @@ The project is to
 - ~~combine NOAH's scripts with TLWiki's CHAOS;HEAD translation (though heavily revised and edited to match our style) and~~ _(Edit: as the update above says, we're translating the whole thing now)_
 - translate the content added in NOAH.
 
-We've already assembled a crack team of programmers, an image editor, a TLC and (English language) editor and supporting staff. Work on the engine has already begun; ~~the CHAOS;HEAD TL transferral is set to begin shortly, after we finish up on a side project~~ _(Edit: Noah translation is in progress)_.
+We've already assembled a crack team of programmers, an image editor, a TLC and (English language) editor and supporting staff. Work on the engine has already begun; ~~the CHAOS;HEAD TL transferral is set to begin shortly, after we finish up on a side project~~ _(Edit: Noah translation is ~~in progress~~ DONE)_.
 
 What we still need is a translator with the experience and dedication to see a visual novel translation through. **If you're interested and you think you can help, please get in touch. [Join us on Discord](https://discord.gg/rq4GGCh) or [send us an email](mailto:sonome@dareno.me), whichever you prefer. We've also posted [a recruitment thread on Fuwanovel](http://forums.fuwanovel.net/topic/16019-chaoshead-noah-pc-port-and-translation-project/).**
