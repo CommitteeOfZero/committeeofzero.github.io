@@ -38,6 +38,11 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.1.1 _(Jul 22, 2025)_
+
+- All
+  - Fixed missing or improperly sized assets.
+
 ##### Version 1.1.0 _(Jul 21, 2025)_
 
 - All
