@@ -92,8 +92,6 @@ Initial release for Japanese PC version.
 
 # <a name="features"></a>Features
 
-Many of these can be turned on and off individually.
-
 ##### Game bug fixes
 
 The original game release has several technical issues, such as broken lipsync and crashes when pausing right before voiced lines. We've fixed all we could track down.
@@ -213,6 +211,9 @@ This project includes a number of third-party components. See [this page]({{ "/p
 - [STEINS;GATE Steam Patch]({{ "/projects/sghd.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [STEINS;GATE ELITE Improvement Patch]({{ "/projects/sge-patch.html" | relative_url }})
+  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
+- [STEINS;GATE: Variant Space Octet Translation Patch]({{ "/projects/sgvso-patch.html" | relative_url }})
+- [STEINS;GATE: My Darling's Embrace Improvement Patch]({{ "/projects/sgmde-patch.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [ROBOTICS;NOTES ELITE Steam Patch]({{ "/projects/rne-steam.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">

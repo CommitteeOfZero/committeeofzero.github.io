@@ -15,6 +15,9 @@ active_tab: projects
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [STEINS;GATE ELITE Improvement Patch]({{ "/projects/sge-patch.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
+- [STEINS;GATE: Variant Space Octet Translation Patch]({{ "/projects/sgvso-patch.html" | relative_url }})
+- [STEINS;GATE: My Darling's Embrace Improvement Patch]({{ "/projects/sgmde-patch.html" | relative_url }})
+  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [ROBOTICS;NOTES ELITE Steam Patch]({{ "/projects/rne-steam.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [STEINS;GATE: Linear Bounded Phenogram Improvement Patch]({{ "/projects/sglbp-patch.html" | relative_url }})
@@ -38,12 +41,21 @@ active_tab: projects
 
 #### Work in progress
 
-- **[CHAOS;HEAD Love Chu☆Chu! Fan-translation and Ports]({{ "/2024/10/15/committee-of-zero-progress-update-11.html" | relative_url }})**
-- **[CHAOS;CHILD Love Chu☆Chu!! Fan-translation and Ports]({{ "/2024/10/15/committee-of-zero-progress-update-11.html" | relative_url }})**
-- [STEINS;GATE: My Darling's Embrace Improvement Patch
-  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">]({{ "/2024/10/15/committee-of-zero-progress-update-11.html" | relative_url }})
-- [CHAOS;CHILD Improvement Patch]({{ "/projects/chaoschild-steam.html" | relative_url }})
-  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
+- **[CHAOS;HEAD Love Chu☆Chu! Fan-translation and Ports]({{ "/2025/07/28/committee-of-zero-progress-update-12.html" | relative_url }})**
+- **[CHAOS;CHILD Love Chu☆Chu!! Fan-translation and Ports]({{ "/2025/07/28/committee-of-zero-progress-update-12.html" | relative_url }})**
+- Switch Patches
+  - [CHAOS;CHILD Improvement Patch]({{ "/projects/chaoschild-steam.html" | relative_url }})
+    <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
+  - [ROBOTICS;NOTES ELITE Improvement Patch]({{ "/projects/rne-steam.html" | relative_url }})
+    <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
+  - [ROBOTICS;NOTES DaSH Improvement Patch]({{ "/projects/rnd-steam.html" | relative_url }})
+    <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
+  - [STEINS;GATE ELITE Improvement Patch]({{ "/projects/sge-patch.html" | relative_url }})
+    <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
+  - [STEINS;GATE: My Darling's Embrace Improvement Patch]({{ "/projects/sgmde-patch.html" | relative_url }})
+    <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
+  - [STEINS;GATE 0 Improvement Patch]({{ "/projects/sg0-steam.html" | relative_url }})
+    <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
 - CHAOS;HEAD NOAH Nitrosharp Port
 
 #### Supporting technology

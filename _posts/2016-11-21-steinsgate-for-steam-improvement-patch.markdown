@@ -81,8 +81,6 @@ Initial release.
 
 # Features
 
-Here's the full list of improvements. Each can be turned on and off individually, if you like.
-
 ##### Script fixes
 
 A full proofreading pass of the game has been completed, fixing slight grammatical issues, minor typos and wording issues, as well as an extensive amount of inconsistencies with text formatting and a handful of translation fixes. Also includes display fixes in Suzuha's route.
@@ -199,6 +197,9 @@ This project includes a number of third-party components. See [this page](https:
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-gog.svg" | relative_url }}">
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
 - [STEINS;GATE ELITE Improvement Patch]({{ "/projects/sge-patch.html" | relative_url }})
+  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
+- [STEINS;GATE: Variant Space Octet Translation Patch]({{ "/projects/sgvso-patch.html" | relative_url }})
+- [STEINS;GATE: My Darling's Embrace Improvement Patch]({{ "/projects/sgmde-patch.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [ROBOTICS;NOTES ELITE Steam Patch]({{ "/projects/rne-steam.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">

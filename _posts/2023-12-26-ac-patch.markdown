@@ -139,6 +139,7 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 
 - **Translation Checkers**: ItsRigs, Enorovan, Leah, ChrisGLink
 - **Song Translations**: ItsRigs (Translation), Kumin (Editing)
+- **Subtitles**: zahj
 - **Image Editors**: Choccy, Enorovan
 - **Developers**: BoilingTeapot, Bloody, Enorovan
 
@@ -155,6 +156,9 @@ This project includes a number of third-party components. See [this page]({{ "/p
 - [STEINS;GATE Steam Patch]({{ "/projects/sghd.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [STEINS;GATE ELITE Improvement Patch]({{ "/projects/sge-patch.html" | relative_url }})
+  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
+- [STEINS;GATE: Variant Space Octet Translation Patch]({{ "/projects/sgvso-patch.html" | relative_url }})
+- [STEINS;GATE: My Darling's Embrace Improvement Patch]({{ "/projects/sgmde-patch.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [ROBOTICS;NOTES ELITE Steam Patch]({{ "/projects/rne-steam.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
