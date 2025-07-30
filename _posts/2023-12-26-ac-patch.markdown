@@ -16,7 +16,7 @@ Now, you may be wonderin' how I got in... Well, see, our common friends over at 
 <code><a style="color: teal; text-decoration: none;">90110n</a>@<a style="color: teal; text-decoration: none;">nakano-symphonies</a>:~$ cat /dev/stderr</code>
 
 <div style="border: 1px solid #fff; padding: 8px;">
-  <a style="color: red; text-decoration: none;">All right Pollon, you got us. Again. But if you're not gonna give us back the reins without a fight, could you at least clue them in on our patch?</a>
+  <a style="color: red; text-decoration: none;">All right, Pollon, you got us. Again. But if you're not gonna give us back the reins without a fight, could you at least clue them in on our patch?</a>
 </div>
 
 You're not mad? Huh, cool. Sure, I'll lend a hand! After all, we're anons with bright futures ahead of us, and we can't sit idly by when someone's in need!
@@ -68,7 +68,7 @@ Initial release.
 
 As this localization includes an English dub, we're offering two different patches: Partial and Full.
 
-The Partial patch adds subtitles for songs and voice-only lines, but in the interest of immersion in regard to the EN dub, does not fix series-wide inconsistencies and grammar mistakes. This is because these changes would cause the written lines to occasionally not match the spoken ones in the dub.
+The Partial patch adds subtitles for songs and voice-only lines, but in the interest of immersion in regard to the EN dub, it does not fix series-wide inconsistencies and grammar mistakes. This is because these changes would cause the written lines to occasionally not match the spoken ones in the dub.
 
 The Full patch includes all of these fixes, as well as the subtitles. If you are playing with JP voices or do not mind some discrepancies with the EN dub, we suggest the Full patch. Both voice tracks are _stellar_, so this option is truly up to you.
 
@@ -76,17 +76,17 @@ If you wish to play with the Full patch, check the first box at the bottom of th
 
 ##### Script fixes
 
-A full proofreading pass of the game has been completed, fixing slight grammatical issues, minor typos and wording issues, inconsistencies with text formatting, and a handful of translation fixes. Special attention was paid to maintaining series-wide consistency.
+A full proofreading pass of the game has been completed, fixing slight grammatical issues, minor typos and wording issues, a handful of mistranslations, and inconsistencies with text formatting. Special attention was paid to maintaining series-wide consistency.
 
 The full breadth of this will be included in the Full patch; in the Partial patch, only non-dialogue lines will be changed.
 
 ##### Translated CGs
 
-Translated a number of CGs and BGs, as well as fixed some terminology and typesetting errors present in other images.
+Translated a number of CGs and BGs; also fixed some terminology and typesetting errors present in other images.
 
 ##### Subbed lines
 
-The game features a number of lines that are voice-only and thus have no accompanying text, leaving those who play the game with JP voices out of luck. We have rectified this issue, subbing all 500+ different voice lines. These are toggled on by default, but can be turned off in the launcher if you would prefer.
+The game features a number of lines that are voice-only and thus have no accompanying text, leaving those who play the game with JP voices out of luck. We have rectified this issue, subbing all 500+ different voice lines. These are toggled on by default, but they can be turned off in the launcher if you would prefer.
 
 ##### Karaoke subtitles
 

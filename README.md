@@ -1,6 +1,6 @@
 # committeeofzero.github.io
 
-The website of Committe of Zero over at [sonome.dareno.me](https://sonome.dareno.me).
+The website of Committee of Zero over at [sonome.dareno.me](https://sonome.dareno.me).
 
 Built with [Jekyll](https://jekyllrb.com/).
 

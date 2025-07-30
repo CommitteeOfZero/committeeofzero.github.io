@@ -9,7 +9,7 @@ excerpt: <p>Greetings and salutations, lab mems and Gigalomaniacs.</p>
 
 Greetings and salutations, lab mems and gigalomaniacs. We’re guessing since you’re here, you must have heard of the recent(ish) release of STEINS;GATE on Steam. We also assume you know it has several significant flaws which made playing it uncomfortable. We set out to fix those flaws, improve upon the release and make this the best version of STEINS;GATE out there.
 
-**UPDATE:** That was nearly five years ago now. Can you believe it? Well, a promise is a promise, and we've finally gotten around to releasing this major update for the STEINS;GATE Steam patch! Throughout the years, we've gained more and more experience working with this series, so it was only natural that someday we'd return to the project that started it all! Even though STEINS;GATE still remains as a top-of-the-line localization, there's always a _few_ things to fix, aren't there? Now then, without further ado, let the 19790th development council commence!
+**UPDATE:** That was nearly five years ago now. Can you believe it? Well, a promise is a promise, and we've finally gotten around to releasing this major update for the STEINS;GATE Steam patch! Throughout the years, we've gained more and more experience working with this series, so it was only natural that someday we'd return to the project that started it all! Even though STEINS;GATE still remains as a top-of-the-line localization, there's always a _few_ things to fix, aren't there? Now then, without further ado, let the 19,790th development council commence!
 
 <div style="border: 1px solid #fff; padding: 8px;">
 Download link and instructions are <a href="#installation">↓ below</a>.
@@ -83,7 +83,7 @@ Initial release.
 
 ##### Script fixes
 
-A full proofreading pass of the game has been completed, fixing slight grammatical issues, minor typos and wording issues, as well as an extensive amount of inconsistencies with text formatting and a handful of translation fixes. Also includes display fixes in Suzuha's route.
+A full proofreading pass of the game has been completed, fixing slight grammatical issues, minor typos, wording issues, and mistranslations, as well as an extensive number of text formatting inconsistencies. Also includes display fixes in Suzuha's route.
 
 ##### Checked TIPS
 
@@ -91,7 +91,7 @@ A full translation check of the TIPS has been completed, fixing minor terminolog
 
 ##### Cosplay Patch
 
-Reimplements the Cosplay Patch from the non-HD Japanese PC versions of STEINS;GATE using proper upscaling. You'll be able to (re)experience the game with the entirety of the characters wearing costumes/cosplay! Don't forget to thank Mayuri for this find!
+Reimplements the Cosplay Patch from the non-HD Japanese PC versions of STEINS;GATE using proper upscaling. You'll be able to (re)experience the game with all characters wearing costumes/cosplay! Don't forget to thank Mayuri for this find!
 
 If you're curious about who is cosplaying who, or just can't figure out how to get started, head over [here]({{ "/2022/10/23/steinsgate-cosplay-help.html" | relative_url }}).
 
@@ -182,7 +182,7 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 - **Subtitles**: zahj, SnowedEarth, Cypert
 - **Video editing**: LkProd
 
-Translated lyrics for 'Skyclad Observer', 'Farfalla of Fate' and 'A.R.' taken from the previous JAST USA release of STEINS;GATE.
+Translated lyrics for 'Skyclad Observer,' 'Farfalla of Fate,' and 'A.R.' taken from the previous JAST USA release of STEINS;GATE.
 
 Special thanks to grechnik for contributing to our open-source repository!
 

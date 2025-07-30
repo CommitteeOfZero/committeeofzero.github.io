@@ -7,7 +7,7 @@ date: 2024-10-15 12:00:00 +0000
 excerpt: <p>The patch for the "ELITE" version of STEINS;GATE is now out!</p>
 ---
 
-The patch for the "ELITE" version of STEINS;GATE is now out! We know _absolutely everyone_ was asking for it so we delivered on the day of STEINS;GATE's 15th anniversary!
+The patch for the "ELITE" version of STEINS;GATE is now out! We know _absolutely everyone_ was asking for it, so we delivered on the day of STEINS;GATE's 15th anniversary!
 
 If you didn't catch the sarcasm, we still heavily recommend reading through the [original game first]({{ "/projects/sghd.html" | relative_url }}). However, if you're diving back in for a reread, or you're curious about the new animations, the new scenes, and what it looks like in general, this patch is here to make the difference in content a little less massive.
 
@@ -26,7 +26,7 @@ Download link and instructions are <a href="#installation">↓ below</a>.
 
 ##### Script fixes
 
-A full proofreading pass of the game has been completed, fixing slight grammatical issues, minor typos and wording issues, as well as an extensive amount of inconsistencies with text formatting and a handful of translation fixes. Also includes display fixes in Suzuha's route.
+A full proofreading pass of the game has been completed, fixing slight grammatical issues, minor typos, mistranslations, and wording issues, as well as an extensive number of text formatting inconsistencies. Also includes display fixes in Suzuha's route.
 
 ##### Karaoke subtitles
 
