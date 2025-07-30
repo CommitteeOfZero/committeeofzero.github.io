@@ -41,8 +41,8 @@ active_tab: projects
 
 #### Work in progress
 
-- **[CHAOS;HEAD Love Chu☆Chu! Fan-translation and Ports]({{ "/2025/07/28/committee-of-zero-progress-update-12.html" | relative_url }})**
-- **[CHAOS;CHILD Love Chu☆Chu!! Fan-translation and Ports]({{ "/2025/07/28/committee-of-zero-progress-update-12.html" | relative_url }})**
+- **[CHAOS;HEAD Love Chu☆Chu! Fan translation and Ports]({{ "/2025/07/28/committee-of-zero-progress-update-12.html" | relative_url }})**
+- **[CHAOS;CHILD Love Chu☆Chu!! Fan translation and Ports]({{ "/2025/07/28/committee-of-zero-progress-update-12.html" | relative_url }})**
 - Switch Patches
   - [CHAOS;CHILD Improvement Patch]({{ "/projects/chaoschild-steam.html" | relative_url }})
     <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">

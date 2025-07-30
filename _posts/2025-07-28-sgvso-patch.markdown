@@ -9,7 +9,7 @@ excerpt: <p>Experience this STEINS;GATE afterstory in 8-bit!</p>
 
 Experience this STEINS;GATE afterstory in 8-bit!
 
-Unexpected as it is, we patched this very niche entry, as it contains a lot of interesting setup for the series overarching science, as well as a few references to the CHAOS;HEAD entries. We also tried to make it less annoying to set up.
+Unexpected as it is, we patched this very niche entry, as it contains a lot of interesting setup for the series's overarching science, as well as a few references to the CHAOS;HEAD entries. We also tried to make it less annoying to set up.
 
 Enjoy this short sequel in a known yet different world…
 
@@ -34,13 +34,13 @@ A full translation check of the game has been completed, fixing mistranslations,
 
 Translated a number of CGs relevant to gameplay.
 
-##### Point of view selection
+##### Point-of-view selection
 
-You can choose to play in first person, like the game was written in, or in second person, the more traditional way for the genre in the west. Use the in-game configuration to select the mode.
+You can choose to play in first person, like the game was written in, or in second person, the more traditional way for the genre in the West. Use the in-game configuration to select the mode.
 
 ##### Engine update
 
-By upgrading the game from krkr2 to krkrz, we made it so that you don’t need to change your locale anymore. You can now enjoy the game with less headache. Also we provided more resolution settings, available in the in-game configuration.
+By upgrading the game from krkr2 to krkrz, we made it so that you don’t need to change your locale anymore. You can now enjoy the game with less headache. Also, we provided more resolution settings, available in the in-game configuration.
 
 # <a name="installation"></a>Installation instructions
 
