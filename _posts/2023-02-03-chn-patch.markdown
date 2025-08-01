@@ -38,6 +38,11 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 1.1.2 _(Aug 1, 2025)_
+
+- Steam & GOG
+  - Fixed the 0xc0000142 error some users had.
+
 ##### Version 1.1.1 _(Jul 22, 2025)_
 
 - All
@@ -57,6 +62,7 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 - Steam & GOG
   - Added mousewheel support to save and CG menus.
+  - Fixed a crash in Chapter 5 on Intel Pentium.
 
 - GOG
   - Fixed installation.
