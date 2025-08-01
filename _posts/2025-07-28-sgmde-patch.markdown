@@ -9,11 +9,11 @@ excerpt: <p>This is a lab mem story that could have been.</p>
 
 This is a lab mem story that could have been.
 
-Welcome to the Delta Attractor Field! Here you’ll get to enjoy some good time with the STEINS;GATE cast, and explore many possibilities.
+Welcome to the Delta Attractor Field! Here, you’ll get to enjoy some good time with the STEINS;GATE cast and explore many possibilities.
 
-Just like Phenogram, My Darling’s Embrace is a very similar game to the original STEINS;GATE, and so it also shares features with it. On the language side, it had a better base than Phenogram, but still needed a full on check, especially on terminology.
+Just like Phenogram, My Darling’s Embrace is a very similar game to the original STEINS;GATE, so it also shares features with it. On the language side, it had a better base than Phenogram, but it still needed a full-on check, especially its terminology.
 
-Now go ahead, and adjust the divergence to any value *you*’d like.
+Now, go ahead and adjust the divergence to any value *you*’d like.
 
 <div style="border: 1px solid #fff; padding: 8px;">
 Download link and instructions are <a href="#installation">↓ below</a>.
@@ -36,11 +36,11 @@ A full translation check of the game has been completed, fixing mistranslations,
 
 ##### Bug fixes
 
-Fixed two bugs related to the phone, one where an interactive email's hitbox was going for too long, and another where the phone would pop in and pop out every few lines during a video call.
+Fixed two bugs related to the phone: one where an interactive email's hitbox ran too long, and another where the phone would pop in and pop out every few lines during a video call.
 
 ##### Translated CGs
 
-Translated a number of CGs and BGs, as well as fixed some terminology and typesetting errors present in other images.
+Translated a number of CGs and BGs; also fixed some terminology and typesetting errors present in other images.
 
 ##### Better typography
 
