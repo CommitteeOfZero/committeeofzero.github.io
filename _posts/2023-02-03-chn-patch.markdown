@@ -48,6 +48,8 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 - Steam & GOG
   - Fixed the 0xc0000142 error some users had.
+- Switch
+  - Fixed a crash after delusion triggers.
 
 ##### Version 1.1.1 _(Jul 22, 2025)_
 
