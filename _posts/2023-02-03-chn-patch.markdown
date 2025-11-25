@@ -190,7 +190,7 @@ Can be installed over every version of the game without breaking existing saves.
 
 ### Steam
 
-1. **[↓ Download the installer](https://github.com/CommitteeOfZero/chn-patch/releases).** You want `CHNSteamPatch-v<version>-Setup.zip`, not the source code.
+1. **[↓ Download the installer](https://github.com/CommitteeOfZero/chn-patch/releases).** You want `CHNSteamPatch-v<version>-Setup.7z`, not the source code.
 2. Extract the archive somewhere on your hard drive, not in your game directory.
 3. Make sure that you have installed the [Costume DLC](https://store.steampowered.com/app/2103330/CHAOSHEAD_NOAH__COSTUME_DLC/) and that **Steam is currently open.**
 4. Go to the newly created `CHNSteamPatch-v<version>-Setup` folder and run `CHNSteamPatch-Installer.exe`. **Warning:** Has sound.
@@ -201,7 +201,7 @@ Can be installed over every version of the game without breaking existing saves.
 
 ### GOG
 
-1. **[↓ Download the installer](https://github.com/CommitteeOfZero/chn-patch/releases).** You want `CHNGOGPatch-v<version>-Setup.zip`, not the source code.
+1. **[↓ Download the installer](https://github.com/CommitteeOfZero/chn-patch/releases).** You want `CHNGOGPatch-v<version>-Setup.7z`, not the source code.
 2. Extract the archive somewhere on your hard drive, not in your game directory.
 3. Make sure that you have installed the [Costume DLC](https://www.gog.com/en/game/chaos_head_noah_costume_dlc).
 4. Go to the newly created `CHNGOGPatch-v<version>-Setup` folder and run `CHNGOGPatch-Installer.exe`. **Warning:** Has sound.
@@ -285,6 +285,7 @@ This project includes a number of third-party components. See [this page]({{ "/p
 - [CHAOS;CHILD Improvement Patch]({{ "/projects/chaoschild-steam.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-gog.svg" | relative_url }}">
+  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
 - [STEINS;GATE 0 Steam Patch]({{ "/projects/sg0-steam.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [ROBOTICS;NOTES DaSH Steam Patch]({{ "/projects/rnd-steam.html" | relative_url }})

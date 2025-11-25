@@ -34,6 +34,13 @@ If you want a spoiler-free guide on how to obtain every ending, you can find one
 
 # Changelog
 
+##### Version 2.2.0 _(Nov 25, 2025)_
+
+- Switch compatibility.
+  - Fixed a bug where BGM was lowered during voice lines.
+- Minor text and consistency fixes.
+- Additional CGs and Videos translated.
+
 ##### Version 2.1.0 _(Sep 14, 2024)_
 
 - Minor text and consistency fixes.
@@ -143,13 +150,37 @@ Much of the system/menu text has been re-translated for comprehensibility. Backl
 
 # Installation instructions
 
-1. **[↓ Download the installer](https://github.com/CommitteeOfZero/cc-patch/releases).** You want `CCPatch-v<version>-Setup.zip`, not the source code.
+### Steam
+
+1. **[↓ Download the installer](https://github.com/CommitteeOfZero/cc-patch/releases).** You want `CCSteamPatch-v<version>-Setup.zip`, not the source code.
 2. Extract the archive somewhere on your hard drive, not in your game directory.
-3. Go to the newly created `CCPatch-v<version>-Setup` folder and run `CCPatch-Installer.exe`. **Warning:** Has sound.
+3. Go to the newly created `CCSteamPatch-v<version>-Setup` folder and run `CCSteamPatch-Installer.exe`. **Warning:** Has sound.
 
 - If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
 
-4. After you click _Finish_ and the installer closes, you can delete the `CCPatch-v<version>-Setup` folder.
+4. After you click _Finish_ and the installer closes, you can delete the `CCSteamPatch-v<version>-Setup` folder.
+
+### GOG
+
+1. **[↓ Download the installer](https://github.com/CommitteeOfZero/cc-patch/releases).** You want `CCGOGPatch-v<version>-Setup.zip`, not the source code.
+2. Extract the archive somewhere on your hard drive, not in your game directory.
+3. Go to the newly created `CCGOGPatch-v<version>-Setup` folder and run `CCGOGPatch-Installer.exe`. **Warning:** Has sound.
+
+- If the installer quits with an error about `MSVCP140_1.dll`, install [Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) (32-bit version, vc_redist.x86.exe - regardless of your system) and try again.
+
+4. After you click _Finish_ and the installer closes, you can delete the `CCGOGPatch-v<version>-Setup` folder.
+
+### CFW Switch
+
+#### US
+
+1. **[↓ Download the patch archive](https://github.com/CommitteeOfZero/cc-patch/releases).** You want `CCSwitchUSPatch-v<version>-Setup.zip`, not the source code.
+2. Extract its content to the root of your Switch SD card.
+
+#### EU
+
+1. **[↓ Download the patch archive](https://github.com/CommitteeOfZero/cc-patch/releases).** You want `CCSwitchEUPatch-v<version>-Setup.zip`, not the source code.
+2. Extract its content to the root of your Switch SD card.
 
 # Troubleshooting
 
@@ -189,7 +220,7 @@ Update Windows. You may need to install the Visual C++ 2015 Redistributable Upda
 
 - **Translation**: Rain, ItsRigs, MrComputerRevo, Ice, Enorovan, ChrisGLink
 - **Editing**: Kumin, Discontinuous Qualia, Spider
-- **Image editing**: Cypert, dusk, rimi, MrComputerRevo, Kumin, Raykable, Zips, Enorovan, Rile_Zugo
+- **Image editing**: Cypert, dusk, rimi, MrComputerRevo, Kumin, Raykable, Zips, Enorovan, Rile_Zugo, Choccy, Gunoshozo
 - **Hacking**: SomeAnon, daxxy, MrComputerRevo, JoseJL, Enorovan
 - **Subtitles**: zahj
 - **QC**: Spider
