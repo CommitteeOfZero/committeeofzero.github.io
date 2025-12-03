@@ -1,11 +1,22 @@
 ---
-layout: page
-title: Projects
-permalink: /projects/
+title: "Love Chu☆Chu!!! Double Pack Translation Patch - Announcement Trailer"
+layout: post
+permalink: "/projects/lcc-dp-trailer.html"
 active_tab: projects
+date: 2025-11-25 00:00:00 +0000
+excerpt: <br/><div class="youtube-wrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K5DUMwSiZso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+---
+## Love Chu☆Chu!!! Double Pack Translation Patch - Announcement Trailer
+
+<div class="youtube-wrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K5DUMwSiZso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Latest Progress Report
+
+You can find it [here]({{ "/2025/07/28/committee-of-zero-progress-update-12.html" | relative_url }}).
+
 ---
 
-#### Completed releases
+# See our other patches
 
 - [CHAOS;HEAD NOAH Overhaul Patch]({{ "/projects/chn-patch.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
@@ -15,7 +26,6 @@ active_tab: projects
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [STEINS;GATE ELITE Improvement Patch]({{ "/projects/sge-patch.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
-- [STEINS;GATE: Variant Space Octet Translation Patch]({{ "/projects/sgvso-patch.html" | relative_url }})
 - [STEINS;GATE: My Darling's Embrace Improvement Patch]({{ "/projects/sgmde-patch.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [ROBOTICS;NOTES ELITE Steam Patch]({{ "/projects/rne-steam.html" | relative_url }})
@@ -32,31 +42,3 @@ active_tab: projects
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 - [ANONYMOUS;CODE Improvement Patch]({{ "/projects/ac-patch.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
-
-#### Outdated
-
-- [CHAOS;CHILD PC English Patch]({{ "/projects/chaoschild.html" | relative_url }}) - obsoleted by the [Steam Patch]({{ "/projects/chaoschild-steam.html" | relative_url }})
-- [STEINS;GATE 0 PC English Patch]({{ "/projects/sg0.html" | relative_url }}) - obsoleted by the [Steam Patch]({{ "/projects/sg0-steam.html" | relative_url }})
-- [ANONYMOUS;CODE Chapter 1 Stream Fan Translation](https://www.youtube.com/playlist?list=PLeViZIz-t1nfNxhH1MUmD6xzSU9c7n6_8)
-  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/soc-icon-yt.svg" | relative_url }}"> - obsoleted by the [Improvement Patch]({{ "/projects/ac-patch.html" | relative_url }})
-
-#### Work in progress
-
-- **[CHAOS;HEAD Love Chu☆Chu! Fan translation and Ports]({{ "/projects/lcc-dp-trailer.html" | relative_url }})**
-- **[CHAOS;CHILD Love Chu☆Chu!! Fan translation and Ports]({{ "/projects/lcc-dp-trailer.html" | relative_url }})**
-- Switch Patches
-  - [ROBOTICS;NOTES ELITE Improvement Patch]({{ "/projects/rne-steam.html" | relative_url }})
-    <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
-  - [ROBOTICS;NOTES DaSH Improvement Patch]({{ "/projects/rnd-steam.html" | relative_url }})
-    <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
-  - [STEINS;GATE ELITE Improvement Patch]({{ "/projects/sge-patch.html" | relative_url }})
-    <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
-  - [STEINS;GATE: My Darling's Embrace Improvement Patch]({{ "/projects/sgmde-patch.html" | relative_url }})
-    <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
-  - [STEINS;GATE 0 Improvement Patch]({{ "/projects/sg0-steam.html" | relative_url }})
-    <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
-- CHAOS;HEAD NOAH Nitrosharp Port
-
-#### Supporting technology
-
-If you're a bad enough nerd, you can find [a listing of the technology we've published here]({{ "/projects/supporting-technology.html" | relative_url }}).
