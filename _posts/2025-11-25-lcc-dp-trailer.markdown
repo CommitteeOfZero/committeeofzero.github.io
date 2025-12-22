@@ -44,7 +44,7 @@ fetch('https://api.github.com/repos/CommitteeOfZero/impacto/milestones')
   });
 </script>
 
-\* This values are fetched automatically.
+\* These values are fetched automatically.
 
 ## Translation
 
