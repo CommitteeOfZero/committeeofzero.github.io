@@ -3,7 +3,7 @@ title: "STEINS;GATE Steam Patch"
 layout: post
 permalink: "/projects/sghd.html"
 active_tab: projects
-date: 2016-11-21 01:04:37 +0100
+date: 2016-11-20 01:04:37 +0100
 excerpt: <p>Greetings and salutations, lab mems and Gigalomaniacs.</p>
 ---
 
@@ -75,7 +75,7 @@ Download link and instructions are <a href="#installation">↓ below</a>.
 
 - Fixed crash relating to HQ Audio functionality.
 
-##### Version 1.0 _(Nov 21, 2016)_
+##### Version 1.0 _(Nov 20, 2016)_
 
 Initial release.
 
