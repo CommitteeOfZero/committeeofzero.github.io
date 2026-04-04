@@ -126,8 +126,7 @@ One of the more notable changes in the v2.0 patch.
 The localizations of the original STEINS;GATE, as well as Linear Bounded Phenogram, My Darling’s Embrace,
 and even the upcoming ROBOTICS;NOTES ELITE and ROBOTICS;NOTES DaSH all use Japanese honorifics, so why shouldn’t STEINS;GATE 0?
 
-Thanks to the help of the incredible Enorovan, who carefully combed through all the text in the game,
-we’ve created an option to add Japanese honorifics back into the game, alongside a new glossary definition explaining them
+After carefully combing through all the text in the game, we’ve brought the Japanese honorifics back into the game, alongside a new glossary definition explaining them
 (just like in the original STEINS;GATE localization)!
 
 ##### Typography improvements
