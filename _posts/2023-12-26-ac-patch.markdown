@@ -137,7 +137,7 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 
 # Credits
 
-- **Translation Checkers**: ItsRigs, Enorovan, Leah, ChrisGLink
+- **Translation Checkers**: ItsRigs, Enorovan, ChrisGLink
 - **Song Translations**: ItsRigs (Translation), Kumin (Editing)
 - **Subtitles**: zahj
 - **Image Editors**: Choccy, Enorovan
