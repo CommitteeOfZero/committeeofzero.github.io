@@ -10,7 +10,7 @@ active_tab: guides
 - [CHAOS;HEAD NOAH]({{ "/projects/chn-walkthrough.html" | relative_url }})
 - [STEINS;GATE by Kiri Kiri Basara]({{ "https://www.kirikiribasara.com/2025/01/09/steinsgate-100-guide/" }})*
 - [STEINS;GATE ELITE by Kiri Kiri Basara]({{ "https://www.kirikiribasara.com/2020/11/05/steinsgate-elite-100-guide/" }})*
-- [STEINS;GATE: Variant Space by Kiri Kiri Basara]({{ "https://www.kirikiribasara.com/2025/12/03/steinsgate-variant-space-octet-guide/" }})
+- [STEINS;GATE: Variant Space Octet by Kiri Kiri Basara]({{ "https://www.kirikiribasara.com/2025/12/03/steinsgate-variant-space-octet-guide/" }})
 - [STEINS;GATE: My Darling's Embrace by Kiri Kiri Basara]({{ "https://www.kirikiribasara.com/2020/12/09/steinsgate-my-darlings-embrace-100-guide/" }})*
 - [ROBOTICS;NOTES ELITE]({{ "/projects/rne-walkthrough.html" | relative_url }})
 - [CHAOS;CHILD]({{ "/projects/cc-walkthrough.html" | relative_url }})
