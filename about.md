@@ -39,7 +39,6 @@ No matter who they may be, our techies are experts at what they do, and are able
 - **[PringlesGang](#)**: Impacto & C++ Virtuoso
 - **[Gunoshozo](#)**: Impacto & rUGP Virtuoso
 - **[Enorovan\*](https://x.com/Enorovan)**: Patches Manager & Maintainer / Website Maintainer / Impacto & Tooling Developer
-- **[solanni\*](https://x.com/solannileynkh)**: Lead Switch Patches Developer / Impacto & Tooling Developer
 
 #### Translation
 
@@ -50,7 +49,6 @@ Be it contribution to the (re-)translation of assets and scripts in improvement 
 - **[ItsRigs](https://x.com/Chaos_World_300)**: CHAOS;HEAD Series Head Translator
 - **[ChrisGLink\*](https://x.com/ChrisGLink2)**: Head Editor / CHAOS; Series Translator
 - **[Enorovan\*](https://x.com/Enorovan)**: CHAOS; Series Translator & Project Manager / Patches Manager & Maintainer
-- **[solanni\*](https://x.com/solannileynkh)**: CHAOS;HEAD NOAH Translator / JPR
 - **[BlabbityBla](https://x.com/BlaBlabbity)**: CHAOS;HEAD NOAH Translator
 - **[Jake](https://x.com/futotorofu)**: CHAOS;CHILD Love Chu☆Chu!! Translator
 
@@ -87,7 +85,6 @@ When we tweet that's them, basically.
 - **[ChrisGLink\*](https://x.com/ChrisGLink2)**
 - **[Kumin\*](mailto:kumin@dareno.me)**
 - **[Raniel](mailto:raniel@dareno.me)**
-- **[solanni\*](https://x.com/solannileynkh)**: Japanese PR
 
 ### Inactive/Past members
 
