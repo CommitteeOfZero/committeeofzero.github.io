@@ -103,7 +103,7 @@ Update Windows. You may need to install the Visual C++ Redistributable again aft
 - **Image editing**: Choccy, Bloody, Enorovan, Rile_Zugo, LkProd
 - **Hacking**: JoseJL, Dextinfire, Enorovan, SomeAnon, daxxy, MrComputerRevo
 - **QC**: Dextinfire, Llednar
-- **Translation**: Enorovan, fl4t_is_justice
+- **Translation**: Enorovan
 - **Subtitles**: zahj, Enorovan
 - **Subtitles editing**: Kumin
 - **Video editing**: Rile_Zugo
