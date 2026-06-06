@@ -12,7 +12,7 @@ excerpt: <br/><div class="youtube-wrapper"><iframe width="560" height="315" src=
 
 ## Latest Progress Report
 
-You can find it [here]({{ "/2025/07/28/committee-of-zero-progress-update-12.html" | relative_url }}).
+You can find it [here]({{ "/2026/06/06/committee-of-zero-progress-update-13.html" | relative_url }}).
 
 # Current Progress
 
