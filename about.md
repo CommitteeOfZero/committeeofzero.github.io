@@ -37,9 +37,9 @@ No matter who they may be, our techies are experts at what they do, and are able
 - **[PringlesGang](#)**: Impacto Engineer
 - **[Gunoshozo](#)**: Impacto & rUGP Engineer
 - **[JoseJL](mailto:josejl1987@gmail.com)**: LanguageBarrier Lead Engineer
-- **[solanni\*](https://x.com/solannileynkh)**: Lead Switch & coalesc3 Engineer
+- **[solanni\*](https://x.com/solannileynkh)**: Switch & coalesc3 Lead Engineer
 - **[sa.exe (aka SomeAnon)](https://x.com/SomeAnonDev)**: Nitrosharp Lead Engineer
-- **[MrComputerRevo](https://x.com/MrComputerRevo)**: Impacto Founder Engineer
+- **[MrComputerRevo](https://x.com/MrComputerRevo)**: Founding Impacto Engineer
 
 #### Translation
 
