@@ -32,13 +32,14 @@ _“CHAOS; Series” means all three of our full translation projects._
 
 No matter who they may be, our techies are experts at what they do, and are able to reverse engineer the most obscure code, as well as build incredible tooling next to our main projects!
 
-- **[sa.exe (aka SomeAnon)](https://x.com/SomeAnonDev)**: Nitrosharp Lead Developer / Tooling Developer
-- **[MrComputerRevo](https://x.com/MrComputerRevo)**: Impacto Lead Developer
-- **[JoseJL](mailto:josejl1987@gmail.com)**: LanguageBarrier(32 & 64) Lead Developer
-- **[Dextinfire](#)**: Impacto & C++ Virtuoso
-- **[PringlesGang](#)**: Impacto & C++ Virtuoso
-- **[Gunoshozo](#)**: Impacto & rUGP Virtuoso
-- **[Enorovan\*](https://x.com/Enorovan)**: Patches Manager & Maintainer / Website Maintainer / Impacto & Tooling Developer
+- **[Enorovan\*](https://x.com/Enorovan)**: Engineering Manager
+- **[Dextinfire](#)**: Impacto Engineer
+- **[PringlesGang](#)**: Impacto Engineer
+- **[Gunoshozo](#)**: Impacto & rUGP Engineer
+- **[JoseJL](mailto:josejl1987@gmail.com)**: LanguageBarrier Lead Engineer
+- **[solanni\*](https://x.com/solannileynkh)**: Lead Switch & coalesc3 Engineer
+- **[sa.exe (aka SomeAnon)](https://x.com/SomeAnonDev)**: Nitrosharp Lead Engineer
+- **[MrComputerRevo](https://x.com/MrComputerRevo)**: Impacto Founder Engineer
 
 #### Translation
 
@@ -48,7 +49,8 @@ Be it contribution to the (re-)translation of assets and scripts in improvement 
 
 - **[ItsRigs](https://x.com/Chaos_World_300)**: CHAOS;HEAD Series Head Translator
 - **[ChrisGLink\*](https://x.com/ChrisGLink2)**: Head Editor / CHAOS; Series Translator
-- **[Enorovan\*](https://x.com/Enorovan)**: CHAOS; Series Translator & Project Manager / Patches Manager & Maintainer
+- **[Enorovan\*](https://x.com/Enorovan)**: CHAOS; Series Translator & Project Manager / Patches & Website Maintainer
+- **[solanni\*](https://x.com/solannileynkh)**: CHAOS;HEAD NOAH Translator / JPR
 - **[BlabbityBla](https://x.com/BlaBlabbity)**: CHAOS;HEAD NOAH Translator
 - **[Jake](https://x.com/futotorofu)**: CHAOS;CHILD Love Chu☆Chu!! Translator
 
@@ -70,7 +72,6 @@ Text is good but what would we do if our background images and our cutscenes wer
 - **[Rile_Zugo](https://x.com/rile_zugo)**: CG Editor
 - **[Bloody](#)**: CG Editor
 - **[Zips](https://x.com/ZiShoR)**: CG Editor / Resident Coffee Maker
-- **[Choccy](https://x.com/ChoccyHolly)**: CG Editor
 
 #### Karaoke Subtitles
 
@@ -85,6 +86,8 @@ When we tweet that's them, basically.
 - **[ChrisGLink\*](https://x.com/ChrisGLink2)**
 - **[Kumin\*](mailto:kumin@dareno.me)**
 - **[Raniel](mailto:raniel@dareno.me)**
+- **[solanni\*](https://x.com/solannileynkh)**: Japanese PR
+- **[Enorovan\*](https://x.com/Enorovan)**: Progress Reports
 
 ### Inactive/Past members
 
@@ -99,9 +102,10 @@ When we tweet that's them, basically.
 - **[milkyzer0](#)**: CG Editor
 - **[Spider](#)**: Quality Assurance
 - **[Rain](#)**: Translator / TLC
-- **[daxxy](https://x.com/DrDaxxy)**: Former Lead Developer / Reverse Engineer / Website
+- **[daxxy](https://x.com/DrDaxxy)**: Former Lead Engineer / Website
 - **[Discontinuous Qualia](https://x.com/DiscontinuousQ)**: Quality Assurance
 - **[Seralyne](https://x.com/Seralyne_)**: Botmaster / Resident Slacker
+- **[Choccy](https://x.com/ChoccyHolly)**: CG Editor
 
 ### Other Contributors
 
