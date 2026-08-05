@@ -71,7 +71,33 @@ And that’s it! As you may have gathered, there is still a lot to be done on th
 
 And of course, for what will likely be for the last time, a reminder that all of this is open-source. Anyone can contribute, especially when it comes to lending a hand on the smaller tasks; the more help we get, the closer the ports get to completion. You can find the repository [on GitHub](https://github.com/CommitteeOfZero/impacto).
 
-You can also check the ports’ progress updated live over [here]({{ "/projects/lcc-dp-trailer.html" | relative_url }}).
+### Current Progress
+
+Note that the number of issues isn't final, and that issues themselves vary in size.
+
+<div id="milestones"></div>
+<script>
+fetch('https://api.github.com/repos/CommitteeOfZero/impacto/milestones')
+  .then(res => res.json())
+  .then(data => {
+    const container = document.getElementById('milestones');
+    data.sort((a, b) =>
+      b.title.localeCompare(a.title, undefined, { sensitivity: 'base' })
+    );
+    container.innerHTML = data.map(milestone =>
+      `<div style="border: 1px solid #fff; padding: 8px;">
+         <h3><a href="${milestone.html_url}" target="_blank" rel="noopener noreferrer">${milestone.title}</a></h3>
+         <ul>
+          <li><u>Open Issues:</u> ${milestone.open_issues}</li>
+          <li><u>Closed Issues:</u> ${milestone.closed_issues}</li>
+          <li><b><u>Total Completion:</u> ${((milestone.closed_issues/(milestone.open_issues + milestone.closed_issues))*100).toFixed(2)}%</b></li>
+         </ul>
+       </div>`
+    ).join('');
+  });
+</script>
+
+\* These values are fetched automatically.
 
 # All of this to say...?
 
