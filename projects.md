@@ -33,17 +33,11 @@ active_tab: projects
 - [ANONYMOUS;CODE Improvement Patch]({{ "/projects/ac-patch.html" | relative_url }})
   <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-steam.svg" | relative_url }}">
 
-#### Outdated
-
-- [CHAOS;CHILD PC English Patch]({{ "/projects/chaoschild.html" | relative_url }}) - obsoleted by the [Steam Patch]({{ "/projects/chaoschild-steam.html" | relative_url }})
-- [STEINS;GATE 0 PC English Patch]({{ "/projects/sg0.html" | relative_url }}) - obsoleted by the [Steam Patch]({{ "/projects/sg0-steam.html" | relative_url }})
-- [ANONYMOUS;CODE Chapter 1 Stream Fan Translation](https://www.youtube.com/playlist?list=PLeViZIz-t1nfNxhH1MUmD6xzSU9c7n6_8)
-  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/soc-icon-yt.svg" | relative_url }}"> - obsoleted by the [Improvement Patch]({{ "/projects/ac-patch.html" | relative_url }})
-
 #### Work in progress
 
 - **[CHAOS;HEAD Love Chu☆Chu! Fan translation and Ports]({{ "/projects/lcc-dp-trailer.html" | relative_url }})**
 - **[CHAOS;CHILD Love Chu☆Chu!! Fan translation and Ports]({{ "/projects/lcc-dp-trailer.html" | relative_url }})**
+- STEINS;GATE RE:BOOT Improvement Patch
 - Switch Patches
   - [ROBOTICS;NOTES ELITE Improvement Patch]({{ "/projects/rne-steam.html" | relative_url }})
     <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
@@ -56,6 +50,13 @@ active_tab: projects
   - [STEINS;GATE 0 Improvement Patch]({{ "/projects/sg0-steam.html" | relative_url }})
     <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/plat-icon-switch.svg" | relative_url }}">
 - CHAOS;HEAD NOAH Nitrosharp Port
+
+#### Outdated
+
+- [CHAOS;CHILD PC English Patch]({{ "/projects/chaoschild.html" | relative_url }}) - obsoleted by the [Steam Patch]({{ "/projects/chaoschild-steam.html" | relative_url }})
+- [STEINS;GATE 0 PC English Patch]({{ "/projects/sg0.html" | relative_url }}) - obsoleted by the [Steam Patch]({{ "/projects/sg0-steam.html" | relative_url }})
+- [ANONYMOUS;CODE Chapter 1 Stream Fan Translation](https://www.youtube.com/playlist?list=PLeViZIz-t1nfNxhH1MUmD6xzSU9c7n6_8)
+  <img style="width: 16px; height: 16px; margin: auto;" src="{{ "/assets/soc-icon-yt.svg" | relative_url }}"> - obsoleted by the [Improvement Patch]({{ "/projects/ac-patch.html" | relative_url }})
 
 #### Supporting technology
 
